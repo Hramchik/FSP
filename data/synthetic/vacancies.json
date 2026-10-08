@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "title": "Mobile lead engineer #1",
+    "specialization": "mobile",
+    "grade": "lead",
+    "skills": [
+      "java",
+      "sql",
+      "typescript"
+    ],
+    "description": "Нужен специалист mobile, уровень lead. Стек: java, sql, typescript."
+  },
+  {
+    "id": 2,
+    "title": "Qa middle engineer #2",
+    "specialization": "qa",
+    "grade": "middle",
+    "skills": [
+      "sql",
+      "pytest",
+      "python"
+    ],
+    "description": "Нужен специалист qa, уровень middle. Стек: sql, pytest, python."
+  },
+  {
+    "id": 3,
+    "title": "Qa junior engineer #3",
+    "specialization": "qa",
+    "grade": "junior",
+    "skills": [
+      "python",
+      "sql",
+      "pytest"
+    ],
+    "description": "Нужен специалист qa, уровень junior. Стек: python, sql, pytest."
+  },
+  {
+    "id": 4,
+    "title": "Mobile lead engineer #4",
+    "specialization": "mobile",
+    "grade": "lead",
+    "skills": [
+      "java",
+      "typescript",
+      "sql"
+    ],
+    "description": "Нужен специалист mobile, уровень lead. Стек: java, typescript, sql."
+  },
+  {
+    "id": 5,
+    "title": "Backend middle engineer #5",
+    "specialization": "backend",
+    "grade": "middle",
+    "skills": [
+      "sql",
+      "api-design",
+      "python"
+    ],
+    "description": "Нужен специалист backend, уровень middle. Стек: sql, api-design, python."
+  },
+  {
+    "id": 6,
+    "title": "Qa junior engineer #6",
+    "specialization": "qa",
+    "grade": "junior",
+    "skills": [
+      "python",
+      "sql",
+      "pytest"
+    ],
+    "description": "Нужен специалист qa, уровень junior. Стек: python, sql, pytest."
+  },
+  {
+    "id": 7,
+    "title": "Qa junior engineer #7",
+    "specialization": "qa",
+    "grade": "junior",
+    "skills": [
+      "sql",
+      "python",
+      "pytest"
+    ],
+    "description": "Нужен специалист qa, уровень junior. Стек: sql, python, pytest."
+  },
+  {
+    "id": 8,
+    "title": "Mobile senior engineer #8",
+    "specialization": "mobile",
+    "grade": "senior",
+    "skills": [
+      "typescript",
+      "sql",
+      "java"
+    ],
+    "description": "Нужен специалист mobile, уровень senior. Стек: typescript, sql, java."
+  },
+  {
+    "id": 9,
+    "title": "Devops senior engineer #9",
+    "specialization": "devops",
+    "grade": "senior",
+    "skills": [
+      "linux",
+      "docker",
+      "kubernetes"
+    ],
+    "description": "Нужен специалист devops, уровень senior. Стек: linux, docker, kubernetes."
+  },
+  {
+    "id": 10,
+    "title": "Devops junior engineer #10",
+    "specialization": "devops",
+    "grade": "junior",
+    "skills": [
+      "linux",
+      "kubernetes",
+      "docker"
+    ],
+    "description": "Нужен специалист devops, уровень junior. Стек: linux, kubernetes, docker."
+  },
+  {
+    "id": 11,
+    "title": "Mobile lead engineer #11",
+    "specialization": "mobile",
+    "grade": "lead",
+    "skills": [
+      "sql",
+      "typescript",
+      "java"
+    ],
+    "description": "Нужен специалист mobile, уровень lead. Стек: sql, typescript, java."
+  },
+  {
+    "id": 12,
+    "title": "Backend junior engineer #12",
+    "specialization": "backend",
+    "grade": "junior",
+    "skills": [
+      "api-design",
+      "python",
+      "go"
+    ],
+    "description": "Нужен специалист backend, уровень junior. Стек: api-design, python, go."
+  },
+  {
+    "id": 13,
+    "title": "Data lead engineer #13",
+    "specialization": "data",
+    "grade": "lead",
+    "skills": [
+      "statistics",
+      "python",
+      "sql"
+    ],
+    "description": "Нужен специалист data, уровень lead. Стек: statistics, python, sql."
+  },
+  {
+    "id": 14,
+    "title": "Data lead engineer #14",
+    "specialization": "data",
+    "grade": "lead",
+    "skills": [
+      "statistics",
+      "pytorch",
+      "sql"
+    ],
+    "description": "Нужен специалист data, уровень lead. Стек: statistics, pytorch, sql."
+  },
+  {
+    "id": 15,
+    "title": "Frontend senior engineer #15",
+    "specialization": "frontend",
+    "grade": "senior",
+    "skills": [
+      "typescript",
+      "javascript",
+      "react"
+    ],
+    "description": "Нужен специалист frontend, уровень senior. Стек: typescript, javascript, react."
+  },
+  {
+    "id": 16,
+    "title": "Data junior engineer #16",
+    "specialization": "data",
+    "grade": "junior",
+    "skills": [
+      "pytorch",
+      "python",
+      "statistics"
+    ],
+    "description": "Нужен специалист data, уровень junior. Стек: pytorch, python, statistics."
+  },
+  {
+    "id": 17,
+    "title": "Data senior engineer #17",
+    "specialization": "data",
+    "grade": "senior",
+    "skills": [
+      "sql",
+      "statistics",
+      "pytorch"
+    ],
+    "description": "Нужен специалист data, уровень senior. Стек: sql, statistics, pytorch."
+  },
+  {
+    "id": 18,
+    "title": "Mobile senior engineer #18",
+    "specialization": "mobile",
+    "grade": "senior",
+    "skills": [
+      "java",
+      "typescript",
+      "sql"
+    ],
+    "description": "Нужен специалист mobile, уровень senior. Стек: java, typescript, sql."
+  },
+  {
+    "id": 19,
+    "title": "Qa middle engineer #19",
+    "specialization": "qa",
+    "grade": "middle",
+    "skills": [
+      "python",
+      "pytest",
+      "sql"
+    ],
+    "description": "Нужен специалист qa, уровень middle. Стек: python, pytest, sql."
+  },
+  {
+    "id": 20,
+    "title": "Mobile lead engineer #20",
+    "specialization": "mobile",
+    "grade": "lead",
+    "skills": [
+      "java",
+      "sql",
+      "typescript"
+    ],
+    "description": "Нужен специалист mobile, уровень lead. Стек: java, sql, typescript."
+  },
+  {
+    "id": 21,
+    "title": "Mobile junior engineer #21",
+    "specialization": "mobile",
+    "grade": "junior",
+    "skills": [
+      "sql",
+      "typescript",
+      "java"
+    ],
+    "description": "Нужен специалист mobile, уровень junior. Стек: sql, typescript, java."
+  },
+  {
+    "id": 22,
+    "title": "Backend senior engineer #22",
+    "specialization": "backend",
+    "grade": "senior",
+    "skills": [
+      "sql",
+      "api-design",
+      "go"
+    ],
+    "description": "Нужен специалист backend, уровень senior. Стек: sql, api-design, go."
+  },
+  {
+    "id": 23,
+    "title": "Frontend senior engineer #23",
+    "specialization": "frontend",
+    "grade": "senior",
+    "skills": [
+      "javascript",
+      "react",
+      "typescript"
+    ],
+    "description": "Нужен специалист frontend, уровень senior. Стек: javascript, react, typescript."
+  },
+  {
+    "id": 24,
+    "title": "Mobile junior engineer #24",
+    "specialization": "mobile",
+    "grade": "junior",
+    "skills": [
+      "java",
+      "typescript",
+      "sql"
+    ],
+    "description": "Нужен специалист mobile, уровень junior. Стек: java, typescript, sql."
+  },
+  {
+    "id": 25,
+    "title": "Data junior engineer #25",
+    "specialization": "data",
+    "grade": "junior",
+    "skills": [
+      "pytorch",
+      "python",
+      "statistics"
+    ],
+    "description": "Нужен специалист data, уровень junior. Стек: pytorch, python, statistics."
+  },
+  {
+    "id": 26,
+    "title": "Qa middle engineer #26",
+    "specialization": "qa",
+    "grade": "middle",
+    "skills": [
+      "pytest",
+      "python",
+      "sql"
+    ],
+    "description": "Нужен специалист qa, уровень middle. Стек: pytest, python, sql."
+  },
+  {
+    "id": 27,
+    "title": "Mobile middle engineer #27",
+    "specialization": "mobile",
+    "grade": "middle",
+    "skills": [
+      "java",
+      "sql",
+      "typescript"
+    ],
+    "description": "Нужен специалист mobile, уровень middle. Стек: java, sql, typescript."
+  },
+  {
+    "id": 28,
+    "title": "Mobile junior engineer #28",
+    "specialization": "mobile",
+    "grade": "junior",
+    "skills": [
+      "java",
+      "typescript",
+      "sql"
+    ],
+    "description": "Нужен специалист mobile, уровень junior. Стек: java, typescript, sql."
+  },
+  {
+    "id": 29,
+    "title": "Mobile junior engineer #29",
+    "specialization": "mobile",
+    "grade": "junior",
+    "skills": [
+      "typescript",
+      "sql",
+      "java"
+    ],
+    "description": "Нужен специалист mobile, уровень junior. Стек: typescript, sql, java."
+  },
+  {
+    "id": 30,
+    "title": "Frontend senior engineer #30",
+    "specialization": "frontend",
+    "grade": "senior",
+    "skills": [
+      "javascript",
+      "typescript",
+      "react"
+    ],
+    "description": "Нужен специалист frontend, уровень senior. Стек: javascript, typescript, react."
+  }
+]

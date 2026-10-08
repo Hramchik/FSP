@@ -1,0 +1,1207 @@
+{
+  "seed": 20261007,
+  "n_candidates": 200,
+  "n_calibrated_templates": 120,
+  "rows": [
+    {
+      "specialization": "backend",
+      "grade": "junior",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": -1.32,
+      "a_hat": 2.0,
+      "b_hat": -1.2,
+      "log_likelihood": -61.65
+    },
+    {
+      "specialization": "backend",
+      "grade": "junior",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": -1.26,
+      "a_hat": 2.0,
+      "b_hat": -1.2,
+      "log_likelihood": -56.308
+    },
+    {
+      "specialization": "backend",
+      "grade": "junior",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": -1.2,
+      "a_hat": 2.0,
+      "b_hat": -1.2,
+      "log_likelihood": -57.418
+    },
+    {
+      "specialization": "backend",
+      "grade": "junior",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": -1.14,
+      "a_hat": 2.0,
+      "b_hat": -1.4,
+      "log_likelihood": -39.469
+    },
+    {
+      "specialization": "backend",
+      "grade": "junior",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": -1.08,
+      "a_hat": 2.0,
+      "b_hat": -1.2,
+      "log_likelihood": -57.436
+    },
+    {
+      "specialization": "backend",
+      "grade": "middle",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": -0.02,
+      "a_hat": 2.0,
+      "b_hat": 0.0,
+      "log_likelihood": -77.754
+    },
+    {
+      "specialization": "backend",
+      "grade": "middle",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": 0.04,
+      "a_hat": 1.9,
+      "b_hat": 0.0,
+      "log_likelihood": -86.943
+    },
+    {
+      "specialization": "backend",
+      "grade": "middle",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": 0.1,
+      "a_hat": 2.0,
+      "b_hat": 0.2,
+      "log_likelihood": -78.78
+    },
+    {
+      "specialization": "backend",
+      "grade": "middle",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": 0.16,
+      "a_hat": 2.0,
+      "b_hat": 0.2,
+      "log_likelihood": -75.0
+    },
+    {
+      "specialization": "backend",
+      "grade": "middle",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": 0.22,
+      "a_hat": 2.0,
+      "b_hat": 0.2,
+      "log_likelihood": -70.319
+    },
+    {
+      "specialization": "backend",
+      "grade": "senior",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": 1.03,
+      "a_hat": 1.9,
+      "b_hat": 1.0,
+      "log_likelihood": -67.884
+    },
+    {
+      "specialization": "backend",
+      "grade": "senior",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": 1.09,
+      "a_hat": 2.0,
+      "b_hat": 1.0,
+      "log_likelihood": -54.743
+    },
+    {
+      "specialization": "backend",
+      "grade": "senior",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": 1.15,
+      "a_hat": 2.0,
+      "b_hat": 1.2,
+      "log_likelihood": -44.64
+    },
+    {
+      "specialization": "backend",
+      "grade": "senior",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": 1.21,
+      "a_hat": 1.9,
+      "b_hat": 1.6,
+      "log_likelihood": -48.971
+    },
+    {
+      "specialization": "backend",
+      "grade": "senior",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": 1.27,
+      "a_hat": 2.0,
+      "b_hat": 1.4,
+      "log_likelihood": -48.911
+    },
+    {
+      "specialization": "backend",
+      "grade": "lead",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": 2.13,
+      "a_hat": 2.0,
+      "b_hat": 2.0,
+      "log_likelihood": -30.258
+    },
+    {
+      "specialization": "backend",
+      "grade": "lead",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": 2.19,
+      "a_hat": 1.4,
+      "b_hat": 2.8,
+      "log_likelihood": -31.048
+    },
+    {
+      "specialization": "backend",
+      "grade": "lead",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": 2.25,
+      "a_hat": 2.0,
+      "b_hat": 2.4,
+      "log_likelihood": -24.757
+    },
+    {
+      "specialization": "backend",
+      "grade": "lead",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": 2.31,
+      "a_hat": 1.6,
+      "b_hat": 2.6,
+      "log_likelihood": -30.696
+    },
+    {
+      "specialization": "backend",
+      "grade": "lead",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": 2.37,
+      "a_hat": 2.0,
+      "b_hat": 2.2,
+      "log_likelihood": -24.225
+    },
+    {
+      "specialization": "frontend",
+      "grade": "junior",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": -1.32,
+      "a_hat": 1.6,
+      "b_hat": -1.4,
+      "log_likelihood": -66.301
+    },
+    {
+      "specialization": "frontend",
+      "grade": "junior",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": -1.26,
+      "a_hat": 2.0,
+      "b_hat": -1.2,
+      "log_likelihood": -55.475
+    },
+    {
+      "specialization": "frontend",
+      "grade": "junior",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": -1.2,
+      "a_hat": 1.8,
+      "b_hat": -1.4,
+      "log_likelihood": -60.458
+    },
+    {
+      "specialization": "frontend",
+      "grade": "junior",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": -1.14,
+      "a_hat": 1.9,
+      "b_hat": -1.4,
+      "log_likelihood": -58.643
+    },
+    {
+      "specialization": "frontend",
+      "grade": "junior",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": -1.08,
+      "a_hat": 2.0,
+      "b_hat": -1.2,
+      "log_likelihood": -60.314
+    },
+    {
+      "specialization": "frontend",
+      "grade": "middle",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": -0.02,
+      "a_hat": 1.8,
+      "b_hat": 0.0,
+      "log_likelihood": -89.442
+    },
+    {
+      "specialization": "frontend",
+      "grade": "middle",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": 0.04,
+      "a_hat": 1.7,
+      "b_hat": 0.0,
+      "log_likelihood": -92.162
+    },
+    {
+      "specialization": "frontend",
+      "grade": "middle",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": 0.1,
+      "a_hat": 2.0,
+      "b_hat": 0.0,
+      "log_likelihood": -81.982
+    },
+    {
+      "specialization": "frontend",
+      "grade": "middle",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": 0.16,
+      "a_hat": 2.0,
+      "b_hat": 0.2,
+      "log_likelihood": -82.361
+    },
+    {
+      "specialization": "frontend",
+      "grade": "middle",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": 0.22,
+      "a_hat": 2.0,
+      "b_hat": 0.2,
+      "log_likelihood": -71.175
+    },
+    {
+      "specialization": "frontend",
+      "grade": "senior",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": 1.03,
+      "a_hat": 2.0,
+      "b_hat": 1.0,
+      "log_likelihood": -64.474
+    },
+    {
+      "specialization": "frontend",
+      "grade": "senior",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": 1.09,
+      "a_hat": 1.9,
+      "b_hat": 1.2,
+      "log_likelihood": -61.94
+    },
+    {
+      "specialization": "frontend",
+      "grade": "senior",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": 1.15,
+      "a_hat": 2.0,
+      "b_hat": 1.2,
+      "log_likelihood": -56.628
+    },
+    {
+      "specialization": "frontend",
+      "grade": "senior",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": 1.21,
+      "a_hat": 2.0,
+      "b_hat": 1.2,
+      "log_likelihood": -51.229
+    },
+    {
+      "specialization": "frontend",
+      "grade": "senior",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": 1.27,
+      "a_hat": 2.0,
+      "b_hat": 1.4,
+      "log_likelihood": -45.288
+    },
+    {
+      "specialization": "frontend",
+      "grade": "lead",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": 2.13,
+      "a_hat": 1.9,
+      "b_hat": 2.4,
+      "log_likelihood": -27.362
+    },
+    {
+      "specialization": "frontend",
+      "grade": "lead",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": 2.19,
+      "a_hat": 1.8,
+      "b_hat": 2.6,
+      "log_likelihood": -25.378
+    },
+    {
+      "specialization": "frontend",
+      "grade": "lead",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": 2.25,
+      "a_hat": 2.0,
+      "b_hat": 2.4,
+      "log_likelihood": -20.081
+    },
+    {
+      "specialization": "frontend",
+      "grade": "lead",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": 2.31,
+      "a_hat": 2.0,
+      "b_hat": 2.2,
+      "log_likelihood": -23.277
+    },
+    {
+      "specialization": "frontend",
+      "grade": "lead",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": 2.37,
+      "a_hat": 2.0,
+      "b_hat": 2.6,
+      "log_likelihood": -20.65
+    },
+    {
+      "specialization": "mobile",
+      "grade": "junior",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": -1.32,
+      "a_hat": 1.7,
+      "b_hat": -1.4,
+      "log_likelihood": -63.857
+    },
+    {
+      "specialization": "mobile",
+      "grade": "junior",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": -1.26,
+      "a_hat": 1.8,
+      "b_hat": -1.2,
+      "log_likelihood": -66.969
+    },
+    {
+      "specialization": "mobile",
+      "grade": "junior",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": -1.2,
+      "a_hat": 2.0,
+      "b_hat": -1.4,
+      "log_likelihood": -56.776
+    },
+    {
+      "specialization": "mobile",
+      "grade": "junior",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": -1.14,
+      "a_hat": 2.0,
+      "b_hat": -1.0,
+      "log_likelihood": -53.897
+    },
+    {
+      "specialization": "mobile",
+      "grade": "junior",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": -1.08,
+      "a_hat": 2.0,
+      "b_hat": -1.2,
+      "log_likelihood": -53.665
+    },
+    {
+      "specialization": "mobile",
+      "grade": "middle",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": -0.02,
+      "a_hat": 1.7,
+      "b_hat": -0.2,
+      "log_likelihood": -92.404
+    },
+    {
+      "specialization": "mobile",
+      "grade": "middle",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": 0.04,
+      "a_hat": 1.7,
+      "b_hat": 0.2,
+      "log_likelihood": -91.812
+    },
+    {
+      "specialization": "mobile",
+      "grade": "middle",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": 0.1,
+      "a_hat": 2.0,
+      "b_hat": 0.2,
+      "log_likelihood": -74.08
+    },
+    {
+      "specialization": "mobile",
+      "grade": "middle",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": 0.16,
+      "a_hat": 2.0,
+      "b_hat": 0.0,
+      "log_likelihood": -76.501
+    },
+    {
+      "specialization": "mobile",
+      "grade": "middle",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": 0.22,
+      "a_hat": 2.0,
+      "b_hat": 0.2,
+      "log_likelihood": -74.276
+    },
+    {
+      "specialization": "mobile",
+      "grade": "senior",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": 1.03,
+      "a_hat": 2.0,
+      "b_hat": 1.0,
+      "log_likelihood": -60.191
+    },
+    {
+      "specialization": "mobile",
+      "grade": "senior",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": 1.09,
+      "a_hat": 2.0,
+      "b_hat": 1.0,
+      "log_likelihood": -63.671
+    },
+    {
+      "specialization": "mobile",
+      "grade": "senior",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": 1.15,
+      "a_hat": 2.0,
+      "b_hat": 1.2,
+      "log_likelihood": -55.924
+    },
+    {
+      "specialization": "mobile",
+      "grade": "senior",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": 1.21,
+      "a_hat": 2.0,
+      "b_hat": 1.4,
+      "log_likelihood": -50.768
+    },
+    {
+      "specialization": "mobile",
+      "grade": "senior",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": 1.27,
+      "a_hat": 2.0,
+      "b_hat": 1.2,
+      "log_likelihood": -54.654
+    },
+    {
+      "specialization": "mobile",
+      "grade": "lead",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": 2.13,
+      "a_hat": 2.0,
+      "b_hat": 2.0,
+      "log_likelihood": -33.78
+    },
+    {
+      "specialization": "mobile",
+      "grade": "lead",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": 2.19,
+      "a_hat": 1.7,
+      "b_hat": 2.6,
+      "log_likelihood": -25.804
+    },
+    {
+      "specialization": "mobile",
+      "grade": "lead",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": 2.25,
+      "a_hat": 2.0,
+      "b_hat": 2.2,
+      "log_likelihood": -23.663
+    },
+    {
+      "specialization": "mobile",
+      "grade": "lead",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": 2.31,
+      "a_hat": 2.0,
+      "b_hat": 2.4,
+      "log_likelihood": -18.343
+    },
+    {
+      "specialization": "mobile",
+      "grade": "lead",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": 2.37,
+      "a_hat": 2.0,
+      "b_hat": 2.4,
+      "log_likelihood": -15.142
+    },
+    {
+      "specialization": "data",
+      "grade": "junior",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": -1.32,
+      "a_hat": 2.0,
+      "b_hat": -1.4,
+      "log_likelihood": -52.826
+    },
+    {
+      "specialization": "data",
+      "grade": "junior",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": -1.26,
+      "a_hat": 2.0,
+      "b_hat": -1.4,
+      "log_likelihood": -54.614
+    },
+    {
+      "specialization": "data",
+      "grade": "junior",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": -1.2,
+      "a_hat": 2.0,
+      "b_hat": -1.4,
+      "log_likelihood": -47.866
+    },
+    {
+      "specialization": "data",
+      "grade": "junior",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": -1.14,
+      "a_hat": 2.0,
+      "b_hat": -1.2,
+      "log_likelihood": -56.775
+    },
+    {
+      "specialization": "data",
+      "grade": "junior",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": -1.08,
+      "a_hat": 1.9,
+      "b_hat": -1.4,
+      "log_likelihood": -58.312
+    },
+    {
+      "specialization": "data",
+      "grade": "middle",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": -0.02,
+      "a_hat": 2.0,
+      "b_hat": 0.0,
+      "log_likelihood": -79.553
+    },
+    {
+      "specialization": "data",
+      "grade": "middle",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": 0.04,
+      "a_hat": 2.0,
+      "b_hat": 0.2,
+      "log_likelihood": -71.506
+    },
+    {
+      "specialization": "data",
+      "grade": "middle",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": 0.1,
+      "a_hat": 2.0,
+      "b_hat": 0.2,
+      "log_likelihood": -80.284
+    },
+    {
+      "specialization": "data",
+      "grade": "middle",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": 0.16,
+      "a_hat": 2.0,
+      "b_hat": 0.2,
+      "log_likelihood": -77.721
+    },
+    {
+      "specialization": "data",
+      "grade": "middle",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": 0.22,
+      "a_hat": 2.0,
+      "b_hat": 0.4,
+      "log_likelihood": -81.774
+    },
+    {
+      "specialization": "data",
+      "grade": "senior",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": 1.03,
+      "a_hat": 1.9,
+      "b_hat": 1.0,
+      "log_likelihood": -67.714
+    },
+    {
+      "specialization": "data",
+      "grade": "senior",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": 1.09,
+      "a_hat": 2.0,
+      "b_hat": 1.0,
+      "log_likelihood": -61.173
+    },
+    {
+      "specialization": "data",
+      "grade": "senior",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": 1.15,
+      "a_hat": 2.0,
+      "b_hat": 1.2,
+      "log_likelihood": -52.283
+    },
+    {
+      "specialization": "data",
+      "grade": "senior",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": 1.21,
+      "a_hat": 2.0,
+      "b_hat": 1.2,
+      "log_likelihood": -49.386
+    },
+    {
+      "specialization": "data",
+      "grade": "senior",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": 1.27,
+      "a_hat": 1.9,
+      "b_hat": 1.6,
+      "log_likelihood": -48.985
+    },
+    {
+      "specialization": "data",
+      "grade": "lead",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": 2.13,
+      "a_hat": 2.0,
+      "b_hat": 2.0,
+      "log_likelihood": -35.49
+    },
+    {
+      "specialization": "data",
+      "grade": "lead",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": 2.19,
+      "a_hat": 2.0,
+      "b_hat": 2.2,
+      "log_likelihood": -27.087
+    },
+    {
+      "specialization": "data",
+      "grade": "lead",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": 2.25,
+      "a_hat": 1.7,
+      "b_hat": 2.4,
+      "log_likelihood": -30.944
+    },
+    {
+      "specialization": "data",
+      "grade": "lead",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": 2.31,
+      "a_hat": 2.0,
+      "b_hat": 2.4,
+      "log_likelihood": -25.058
+    },
+    {
+      "specialization": "data",
+      "grade": "lead",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": 2.37,
+      "a_hat": 1.7,
+      "b_hat": 2.8,
+      "log_likelihood": -22.408
+    },
+    {
+      "specialization": "devops",
+      "grade": "junior",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": -1.32,
+      "a_hat": 2.0,
+      "b_hat": -1.6,
+      "log_likelihood": -45.757
+    },
+    {
+      "specialization": "devops",
+      "grade": "junior",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": -1.26,
+      "a_hat": 1.8,
+      "b_hat": -1.2,
+      "log_likelihood": -67.461
+    },
+    {
+      "specialization": "devops",
+      "grade": "junior",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": -1.2,
+      "a_hat": 1.8,
+      "b_hat": -1.4,
+      "log_likelihood": -60.889
+    },
+    {
+      "specialization": "devops",
+      "grade": "junior",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": -1.14,
+      "a_hat": 2.0,
+      "b_hat": -1.2,
+      "log_likelihood": -55.383
+    },
+    {
+      "specialization": "devops",
+      "grade": "junior",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": -1.08,
+      "a_hat": 1.8,
+      "b_hat": -1.0,
+      "log_likelihood": -73.324
+    },
+    {
+      "specialization": "devops",
+      "grade": "middle",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": -0.02,
+      "a_hat": 1.7,
+      "b_hat": 0.0,
+      "log_likelihood": -92.55
+    },
+    {
+      "specialization": "devops",
+      "grade": "middle",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": 0.04,
+      "a_hat": 1.9,
+      "b_hat": 0.2,
+      "log_likelihood": -86.066
+    },
+    {
+      "specialization": "devops",
+      "grade": "middle",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": 0.1,
+      "a_hat": 2.0,
+      "b_hat": 0.2,
+      "log_likelihood": -76.099
+    },
+    {
+      "specialization": "devops",
+      "grade": "middle",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": 0.16,
+      "a_hat": 2.0,
+      "b_hat": 0.0,
+      "log_likelihood": -77.927
+    },
+    {
+      "specialization": "devops",
+      "grade": "middle",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": 0.22,
+      "a_hat": 2.0,
+      "b_hat": 0.2,
+      "log_likelihood": -71.405
+    },
+    {
+      "specialization": "devops",
+      "grade": "senior",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": 1.03,
+      "a_hat": 1.9,
+      "b_hat": 1.0,
+      "log_likelihood": -68.027
+    },
+    {
+      "specialization": "devops",
+      "grade": "senior",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": 1.09,
+      "a_hat": 2.0,
+      "b_hat": 1.2,
+      "log_likelihood": -53.44
+    },
+    {
+      "specialization": "devops",
+      "grade": "senior",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": 1.15,
+      "a_hat": 2.0,
+      "b_hat": 1.4,
+      "log_likelihood": -45.571
+    },
+    {
+      "specialization": "devops",
+      "grade": "senior",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": 1.21,
+      "a_hat": 2.0,
+      "b_hat": 1.2,
+      "log_likelihood": -57.207
+    },
+    {
+      "specialization": "devops",
+      "grade": "senior",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": 1.27,
+      "a_hat": 2.0,
+      "b_hat": 1.2,
+      "log_likelihood": -53.89
+    },
+    {
+      "specialization": "devops",
+      "grade": "lead",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": 2.13,
+      "a_hat": 1.6,
+      "b_hat": 2.4,
+      "log_likelihood": -33.778
+    },
+    {
+      "specialization": "devops",
+      "grade": "lead",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": 2.19,
+      "a_hat": 1.7,
+      "b_hat": 2.8,
+      "log_likelihood": -21.894
+    },
+    {
+      "specialization": "devops",
+      "grade": "lead",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": 2.25,
+      "a_hat": 2.0,
+      "b_hat": 2.2,
+      "log_likelihood": -28.017
+    },
+    {
+      "specialization": "devops",
+      "grade": "lead",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": 2.31,
+      "a_hat": 2.0,
+      "b_hat": 2.2,
+      "log_likelihood": -25.319
+    },
+    {
+      "specialization": "devops",
+      "grade": "lead",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": 2.37,
+      "a_hat": 2.0,
+      "b_hat": 2.6,
+      "log_likelihood": -20.759
+    },
+    {
+      "specialization": "qa",
+      "grade": "junior",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": -1.32,
+      "a_hat": 1.9,
+      "b_hat": -1.2,
+      "log_likelihood": -66.447
+    },
+    {
+      "specialization": "qa",
+      "grade": "junior",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": -1.26,
+      "a_hat": 2.0,
+      "b_hat": -1.2,
+      "log_likelihood": -62.789
+    },
+    {
+      "specialization": "qa",
+      "grade": "junior",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": -1.2,
+      "a_hat": 2.0,
+      "b_hat": -1.0,
+      "log_likelihood": -55.129
+    },
+    {
+      "specialization": "qa",
+      "grade": "junior",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": -1.14,
+      "a_hat": 2.0,
+      "b_hat": -1.4,
+      "log_likelihood": -51.615
+    },
+    {
+      "specialization": "qa",
+      "grade": "junior",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": -1.08,
+      "a_hat": 2.0,
+      "b_hat": -1.4,
+      "log_likelihood": -47.648
+    },
+    {
+      "specialization": "qa",
+      "grade": "middle",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": -0.02,
+      "a_hat": 1.9,
+      "b_hat": 0.0,
+      "log_likelihood": -87.397
+    },
+    {
+      "specialization": "qa",
+      "grade": "middle",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": 0.04,
+      "a_hat": 2.0,
+      "b_hat": 0.2,
+      "log_likelihood": -79.427
+    },
+    {
+      "specialization": "qa",
+      "grade": "middle",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": 0.1,
+      "a_hat": 2.0,
+      "b_hat": 0.2,
+      "log_likelihood": -67.2
+    },
+    {
+      "specialization": "qa",
+      "grade": "middle",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": 0.16,
+      "a_hat": 2.0,
+      "b_hat": 0.2,
+      "log_likelihood": -70.843
+    },
+    {
+      "specialization": "qa",
+      "grade": "middle",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": 0.22,
+      "a_hat": 2.0,
+      "b_hat": 0.2,
+      "log_likelihood": -69.129
+    },
+    {
+      "specialization": "qa",
+      "grade": "senior",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": 1.03,
+      "a_hat": 2.0,
+      "b_hat": 1.0,
+      "log_likelihood": -65.006
+    },
+    {
+      "specialization": "qa",
+      "grade": "senior",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": 1.09,
+      "a_hat": 2.0,
+      "b_hat": 1.0,
+      "log_likelihood": -53.607
+    },
+    {
+      "specialization": "qa",
+      "grade": "senior",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": 1.15,
+      "a_hat": 2.0,
+      "b_hat": 1.2,
+      "log_likelihood": -54.369
+    },
+    {
+      "specialization": "qa",
+      "grade": "senior",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": 1.21,
+      "a_hat": 2.0,
+      "b_hat": 1.2,
+      "log_likelihood": -48.925
+    },
+    {
+      "specialization": "qa",
+      "grade": "senior",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": 1.27,
+      "a_hat": 2.0,
+      "b_hat": 1.4,
+      "log_likelihood": -52.724
+    },
+    {
+      "specialization": "qa",
+      "grade": "lead",
+      "variant": 0,
+      "true_a": 2.0,
+      "true_b": 2.13,
+      "a_hat": 2.0,
+      "b_hat": 2.0,
+      "log_likelihood": -31.745
+    },
+    {
+      "specialization": "qa",
+      "grade": "lead",
+      "variant": 1,
+      "true_a": 2.12,
+      "true_b": 2.19,
+      "a_hat": 2.0,
+      "b_hat": 2.2,
+      "log_likelihood": -21.658
+    },
+    {
+      "specialization": "qa",
+      "grade": "lead",
+      "variant": 2,
+      "true_a": 2.24,
+      "true_b": 2.25,
+      "a_hat": 2.0,
+      "b_hat": 2.4,
+      "log_likelihood": -20.49
+    },
+    {
+      "specialization": "qa",
+      "grade": "lead",
+      "variant": 3,
+      "true_a": 2.36,
+      "true_b": 2.31,
+      "a_hat": 2.0,
+      "b_hat": 2.4,
+      "log_likelihood": -19.47
+    },
+    {
+      "specialization": "qa",
+      "grade": "lead",
+      "variant": 4,
+      "true_a": 2.48,
+      "true_b": 2.37,
+      "a_hat": 2.0,
+      "b_hat": 2.4,
+      "log_likelihood": -21.685
+    }
+  ]
+}

@@ -1,0 +1,2753 @@
+[
+  {
+    "id": 1,
+    "pseudo": "A-1000",
+    "theta": -1.8706,
+    "specialization": "mobile",
+    "skills": [
+      "sql",
+      "java"
+    ],
+    "fsp": true,
+    "city": "Yekaterinburg",
+    "years_experience": 1.4
+  },
+  {
+    "id": 2,
+    "pseudo": "A-1001",
+    "theta": 0.0611,
+    "specialization": "qa",
+    "skills": [
+      "python",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 2.3
+  },
+  {
+    "id": 3,
+    "pseudo": "A-1002",
+    "theta": -0.081,
+    "specialization": "data",
+    "skills": [
+      "sql",
+      "python",
+      "statistics"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 2.9
+  },
+  {
+    "id": 4,
+    "pseudo": "A-1003",
+    "theta": -1.3888,
+    "specialization": "frontend",
+    "skills": [
+      "typescript",
+      "javascript"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 0.7
+  },
+  {
+    "id": 5,
+    "pseudo": "A-1004",
+    "theta": 1.0942,
+    "specialization": "frontend",
+    "skills": [
+      "typescript",
+      "javascript",
+      "react"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 3.4
+  },
+  {
+    "id": 6,
+    "pseudo": "A-1005",
+    "theta": 0.77,
+    "specialization": "mobile",
+    "skills": [
+      "java",
+      "typescript"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 4.0
+  },
+  {
+    "id": 7,
+    "pseudo": "A-1006",
+    "theta": 0.0302,
+    "specialization": "backend",
+    "skills": [
+      "python",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 3.7
+  },
+  {
+    "id": 8,
+    "pseudo": "A-1007",
+    "theta": 0.8565,
+    "specialization": "frontend",
+    "skills": [
+      "javascript",
+      "react"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 3.9
+  },
+  {
+    "id": 9,
+    "pseudo": "A-1008",
+    "theta": 0.6317,
+    "specialization": "mobile",
+    "skills": [
+      "typescript",
+      "java",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 3.7
+  },
+  {
+    "id": 10,
+    "pseudo": "A-1009",
+    "theta": -1.5205,
+    "specialization": "backend",
+    "skills": [
+      "python",
+      "sql",
+      "api-design"
+    ],
+    "fsp": true,
+    "city": "Yekaterinburg",
+    "years_experience": 0.7
+  },
+  {
+    "id": 11,
+    "pseudo": "A-1010",
+    "theta": -0.8876,
+    "specialization": "frontend",
+    "skills": [
+      "typescript",
+      "react"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 2.9
+  },
+  {
+    "id": 12,
+    "pseudo": "A-1011",
+    "theta": -1.1293,
+    "specialization": "devops",
+    "skills": [
+      "ci-cd",
+      "linux"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 2.1
+  },
+  {
+    "id": 13,
+    "pseudo": "A-1012",
+    "theta": 2.0826,
+    "specialization": "devops",
+    "skills": [
+      "ci-cd",
+      "kubernetes"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 4.1
+  },
+  {
+    "id": 14,
+    "pseudo": "A-1013",
+    "theta": 1.6206,
+    "specialization": "data",
+    "skills": [
+      "pytorch",
+      "python"
+    ],
+    "fsp": true,
+    "city": "Saint Petersburg",
+    "years_experience": 3.9
+  },
+  {
+    "id": 15,
+    "pseudo": "A-1014",
+    "theta": -2.1357,
+    "specialization": "data",
+    "skills": [
+      "statistics",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 1.0
+  },
+  {
+    "id": 16,
+    "pseudo": "A-1015",
+    "theta": -1.9903,
+    "specialization": "backend",
+    "skills": [
+      "sql",
+      "api-design",
+      "postgresql",
+      "go",
+      "python"
+    ],
+    "fsp": true,
+    "city": "Saint Petersburg",
+    "years_experience": 1.5
+  },
+  {
+    "id": 17,
+    "pseudo": "A-1016",
+    "theta": 1.2475,
+    "specialization": "devops",
+    "skills": [
+      "linux",
+      "kubernetes",
+      "docker",
+      "ci-cd"
+    ],
+    "fsp": true,
+    "city": "Yekaterinburg",
+    "years_experience": 5.0
+  },
+  {
+    "id": 18,
+    "pseudo": "A-1017",
+    "theta": 0.5323,
+    "specialization": "data",
+    "skills": [
+      "pytorch",
+      "python"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 2.6
+  },
+  {
+    "id": 19,
+    "pseudo": "A-1018",
+    "theta": -1.3768,
+    "specialization": "devops",
+    "skills": [
+      "ci-cd",
+      "docker",
+      "linux"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 1.2
+  },
+  {
+    "id": 20,
+    "pseudo": "A-1019",
+    "theta": 0.047,
+    "specialization": "data",
+    "skills": [
+      "pytorch",
+      "python"
+    ],
+    "fsp": true,
+    "city": "Saint Petersburg",
+    "years_experience": 2.6
+  },
+  {
+    "id": 21,
+    "pseudo": "A-1020",
+    "theta": -0.079,
+    "specialization": "devops",
+    "skills": [
+      "linux",
+      "kubernetes"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 2.7
+  },
+  {
+    "id": 22,
+    "pseudo": "A-1021",
+    "theta": -1.3832,
+    "specialization": "qa",
+    "skills": [
+      "python",
+      "pytest"
+    ],
+    "fsp": true,
+    "city": "Saint Petersburg",
+    "years_experience": 0.7
+  },
+  {
+    "id": 23,
+    "pseudo": "A-1022",
+    "theta": -0.1082,
+    "specialization": "qa",
+    "skills": [
+      "sql",
+      "pytest"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 2.7
+  },
+  {
+    "id": 24,
+    "pseudo": "A-1023",
+    "theta": 0.8573,
+    "specialization": "frontend",
+    "skills": [
+      "react",
+      "javascript",
+      "typescript"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 3.4
+  },
+  {
+    "id": 25,
+    "pseudo": "A-1024",
+    "theta": 1.5986,
+    "specialization": "data",
+    "skills": [
+      "python",
+      "sql",
+      "statistics"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 3.7
+  },
+  {
+    "id": 26,
+    "pseudo": "A-1025",
+    "theta": 1.1026,
+    "specialization": "qa",
+    "skills": [
+      "pytest",
+      "python"
+    ],
+    "fsp": true,
+    "city": "Yekaterinburg",
+    "years_experience": 4.9
+  },
+  {
+    "id": 27,
+    "pseudo": "A-1026",
+    "theta": 3.0,
+    "specialization": "frontend",
+    "skills": [
+      "javascript",
+      "typescript",
+      "react"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 6.2
+  },
+  {
+    "id": 28,
+    "pseudo": "A-1027",
+    "theta": -0.2882,
+    "specialization": "data",
+    "skills": [
+      "python",
+      "pytorch",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 3.0
+  },
+  {
+    "id": 29,
+    "pseudo": "A-1028",
+    "theta": 1.2244,
+    "specialization": "backend",
+    "skills": [
+      "sql",
+      "python",
+      "api-design",
+      "postgresql"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 4.4
+  },
+  {
+    "id": 30,
+    "pseudo": "A-1029",
+    "theta": -1.5375,
+    "specialization": "frontend",
+    "skills": [
+      "react",
+      "javascript"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 1.9
+  },
+  {
+    "id": 31,
+    "pseudo": "A-1030",
+    "theta": 0.8154,
+    "specialization": "backend",
+    "skills": [
+      "go",
+      "python",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 2.9
+  },
+  {
+    "id": 32,
+    "pseudo": "A-1031",
+    "theta": 0.9631,
+    "specialization": "data",
+    "skills": [
+      "sql",
+      "statistics"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 4.5
+  },
+  {
+    "id": 33,
+    "pseudo": "A-1032",
+    "theta": 1.0139,
+    "specialization": "devops",
+    "skills": [
+      "kubernetes",
+      "ci-cd",
+      "docker"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 4.5
+  },
+  {
+    "id": 34,
+    "pseudo": "A-1033",
+    "theta": 1.0902,
+    "specialization": "data",
+    "skills": [
+      "sql",
+      "statistics"
+    ],
+    "fsp": true,
+    "city": "Saint Petersburg",
+    "years_experience": 4.0
+  },
+  {
+    "id": 35,
+    "pseudo": "A-1034",
+    "theta": 0.0709,
+    "specialization": "mobile",
+    "skills": [
+      "java",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 2.5
+  },
+  {
+    "id": 36,
+    "pseudo": "A-1035",
+    "theta": -0.2894,
+    "specialization": "data",
+    "skills": [
+      "sql",
+      "pytorch",
+      "python",
+      "statistics"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 3.5
+  },
+  {
+    "id": 37,
+    "pseudo": "A-1036",
+    "theta": 0.5839,
+    "specialization": "backend",
+    "skills": [
+      "sql",
+      "api-design",
+      "python",
+      "go",
+      "postgresql"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 4.1
+  },
+  {
+    "id": 38,
+    "pseudo": "A-1037",
+    "theta": -0.9599,
+    "specialization": "qa",
+    "skills": [
+      "sql",
+      "pytest"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 2.6
+  },
+  {
+    "id": 39,
+    "pseudo": "A-1038",
+    "theta": -0.5856,
+    "specialization": "data",
+    "skills": [
+      "python",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Yekaterinburg",
+    "years_experience": 3.2
+  },
+  {
+    "id": 40,
+    "pseudo": "A-1039",
+    "theta": -0.2887,
+    "specialization": "mobile",
+    "skills": [
+      "sql",
+      "java"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 3.1
+  },
+  {
+    "id": 41,
+    "pseudo": "A-1040",
+    "theta": -0.4421,
+    "specialization": "mobile",
+    "skills": [
+      "typescript",
+      "java"
+    ],
+    "fsp": true,
+    "city": "Saint Petersburg",
+    "years_experience": 3.1
+  },
+  {
+    "id": 42,
+    "pseudo": "A-1041",
+    "theta": -0.2526,
+    "specialization": "qa",
+    "skills": [
+      "python",
+      "pytest"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 3.1
+  },
+  {
+    "id": 43,
+    "pseudo": "A-1042",
+    "theta": -0.5922,
+    "specialization": "frontend",
+    "skills": [
+      "javascript",
+      "typescript"
+    ],
+    "fsp": true,
+    "city": "Yekaterinburg",
+    "years_experience": 3.3
+  },
+  {
+    "id": 44,
+    "pseudo": "A-1043",
+    "theta": 2.0918,
+    "specialization": "mobile",
+    "skills": [
+      "java",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Yekaterinburg",
+    "years_experience": 4.6
+  },
+  {
+    "id": 45,
+    "pseudo": "A-1044",
+    "theta": -0.681,
+    "specialization": "mobile",
+    "skills": [
+      "java",
+      "sql",
+      "typescript"
+    ],
+    "fsp": true,
+    "city": "Saint Petersburg",
+    "years_experience": 2.0
+  },
+  {
+    "id": 46,
+    "pseudo": "A-1045",
+    "theta": -1.1693,
+    "specialization": "qa",
+    "skills": [
+      "pytest",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Yekaterinburg",
+    "years_experience": 2.6
+  },
+  {
+    "id": 47,
+    "pseudo": "A-1046",
+    "theta": -0.1451,
+    "specialization": "devops",
+    "skills": [
+      "linux",
+      "kubernetes",
+      "docker",
+      "ci-cd"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 3.1
+  },
+  {
+    "id": 48,
+    "pseudo": "A-1047",
+    "theta": -0.7053,
+    "specialization": "backend",
+    "skills": [
+      "sql",
+      "api-design"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 1.6
+  },
+  {
+    "id": 49,
+    "pseudo": "A-1048",
+    "theta": 0.5722,
+    "specialization": "devops",
+    "skills": [
+      "linux",
+      "docker"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 3.1
+  },
+  {
+    "id": 50,
+    "pseudo": "A-1049",
+    "theta": -1.5664,
+    "specialization": "frontend",
+    "skills": [
+      "react",
+      "javascript",
+      "typescript"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 0.7
+  },
+  {
+    "id": 51,
+    "pseudo": "A-1050",
+    "theta": 0.9562,
+    "specialization": "devops",
+    "skills": [
+      "kubernetes",
+      "linux"
+    ],
+    "fsp": true,
+    "city": "Saint Petersburg",
+    "years_experience": 3.7
+  },
+  {
+    "id": 52,
+    "pseudo": "A-1051",
+    "theta": -0.2539,
+    "specialization": "mobile",
+    "skills": [
+      "java",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Yekaterinburg",
+    "years_experience": 1.8
+  },
+  {
+    "id": 53,
+    "pseudo": "A-1052",
+    "theta": 0.0777,
+    "specialization": "devops",
+    "skills": [
+      "docker",
+      "ci-cd",
+      "linux",
+      "kubernetes"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 3.3
+  },
+  {
+    "id": 54,
+    "pseudo": "A-1053",
+    "theta": -0.1345,
+    "specialization": "data",
+    "skills": [
+      "sql",
+      "python"
+    ],
+    "fsp": true,
+    "city": "Saint Petersburg",
+    "years_experience": 2.2
+  },
+  {
+    "id": 55,
+    "pseudo": "A-1054",
+    "theta": -0.9578,
+    "specialization": "data",
+    "skills": [
+      "pytorch",
+      "python",
+      "statistics",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 2.6
+  },
+  {
+    "id": 56,
+    "pseudo": "A-1055",
+    "theta": 1.6066,
+    "specialization": "backend",
+    "skills": [
+      "api-design",
+      "python"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 4.1
+  },
+  {
+    "id": 57,
+    "pseudo": "A-1056",
+    "theta": -0.6352,
+    "specialization": "qa",
+    "skills": [
+      "pytest",
+      "python",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 2.4
+  },
+  {
+    "id": 58,
+    "pseudo": "A-1057",
+    "theta": 1.0091,
+    "specialization": "frontend",
+    "skills": [
+      "javascript",
+      "typescript",
+      "react"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 3.6
+  },
+  {
+    "id": 59,
+    "pseudo": "A-1058",
+    "theta": 0.6387,
+    "specialization": "mobile",
+    "skills": [
+      "java",
+      "typescript",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 2.9
+  },
+  {
+    "id": 60,
+    "pseudo": "A-1059",
+    "theta": -1.3621,
+    "specialization": "mobile",
+    "skills": [
+      "typescript",
+      "java"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 1.6
+  },
+  {
+    "id": 61,
+    "pseudo": "A-1060",
+    "theta": 1.6463,
+    "specialization": "devops",
+    "skills": [
+      "docker",
+      "kubernetes",
+      "linux",
+      "ci-cd"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 5.2
+  },
+  {
+    "id": 62,
+    "pseudo": "A-1061",
+    "theta": 0.383,
+    "specialization": "frontend",
+    "skills": [
+      "javascript",
+      "typescript",
+      "react"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 3.5
+  },
+  {
+    "id": 63,
+    "pseudo": "A-1062",
+    "theta": 0.1842,
+    "specialization": "data",
+    "skills": [
+      "statistics",
+      "sql",
+      "python",
+      "pytorch"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 3.4
+  },
+  {
+    "id": 64,
+    "pseudo": "A-1063",
+    "theta": -0.3721,
+    "specialization": "qa",
+    "skills": [
+      "pytest",
+      "sql",
+      "python"
+    ],
+    "fsp": true,
+    "city": "Yekaterinburg",
+    "years_experience": 2.0
+  },
+  {
+    "id": 65,
+    "pseudo": "A-1064",
+    "theta": 0.8569,
+    "specialization": "frontend",
+    "skills": [
+      "typescript",
+      "react"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 4.7
+  },
+  {
+    "id": 66,
+    "pseudo": "A-1065",
+    "theta": 1.4383,
+    "specialization": "mobile",
+    "skills": [
+      "typescript",
+      "java"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 4.2
+  },
+  {
+    "id": 67,
+    "pseudo": "A-1066",
+    "theta": 1.2198,
+    "specialization": "data",
+    "skills": [
+      "pytorch",
+      "statistics",
+      "python",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 4.0
+  },
+  {
+    "id": 68,
+    "pseudo": "A-1067",
+    "theta": -0.7045,
+    "specialization": "frontend",
+    "skills": [
+      "react",
+      "javascript",
+      "typescript"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 2.3
+  },
+  {
+    "id": 69,
+    "pseudo": "A-1068",
+    "theta": -1.3413,
+    "specialization": "backend",
+    "skills": [
+      "python",
+      "api-design",
+      "postgresql"
+    ],
+    "fsp": true,
+    "city": "Saint Petersburg",
+    "years_experience": 2.3
+  },
+  {
+    "id": 70,
+    "pseudo": "A-1069",
+    "theta": -1.6755,
+    "specialization": "backend",
+    "skills": [
+      "python",
+      "postgresql",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 1.9
+  },
+  {
+    "id": 71,
+    "pseudo": "A-1070",
+    "theta": 1.2138,
+    "specialization": "data",
+    "skills": [
+      "python",
+      "statistics",
+      "pytorch",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 4.0
+  },
+  {
+    "id": 72,
+    "pseudo": "A-1071",
+    "theta": 0.8069,
+    "specialization": "backend",
+    "skills": [
+      "go",
+      "sql",
+      "python",
+      "api-design",
+      "postgresql"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 3.6
+  },
+  {
+    "id": 73,
+    "pseudo": "A-1072",
+    "theta": -0.7395,
+    "specialization": "data",
+    "skills": [
+      "python",
+      "sql",
+      "pytorch",
+      "statistics"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 2.9
+  },
+  {
+    "id": 74,
+    "pseudo": "A-1073",
+    "theta": 0.3579,
+    "specialization": "frontend",
+    "skills": [
+      "typescript",
+      "javascript"
+    ],
+    "fsp": true,
+    "city": "Yekaterinburg",
+    "years_experience": 3.1
+  },
+  {
+    "id": 75,
+    "pseudo": "A-1074",
+    "theta": 1.2795,
+    "specialization": "devops",
+    "skills": [
+      "kubernetes",
+      "linux",
+      "docker",
+      "ci-cd"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 4.7
+  },
+  {
+    "id": 76,
+    "pseudo": "A-1075",
+    "theta": 0.077,
+    "specialization": "qa",
+    "skills": [
+      "python",
+      "sql",
+      "pytest"
+    ],
+    "fsp": true,
+    "city": "Saint Petersburg",
+    "years_experience": 3.8
+  },
+  {
+    "id": 77,
+    "pseudo": "A-1076",
+    "theta": 0.0697,
+    "specialization": "backend",
+    "skills": [
+      "api-design",
+      "python",
+      "go"
+    ],
+    "fsp": true,
+    "city": "Yekaterinburg",
+    "years_experience": 2.3
+  },
+  {
+    "id": 78,
+    "pseudo": "A-1077",
+    "theta": 1.6838,
+    "specialization": "qa",
+    "skills": [
+      "python",
+      "pytest",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Yekaterinburg",
+    "years_experience": 3.9
+  },
+  {
+    "id": 79,
+    "pseudo": "A-1078",
+    "theta": -1.3057,
+    "specialization": "backend",
+    "skills": [
+      "python",
+      "go"
+    ],
+    "fsp": true,
+    "city": "Yekaterinburg",
+    "years_experience": 2.4
+  },
+  {
+    "id": 80,
+    "pseudo": "A-1079",
+    "theta": -0.1068,
+    "specialization": "frontend",
+    "skills": [
+      "react",
+      "javascript"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 2.9
+  },
+  {
+    "id": 81,
+    "pseudo": "A-1080",
+    "theta": 2.3766,
+    "specialization": "qa",
+    "skills": [
+      "sql",
+      "python",
+      "pytest"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 5.4
+  },
+  {
+    "id": 82,
+    "pseudo": "A-1081",
+    "theta": -0.7388,
+    "specialization": "frontend",
+    "skills": [
+      "react",
+      "typescript",
+      "javascript"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 2.3
+  },
+  {
+    "id": 83,
+    "pseudo": "A-1082",
+    "theta": -0.0176,
+    "specialization": "backend",
+    "skills": [
+      "python",
+      "api-design"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 2.3
+  },
+  {
+    "id": 84,
+    "pseudo": "A-1083",
+    "theta": -0.8057,
+    "specialization": "backend",
+    "skills": [
+      "postgresql",
+      "api-design",
+      "go",
+      "python"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 2.3
+  },
+  {
+    "id": 85,
+    "pseudo": "A-1084",
+    "theta": 2.6019,
+    "specialization": "data",
+    "skills": [
+      "pytorch",
+      "statistics",
+      "python",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Yekaterinburg",
+    "years_experience": 4.7
+  },
+  {
+    "id": 86,
+    "pseudo": "A-1085",
+    "theta": -0.9077,
+    "specialization": "qa",
+    "skills": [
+      "pytest",
+      "python"
+    ],
+    "fsp": true,
+    "city": "Yekaterinburg",
+    "years_experience": 2.3
+  },
+  {
+    "id": 87,
+    "pseudo": "A-1086",
+    "theta": 0.3658,
+    "specialization": "mobile",
+    "skills": [
+      "java",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 2.9
+  },
+  {
+    "id": 88,
+    "pseudo": "A-1087",
+    "theta": -1.1299,
+    "specialization": "qa",
+    "skills": [
+      "python",
+      "pytest"
+    ],
+    "fsp": true,
+    "city": "Yekaterinburg",
+    "years_experience": 1.7
+  },
+  {
+    "id": 89,
+    "pseudo": "A-1088",
+    "theta": -0.4896,
+    "specialization": "frontend",
+    "skills": [
+      "javascript",
+      "typescript"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 2.5
+  },
+  {
+    "id": 90,
+    "pseudo": "A-1089",
+    "theta": 0.7927,
+    "specialization": "devops",
+    "skills": [
+      "kubernetes",
+      "ci-cd"
+    ],
+    "fsp": true,
+    "city": "Yekaterinburg",
+    "years_experience": 3.6
+  },
+  {
+    "id": 91,
+    "pseudo": "A-1090",
+    "theta": -0.44,
+    "specialization": "data",
+    "skills": [
+      "python",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 1.7
+  },
+  {
+    "id": 92,
+    "pseudo": "A-1091",
+    "theta": 0.5312,
+    "specialization": "data",
+    "skills": [
+      "python",
+      "statistics"
+    ],
+    "fsp": true,
+    "city": "Yekaterinburg",
+    "years_experience": 2.9
+  },
+  {
+    "id": 93,
+    "pseudo": "A-1092",
+    "theta": 1.0416,
+    "specialization": "qa",
+    "skills": [
+      "pytest",
+      "sql",
+      "python"
+    ],
+    "fsp": true,
+    "city": "Yekaterinburg",
+    "years_experience": 3.4
+  },
+  {
+    "id": 94,
+    "pseudo": "A-1093",
+    "theta": 1.0784,
+    "specialization": "data",
+    "skills": [
+      "statistics",
+      "sql",
+      "python"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 4.5
+  },
+  {
+    "id": 95,
+    "pseudo": "A-1094",
+    "theta": -0.6452,
+    "specialization": "frontend",
+    "skills": [
+      "javascript",
+      "react",
+      "typescript"
+    ],
+    "fsp": true,
+    "city": "Saint Petersburg",
+    "years_experience": 3.2
+  },
+  {
+    "id": 96,
+    "pseudo": "A-1095",
+    "theta": 0.117,
+    "specialization": "qa",
+    "skills": [
+      "sql",
+      "python",
+      "pytest"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 3.3
+  },
+  {
+    "id": 97,
+    "pseudo": "A-1096",
+    "theta": 1.422,
+    "specialization": "devops",
+    "skills": [
+      "ci-cd",
+      "docker"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 4.1
+  },
+  {
+    "id": 98,
+    "pseudo": "A-1097",
+    "theta": -1.5023,
+    "specialization": "devops",
+    "skills": [
+      "kubernetes",
+      "docker"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 1.8
+  },
+  {
+    "id": 99,
+    "pseudo": "A-1098",
+    "theta": 0.5304,
+    "specialization": "data",
+    "skills": [
+      "python",
+      "statistics",
+      "sql",
+      "pytorch"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 2.9
+  },
+  {
+    "id": 100,
+    "pseudo": "A-1099",
+    "theta": -2.5,
+    "specialization": "qa",
+    "skills": [
+      "sql",
+      "python",
+      "pytest"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 1.2
+  },
+  {
+    "id": 101,
+    "pseudo": "A-1100",
+    "theta": 0.6165,
+    "specialization": "mobile",
+    "skills": [
+      "java",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 4.0
+  },
+  {
+    "id": 102,
+    "pseudo": "A-1101",
+    "theta": 1.2513,
+    "specialization": "data",
+    "skills": [
+      "pytorch",
+      "python",
+      "statistics"
+    ],
+    "fsp": true,
+    "city": "Saint Petersburg",
+    "years_experience": 4.6
+  },
+  {
+    "id": 103,
+    "pseudo": "A-1102",
+    "theta": -0.3893,
+    "specialization": "devops",
+    "skills": [
+      "ci-cd",
+      "kubernetes"
+    ],
+    "fsp": true,
+    "city": "Yekaterinburg",
+    "years_experience": 1.8
+  },
+  {
+    "id": 104,
+    "pseudo": "A-1103",
+    "theta": 0.7195,
+    "specialization": "mobile",
+    "skills": [
+      "typescript",
+      "java",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 4.4
+  },
+  {
+    "id": 105,
+    "pseudo": "A-1104",
+    "theta": 0.7271,
+    "specialization": "backend",
+    "skills": [
+      "api-design",
+      "go"
+    ],
+    "fsp": true,
+    "city": "Yekaterinburg",
+    "years_experience": 4.2
+  },
+  {
+    "id": 106,
+    "pseudo": "A-1105",
+    "theta": 1.5416,
+    "specialization": "devops",
+    "skills": [
+      "ci-cd",
+      "kubernetes",
+      "linux"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 4.5
+  },
+  {
+    "id": 107,
+    "pseudo": "A-1106",
+    "theta": 0.3283,
+    "specialization": "frontend",
+    "skills": [
+      "typescript",
+      "react",
+      "javascript"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 2.6
+  },
+  {
+    "id": 108,
+    "pseudo": "A-1107",
+    "theta": -0.1674,
+    "specialization": "qa",
+    "skills": [
+      "pytest",
+      "python",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 2.1
+  },
+  {
+    "id": 109,
+    "pseudo": "A-1108",
+    "theta": -0.4805,
+    "specialization": "frontend",
+    "skills": [
+      "javascript",
+      "typescript",
+      "react"
+    ],
+    "fsp": true,
+    "city": "Saint Petersburg",
+    "years_experience": 1.9
+  },
+  {
+    "id": 110,
+    "pseudo": "A-1109",
+    "theta": -0.8864,
+    "specialization": "mobile",
+    "skills": [
+      "sql",
+      "typescript"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 1.8
+  },
+  {
+    "id": 111,
+    "pseudo": "A-1110",
+    "theta": 2.0538,
+    "specialization": "devops",
+    "skills": [
+      "docker",
+      "kubernetes",
+      "ci-cd",
+      "linux"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 4.5
+  },
+  {
+    "id": 112,
+    "pseudo": "A-1111",
+    "theta": -0.4405,
+    "specialization": "mobile",
+    "skills": [
+      "typescript",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 2.8
+  },
+  {
+    "id": 113,
+    "pseudo": "A-1112",
+    "theta": -2.5,
+    "specialization": "devops",
+    "skills": [
+      "kubernetes",
+      "ci-cd",
+      "linux"
+    ],
+    "fsp": true,
+    "city": "Saint Petersburg",
+    "years_experience": 0
+  },
+  {
+    "id": 114,
+    "pseudo": "A-1113",
+    "theta": -1.5951,
+    "specialization": "mobile",
+    "skills": [
+      "sql",
+      "typescript"
+    ],
+    "fsp": true,
+    "city": "Saint Petersburg",
+    "years_experience": 2.4
+  },
+  {
+    "id": 115,
+    "pseudo": "A-1114",
+    "theta": 0.2653,
+    "specialization": "qa",
+    "skills": [
+      "sql",
+      "pytest"
+    ],
+    "fsp": true,
+    "city": "Kazan",
+    "years_experience": 3.3
+  },
+  {
+    "id": 116,
+    "pseudo": "A-1115",
+    "theta": 0.8161,
+    "specialization": "qa",
+    "skills": [
+      "python",
+      "sql",
+      "pytest"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 3.2
+  },
+  {
+    "id": 117,
+    "pseudo": "A-1116",
+    "theta": -0.1606,
+    "specialization": "devops",
+    "skills": [
+      "linux",
+      "kubernetes",
+      "ci-cd",
+      "docker"
+    ],
+    "fsp": true,
+    "city": "Yekaterinburg",
+    "years_experience": 2.7
+  },
+  {
+    "id": 118,
+    "pseudo": "A-1117",
+    "theta": -0.4335,
+    "specialization": "frontend",
+    "skills": [
+      "javascript",
+      "react",
+      "typescript"
+    ],
+    "fsp": true,
+    "city": "Berlin",
+    "years_experience": 2.9
+  },
+  {
+    "id": 119,
+    "pseudo": "A-1118",
+    "theta": 0.661,
+    "specialization": "mobile",
+    "skills": [
+      "java",
+      "sql"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 4.2
+  },
+  {
+    "id": 120,
+    "pseudo": "A-1119",
+    "theta": -0.8953,
+    "specialization": "frontend",
+    "skills": [
+      "react",
+      "typescript"
+    ],
+    "fsp": true,
+    "city": "Moscow",
+    "years_experience": 2.4
+  },
+  {
+    "id": 121,
+    "pseudo": "A-1120",
+    "theta": -1.2348,
+    "specialization": "data",
+    "skills": [
+      "pytorch",
+      "python"
+    ],
+    "fsp": false,
+    "city": "Saint Petersburg",
+    "years_experience": 2.7
+  },
+  {
+    "id": 122,
+    "pseudo": "A-1121",
+    "theta": -0.1877,
+    "specialization": "mobile",
+    "skills": [
+      "typescript",
+      "sql"
+    ],
+    "fsp": false,
+    "city": "Yekaterinburg",
+    "years_experience": 2.4
+  },
+  {
+    "id": 123,
+    "pseudo": "A-1122",
+    "theta": -0.4129,
+    "specialization": "mobile",
+    "skills": [
+      "sql",
+      "typescript",
+      "java"
+    ],
+    "fsp": false,
+    "city": "Moscow",
+    "years_experience": 2.0
+  },
+  {
+    "id": 124,
+    "pseudo": "A-1123",
+    "theta": 0.4489,
+    "specialization": "data",
+    "skills": [
+      "sql",
+      "pytorch",
+      "statistics",
+      "python"
+    ],
+    "fsp": false,
+    "city": "Kazan",
+    "years_experience": 4.2
+  },
+  {
+    "id": 125,
+    "pseudo": "A-1124",
+    "theta": -0.5251,
+    "specialization": "data",
+    "skills": [
+      "pytorch",
+      "python",
+      "statistics"
+    ],
+    "fsp": false,
+    "city": "Berlin",
+    "years_experience": 2.4
+  },
+  {
+    "id": 126,
+    "pseudo": "A-1125",
+    "theta": 0.094,
+    "specialization": "backend",
+    "skills": [
+      "sql",
+      "postgresql",
+      "go",
+      "api-design",
+      "python"
+    ],
+    "fsp": false,
+    "city": "Saint Petersburg",
+    "years_experience": 3.8
+  },
+  {
+    "id": 127,
+    "pseudo": "A-1126",
+    "theta": 0.2078,
+    "specialization": "mobile",
+    "skills": [
+      "sql",
+      "typescript",
+      "java"
+    ],
+    "fsp": false,
+    "city": "Moscow",
+    "years_experience": 3.1
+  },
+  {
+    "id": 128,
+    "pseudo": "A-1127",
+    "theta": 0.2675,
+    "specialization": "frontend",
+    "skills": [
+      "react",
+      "javascript",
+      "typescript"
+    ],
+    "fsp": false,
+    "city": "Kazan",
+    "years_experience": 2.6
+  },
+  {
+    "id": 129,
+    "pseudo": "A-1128",
+    "theta": -0.0774,
+    "specialization": "mobile",
+    "skills": [
+      "sql",
+      "java"
+    ],
+    "fsp": false,
+    "city": "Moscow",
+    "years_experience": 3.1
+  },
+  {
+    "id": 130,
+    "pseudo": "A-1129",
+    "theta": -0.4211,
+    "specialization": "devops",
+    "skills": [
+      "ci-cd",
+      "docker"
+    ],
+    "fsp": false,
+    "city": "Saint Petersburg",
+    "years_experience": 3.2
+  },
+  {
+    "id": 131,
+    "pseudo": "A-1130",
+    "theta": -1.0745,
+    "specialization": "frontend",
+    "skills": [
+      "typescript",
+      "react"
+    ],
+    "fsp": false,
+    "city": "Berlin",
+    "years_experience": 2.5
+  },
+  {
+    "id": 132,
+    "pseudo": "A-1131",
+    "theta": -0.4894,
+    "specialization": "backend",
+    "skills": [
+      "go",
+      "python",
+      "api-design"
+    ],
+    "fsp": false,
+    "city": "Saint Petersburg",
+    "years_experience": 2.3
+  },
+  {
+    "id": 133,
+    "pseudo": "A-1132",
+    "theta": -1.3095,
+    "specialization": "mobile",
+    "skills": [
+      "sql",
+      "typescript"
+    ],
+    "fsp": false,
+    "city": "Saint Petersburg",
+    "years_experience": 1.4
+  },
+  {
+    "id": 134,
+    "pseudo": "A-1133",
+    "theta": 0.8265,
+    "specialization": "frontend",
+    "skills": [
+      "typescript",
+      "javascript"
+    ],
+    "fsp": false,
+    "city": "Yekaterinburg",
+    "years_experience": 3.8
+  },
+  {
+    "id": 135,
+    "pseudo": "A-1134",
+    "theta": -2.5,
+    "specialization": "frontend",
+    "skills": [
+      "react",
+      "typescript",
+      "javascript"
+    ],
+    "fsp": false,
+    "city": "Moscow",
+    "years_experience": 0
+  },
+  {
+    "id": 136,
+    "pseudo": "A-1135",
+    "theta": -2.344,
+    "specialization": "data",
+    "skills": [
+      "python",
+      "statistics"
+    ],
+    "fsp": false,
+    "city": "Yekaterinburg",
+    "years_experience": 1.4
+  },
+  {
+    "id": 137,
+    "pseudo": "A-1136",
+    "theta": -0.2729,
+    "specialization": "backend",
+    "skills": [
+      "python",
+      "api-design",
+      "go"
+    ],
+    "fsp": false,
+    "city": "Kazan",
+    "years_experience": 3.5
+  },
+  {
+    "id": 138,
+    "pseudo": "A-1137",
+    "theta": -1.2431,
+    "specialization": "devops",
+    "skills": [
+      "kubernetes",
+      "ci-cd",
+      "linux",
+      "docker"
+    ],
+    "fsp": false,
+    "city": "Kazan",
+    "years_experience": 2.6
+  },
+  {
+    "id": 139,
+    "pseudo": "A-1138",
+    "theta": 1.9239,
+    "specialization": "data",
+    "skills": [
+      "statistics",
+      "pytorch",
+      "sql",
+      "python"
+    ],
+    "fsp": false,
+    "city": "Kazan",
+    "years_experience": 4.2
+  },
+  {
+    "id": 140,
+    "pseudo": "A-1139",
+    "theta": -0.8775,
+    "specialization": "data",
+    "skills": [
+      "sql",
+      "python"
+    ],
+    "fsp": false,
+    "city": "Yekaterinburg",
+    "years_experience": 3.0
+  },
+  {
+    "id": 141,
+    "pseudo": "A-1140",
+    "theta": -0.7811,
+    "specialization": "devops",
+    "skills": [
+      "kubernetes",
+      "docker"
+    ],
+    "fsp": false,
+    "city": "Berlin",
+    "years_experience": 3.1
+  },
+  {
+    "id": 142,
+    "pseudo": "A-1141",
+    "theta": -0.4791,
+    "specialization": "qa",
+    "skills": [
+      "pytest",
+      "python"
+    ],
+    "fsp": false,
+    "city": "Berlin",
+    "years_experience": 2.2
+  },
+  {
+    "id": 143,
+    "pseudo": "A-1142",
+    "theta": -0.577,
+    "specialization": "backend",
+    "skills": [
+      "python",
+      "go",
+      "api-design",
+      "sql"
+    ],
+    "fsp": false,
+    "city": "Saint Petersburg",
+    "years_experience": 1.7
+  },
+  {
+    "id": 144,
+    "pseudo": "A-1143",
+    "theta": -0.4659,
+    "specialization": "devops",
+    "skills": [
+      "kubernetes",
+      "docker",
+      "ci-cd"
+    ],
+    "fsp": false,
+    "city": "Yekaterinburg",
+    "years_experience": 3.5
+  },
+  {
+    "id": 145,
+    "pseudo": "A-1144",
+    "theta": -0.0901,
+    "specialization": "frontend",
+    "skills": [
+      "react",
+      "typescript"
+    ],
+    "fsp": false,
+    "city": "Moscow",
+    "years_experience": 2.4
+  },
+  {
+    "id": 146,
+    "pseudo": "A-1145",
+    "theta": 1.775,
+    "specialization": "mobile",
+    "skills": [
+      "typescript",
+      "java",
+      "sql"
+    ],
+    "fsp": false,
+    "city": "Yekaterinburg",
+    "years_experience": 4.7
+  },
+  {
+    "id": 147,
+    "pseudo": "A-1146",
+    "theta": 0.2408,
+    "specialization": "devops",
+    "skills": [
+      "ci-cd",
+      "docker",
+      "kubernetes",
+      "linux"
+    ],
+    "fsp": false,
+    "city": "Yekaterinburg",
+    "years_experience": 2.7
+  },
+  {
+    "id": 148,
+    "pseudo": "A-1147",
+    "theta": 2.2316,
+    "specialization": "data",
+    "skills": [
+      "pytorch",
+      "python"
+    ],
+    "fsp": false,
+    "city": "Berlin",
+    "years_experience": 4.9
+  },
+  {
+    "id": 149,
+    "pseudo": "A-1148",
+    "theta": 0.1496,
+    "specialization": "devops",
+    "skills": [
+      "kubernetes",
+      "docker",
+      "ci-cd",
+      "linux"
+    ],
+    "fsp": false,
+    "city": "Kazan",
+    "years_experience": 3.2
+  },
+  {
+    "id": 150,
+    "pseudo": "A-1149",
+    "theta": 0.8885,
+    "specialization": "data",
+    "skills": [
+      "sql",
+      "pytorch",
+      "statistics",
+      "python"
+    ],
+    "fsp": false,
+    "city": "Yekaterinburg",
+    "years_experience": 4.1
+  },
+  {
+    "id": 151,
+    "pseudo": "A-1150",
+    "theta": 0.8218,
+    "specialization": "qa",
+    "skills": [
+      "python",
+      "sql",
+      "pytest"
+    ],
+    "fsp": false,
+    "city": "Saint Petersburg",
+    "years_experience": 4.3
+  },
+  {
+    "id": 152,
+    "pseudo": "A-1151",
+    "theta": 0.4548,
+    "specialization": "mobile",
+    "skills": [
+      "java",
+      "typescript",
+      "sql"
+    ],
+    "fsp": false,
+    "city": "Yekaterinburg",
+    "years_experience": 3.5
+  },
+  {
+    "id": 153,
+    "pseudo": "A-1152",
+    "theta": 0.2125,
+    "specialization": "devops",
+    "skills": [
+      "ci-cd",
+      "linux",
+      "kubernetes",
+      "docker"
+    ],
+    "fsp": false,
+    "city": "Moscow",
+    "years_experience": 2.5
+  },
+  {
+    "id": 154,
+    "pseudo": "A-1153",
+    "theta": 2.6866,
+    "specialization": "data",
+    "skills": [
+      "sql",
+      "pytorch"
+    ],
+    "fsp": false,
+    "city": "Berlin",
+    "years_experience": 5.9
+  },
+  {
+    "id": 155,
+    "pseudo": "A-1154",
+    "theta": -1.913,
+    "specialization": "mobile",
+    "skills": [
+      "java",
+      "typescript"
+    ],
+    "fsp": false,
+    "city": "Moscow",
+    "years_experience": 0.9
+  },
+  {
+    "id": 156,
+    "pseudo": "A-1155",
+    "theta": -0.7299,
+    "specialization": "backend",
+    "skills": [
+      "go",
+      "python",
+      "api-design",
+      "sql"
+    ],
+    "fsp": false,
+    "city": "Kazan",
+    "years_experience": 3.1
+  },
+  {
+    "id": 157,
+    "pseudo": "A-1156",
+    "theta": 0.8291,
+    "specialization": "data",
+    "skills": [
+      "sql",
+      "statistics",
+      "pytorch",
+      "python"
+    ],
+    "fsp": false,
+    "city": "Yekaterinburg",
+    "years_experience": 3.6
+  },
+  {
+    "id": 158,
+    "pseudo": "A-1157",
+    "theta": -0.5029,
+    "specialization": "mobile",
+    "skills": [
+      "sql",
+      "typescript",
+      "java"
+    ],
+    "fsp": false,
+    "city": "Saint Petersburg",
+    "years_experience": 1.5
+  },
+  {
+    "id": 159,
+    "pseudo": "A-1158",
+    "theta": 2.6239,
+    "specialization": "data",
+    "skills": [
+      "statistics",
+      "sql",
+      "python",
+      "pytorch"
+    ],
+    "fsp": false,
+    "city": "Yekaterinburg",
+    "years_experience": 4.9
+  },
+  {
+    "id": 160,
+    "pseudo": "A-1159",
+    "theta": -2.5,
+    "specialization": "mobile",
+    "skills": [
+      "java",
+      "typescript",
+      "sql"
+    ],
+    "fsp": false,
+    "city": "Berlin",
+    "years_experience": 1.0
+  },
+  {
+    "id": 161,
+    "pseudo": "A-1160",
+    "theta": -0.355,
+    "specialization": "frontend",
+    "skills": [
+      "javascript",
+      "react",
+      "typescript"
+    ],
+    "fsp": false,
+    "city": "Berlin",
+    "years_experience": 3.3
+  },
+  {
+    "id": 162,
+    "pseudo": "A-1161",
+    "theta": -2.3107,
+    "specialization": "frontend",
+    "skills": [
+      "react",
+      "typescript"
+    ],
+    "fsp": false,
+    "city": "Kazan",
+    "years_experience": 1.3
+  },
+  {
+    "id": 163,
+    "pseudo": "A-1162",
+    "theta": 0.5587,
+    "specialization": "frontend",
+    "skills": [
+      "javascript",
+      "typescript"
+    ],
+    "fsp": false,
+    "city": "Yekaterinburg",
+    "years_experience": 4.3
+  },
+  {
+    "id": 164,
+    "pseudo": "A-1163",
+    "theta": 0.5171,
+    "specialization": "qa",
+    "skills": [
+      "sql",
+      "pytest",
+      "python"
+    ],
+    "fsp": false,
+    "city": "Yekaterinburg",
+    "years_experience": 3.3
+  },
+  {
+    "id": 165,
+    "pseudo": "A-1164",
+    "theta": 0.136,
+    "specialization": "backend",
+    "skills": [
+      "sql",
+      "api-design"
+    ],
+    "fsp": false,
+    "city": "Kazan",
+    "years_experience": 2.4
+  },
+  {
+    "id": 166,
+    "pseudo": "A-1165",
+    "theta": 0.4669,
+    "specialization": "mobile",
+    "skills": [
+      "java",
+      "sql",
+      "typescript"
+    ],
+    "fsp": false,
+    "city": "Saint Petersburg",
+    "years_experience": 3.2
+  },
+  {
+    "id": 167,
+    "pseudo": "A-1166",
+    "theta": 0.0977,
+    "specialization": "mobile",
+    "skills": [
+      "typescript",
+      "java"
+    ],
+    "fsp": false,
+    "city": "Kazan",
+    "years_experience": 3.0
+  },
+  {
+    "id": 168,
+    "pseudo": "A-1167",
+    "theta": -1.9863,
+    "specialization": "backend",
+    "skills": [
+      "postgresql",
+      "go"
+    ],
+    "fsp": false,
+    "city": "Yekaterinburg",
+    "years_experience": 0.7
+  },
+  {
+    "id": 169,
+    "pseudo": "A-1168",
+    "theta": -1.8587,
+    "specialization": "backend",
+    "skills": [
+      "postgresql",
+      "go",
+      "sql"
+    ],
+    "fsp": false,
+    "city": "Berlin",
+    "years_experience": 0.6
+  },
+  {
+    "id": 170,
+    "pseudo": "A-1169",
+    "theta": -1.0891,
+    "specialization": "backend",
+    "skills": [
+      "python",
+      "go",
+      "api-design"
+    ],
+    "fsp": false,
+    "city": "Yekaterinburg",
+    "years_experience": 2.6
+  },
+  {
+    "id": 171,
+    "pseudo": "A-1170",
+    "theta": -1.8829,
+    "specialization": "mobile",
+    "skills": [
+      "typescript",
+      "sql",
+      "java"
+    ],
+    "fsp": false,
+    "city": "Moscow",
+    "years_experience": 2.0
+  },
+  {
+    "id": 172,
+    "pseudo": "A-1171",
+    "theta": -1.9072,
+    "specialization": "devops",
+    "skills": [
+      "linux",
+      "ci-cd",
+      "docker"
+    ],
+    "fsp": false,
+    "city": "Berlin",
+    "years_experience": 0.9
+  },
+  {
+    "id": 173,
+    "pseudo": "A-1172",
+    "theta": 2.8555,
+    "specialization": "qa",
+    "skills": [
+      "pytest",
+      "python"
+    ],
+    "fsp": false,
+    "city": "Moscow",
+    "years_experience": 6.0
+  },
+  {
+    "id": 174,
+    "pseudo": "A-1173",
+    "theta": 0.7987,
+    "specialization": "backend",
+    "skills": [
+      "go",
+      "python",
+      "sql",
+      "postgresql"
+    ],
+    "fsp": false,
+    "city": "Berlin",
+    "years_experience": 4.3
+  },
+  {
+    "id": 175,
+    "pseudo": "A-1174",
+    "theta": 2.0467,
+    "specialization": "frontend",
+    "skills": [
+      "typescript",
+      "javascript",
+      "react"
+    ],
+    "fsp": false,
+    "city": "Yekaterinburg",
+    "years_experience": 5.3
+  },
+  {
+    "id": 176,
+    "pseudo": "A-1175",
+    "theta": -1.1839,
+    "specialization": "data",
+    "skills": [
+      "pytorch",
+      "sql",
+      "python",
+      "statistics"
+    ],
+    "fsp": false,
+    "city": "Berlin",
+    "years_experience": 2.7
+  },
+  {
+    "id": 177,
+    "pseudo": "A-1176",
+    "theta": -0.9423,
+    "specialization": "qa",
+    "skills": [
+      "pytest",
+      "python"
+    ],
+    "fsp": false,
+    "city": "Kazan",
+    "years_experience": 2.6
+  },
+  {
+    "id": 178,
+    "pseudo": "A-1177",
+    "theta": 0.164,
+    "specialization": "backend",
+    "skills": [
+      "api-design",
+      "python",
+      "go",
+      "postgresql"
+    ],
+    "fsp": false,
+    "city": "Yekaterinburg",
+    "years_experience": 2.7
+  },
+  {
+    "id": 179,
+    "pseudo": "A-1178",
+    "theta": -1.0516,
+    "specialization": "qa",
+    "skills": [
+      "sql",
+      "pytest"
+    ],
+    "fsp": false,
+    "city": "Berlin",
+    "years_experience": 2.1
+  },
+  {
+    "id": 180,
+    "pseudo": "A-1179",
+    "theta": -0.0127,
+    "specialization": "qa",
+    "skills": [
+      "python",
+      "pytest"
+    ],
+    "fsp": false,
+    "city": "Saint Petersburg",
+    "years_experience": 3.8
+  },
+  {
+    "id": 181,
+    "pseudo": "A-1180",
+    "theta": 0.7142,
+    "specialization": "mobile",
+    "skills": [
+      "java",
+      "typescript",
+      "sql"
+    ],
+    "fsp": false,
+    "city": "Berlin",
+    "years_experience": 4.3
+  },
+  {
+    "id": 182,
+    "pseudo": "A-1181",
+    "theta": -0.0662,
+    "specialization": "devops",
+    "skills": [
+      "ci-cd",
+      "docker",
+      "linux",
+      "kubernetes"
+    ],
+    "fsp": false,
+    "city": "Saint Petersburg",
+    "years_experience": 3.0
+  },
+  {
+    "id": 183,
+    "pseudo": "A-1182",
+    "theta": 0.0538,
+    "specialization": "data",
+    "skills": [
+      "statistics",
+      "sql",
+      "python"
+    ],
+    "fsp": false,
+    "city": "Saint Petersburg",
+    "years_experience": 3.6
+  },
+  {
+    "id": 184,
+    "pseudo": "A-1183",
+    "theta": 0.5538,
+    "specialization": "qa",
+    "skills": [
+      "pytest",
+      "python"
+    ],
+    "fsp": false,
+    "city": "Berlin",
+    "years_experience": 3.2
+  },
+  {
+    "id": 185,
+    "pseudo": "A-1184",
+    "theta": -1.4933,
+    "specialization": "qa",
+    "skills": [
+      "sql",
+      "python"
+    ],
+    "fsp": false,
+    "city": "Saint Petersburg",
+    "years_experience": 1.5
+  },
+  {
+    "id": 186,
+    "pseudo": "A-1185",
+    "theta": -1.1882,
+    "specialization": "backend",
+    "skills": [
+      "sql",
+      "python",
+      "go"
+    ],
+    "fsp": false,
+    "city": "Saint Petersburg",
+    "years_experience": 1.4
+  },
+  {
+    "id": 187,
+    "pseudo": "A-1186",
+    "theta": 0.1947,
+    "specialization": "qa",
+    "skills": [
+      "pytest",
+      "sql"
+    ],
+    "fsp": false,
+    "city": "Yekaterinburg",
+    "years_experience": 3.7
+  },
+  {
+    "id": 188,
+    "pseudo": "A-1187",
+    "theta": -1.3397,
+    "specialization": "data",
+    "skills": [
+      "statistics",
+      "pytorch"
+    ],
+    "fsp": false,
+    "city": "Saint Petersburg",
+    "years_experience": 1.4
+  },
+  {
+    "id": 189,
+    "pseudo": "A-1188",
+    "theta": 1.8768,
+    "specialization": "backend",
+    "skills": [
+      "python",
+      "api-design",
+      "postgresql"
+    ],
+    "fsp": false,
+    "city": "Saint Petersburg",
+    "years_experience": 5.4
+  },
+  {
+    "id": 190,
+    "pseudo": "A-1189",
+    "theta": 1.1776,
+    "specialization": "mobile",
+    "skills": [
+      "sql",
+      "typescript"
+    ],
+    "fsp": false,
+    "city": "Moscow",
+    "years_experience": 4.1
+  },
+  {
+    "id": 191,
+    "pseudo": "A-1190",
+    "theta": 2.4206,
+    "specialization": "data",
+    "skills": [
+      "sql",
+      "python",
+      "statistics",
+      "pytorch"
+    ],
+    "fsp": false,
+    "city": "Moscow",
+    "years_experience": 5.4
+  },
+  {
+    "id": 192,
+    "pseudo": "A-1191",
+    "theta": -0.0722,
+    "specialization": "frontend",
+    "skills": [
+      "javascript",
+      "typescript",
+      "react"
+    ],
+    "fsp": false,
+    "city": "Yekaterinburg",
+    "years_experience": 3.7
+  },
+  {
+    "id": 193,
+    "pseudo": "A-1192",
+    "theta": 0.1849,
+    "specialization": "qa",
+    "skills": [
+      "python",
+      "sql"
+    ],
+    "fsp": false,
+    "city": "Yekaterinburg",
+    "years_experience": 2.9
+  },
+  {
+    "id": 194,
+    "pseudo": "A-1193",
+    "theta": -0.7394,
+    "specialization": "qa",
+    "skills": [
+      "sql",
+      "pytest",
+      "python"
+    ],
+    "fsp": false,
+    "city": "Berlin",
+    "years_experience": 2.4
+  },
+  {
+    "id": 195,
+    "pseudo": "A-1194",
+    "theta": -0.1122,
+    "specialization": "qa",
+    "skills": [
+      "pytest",
+      "python"
+    ],
+    "fsp": false,
+    "city": "Berlin",
+    "years_experience": 2.0
+  },
+  {
+    "id": 196,
+    "pseudo": "A-1195",
+    "theta": 2.2233,
+    "specialization": "data",
+    "skills": [
+      "statistics",
+      "python",
+      "pytorch"
+    ],
+    "fsp": false,
+    "city": "Moscow",
+    "years_experience": 5.7
+  },
+  {
+    "id": 197,
+    "pseudo": "A-1196",
+    "theta": 1.834,
+    "specialization": "devops",
+    "skills": [
+      "kubernetes",
+      "linux",
+      "ci-cd"
+    ],
+    "fsp": false,
+    "city": "Moscow",
+    "years_experience": 5.8
+  },
+  {
+    "id": 198,
+    "pseudo": "A-1197",
+    "theta": 1.0899,
+    "specialization": "backend",
+    "skills": [
+      "go",
+      "sql",
+      "api-design"
+    ],
+    "fsp": false,
+    "city": "Kazan",
+    "years_experience": 4.5
+  },
+  {
+    "id": 199,
+    "pseudo": "A-1198",
+    "theta": 1.9034,
+    "specialization": "data",
+    "skills": [
+      "statistics",
+      "pytorch",
+      "sql",
+      "python"
+    ],
+    "fsp": false,
+    "city": "Kazan",
+    "years_experience": 4.5
+  },
+  {
+    "id": 200,
+    "pseudo": "A-1199",
+    "theta": -0.584,
+    "specialization": "mobile",
+    "skills": [
+      "java",
+      "sql",
+      "typescript"
+    ],
+    "fsp": false,
+    "city": "Yekaterinburg",
+    "years_experience": 1.5
+  }
+]
