@@ -15,6 +15,7 @@ export type Catalog = {
   grades: string[];
   skills: { code: string; label: string }[];
   work_formats: string[];
+  app_env: string;
 };
 
 type Ctx = {

@@ -70,8 +70,8 @@ The next item response never contains an expected answer.
 
 The reproducible Day 2 simulation on the 200 synthetic candidates currently reports:
 
-- test–retest correlation: **0.944** (target ≥ 0.85) — pass;
-- θ RMSE: **0.288** (target ≤ 0.35) — pass;
+- test–retest correlation: **0.949** (target ≥ 0.85) — pass;
+- θ RMSE: **0.276** (target ≤ 0.35) — pass;
 - grade agreement: **0.820** (target ≥ 0.80) — pass;
 - mean test length: **11.4** items (range 8–20);
 

@@ -98,6 +98,17 @@ export function TestingPage() {
     finally { setBusy(false); }
   }
 
+  // Повторное прохождение в демонстрации: сбрасывает 90-дневный cooldown.
+  // Эндпоинт доступен только при APP_ENV=dev, поэтому и кнопка показывается
+  // лишь в dev-развёртывании, а не прячется за ошибкой 404.
+  async function resetCooldown() {
+    try {
+      await api.post('/dev/time-travel');
+      await loadStatuses();
+      toast('Ограничение на смену грейда снято — можно пройти тест заново');
+    } catch (e) { toast(e instanceof Error ? e.message : 'Ошибка', 'err'); }
+  }
+
   async function abandon() {
     if (!attempt) return;
     await api.post(`/test/attempts/${attempt.id}/abandon`);
@@ -136,6 +147,14 @@ export function TestingPage() {
               <div className="note warn" style={{ marginTop: 12 }}>
                 Для этой специализации подтверждён {GRADE_LABEL[current!.confirmed_grade!]}.
                 Сменить грейд можно после {dateRu(current!.grade_change_allowed_at)}.
+                {catalog.app_env === 'dev' && (
+                  <>
+                    <br />
+                    <button className="btn sm" style={{ marginTop: 10 }} onClick={resetCooldown}>
+                      Снять ограничение (demo)
+                    </button>
+                  </>
+                )}
               </div>
             )}
           </Card>
@@ -209,7 +228,9 @@ export function TestingPage() {
                 <div className="stat"><span>Стандартная ошибка</span><b>{result.se.toFixed(2)}</b></div>
               </div>
               <div className={`note ${result.grade ? 'ok' : result.recommended_grade ? 'info' : 'warn'}`}>
-                {result.grade
+                {result.grade && result.recommended_grade
+                  ? `Вы решили все задания, включая самые сложные в банке. Уровень ${GRADE_LABEL[result.grade as Grade]} подтверждён — рекомендуем пройти тест на ${GRADE_LABEL[result.recommended_grade as Grade]}.`
+                  : result.grade
                   ? `Результат засчитан. Следующая смена подтверждённого грейда доступна с ${dateRu(result.grade_change_allowed_at)}.`
                   : result.recommended_grade
                     ? `Результат выше заявленного уровня — рекомендуем пройти тест на ${GRADE_LABEL[result.recommended_grade as Grade]}.`

@@ -27,6 +27,7 @@ from app.domain.irt import (
     MAX_ITEMS,
     MIN_ITEMS,
     estimate_theta,
+    extreme_pattern,
     fisher_information,
     grade_for_theta,
     should_stop,
@@ -45,6 +46,41 @@ def _next_grade(grade_name: str) -> str | None:
     except ValueError:
         return None
     return GRADE_ORDER[idx + 1] if idx + 1 < len(GRADE_ORDER) else None
+
+
+GRADE_BANDS = {
+    "junior": (-float("inf"), -0.5),
+    "middle": (-0.5, 0.7),
+    "senior": (0.7, 1.8),
+    "lead": (1.8, float("inf")),
+}
+
+
+def _verdict(
+    requested: str, theta: float, se: float, pattern: str | None, answered: int
+) -> tuple[str | None, str | None]:
+    """Что доказывает ОДНА попытка: (подтверждённый грейд, рекомендованный).
+
+    Вынесено отдельно, потому что вердикт нужен дважды — при завершении попытки
+    и при повторном запросе уже завершённой. Читать в этот момент текущий грейд
+    кандидата нельзя: он мог быть получен в прошлой попытке, и тогда провальный
+    ретест отрапортовал бы о чужом успехе.
+    """
+    if pattern and answered >= MIN_ITEMS:
+        # У предельных наборов SE не интерпретируется — решаем по паттерну.
+        if pattern == "all_correct":
+            # Кандидат побил все задания, что нашлись в банке, включая самые
+            # сложные: заявленный уровень подтверждён, выше — только отдельным тестом.
+            return requested, _next_grade(requested)
+        return None, None  # all_wrong: подтверждать нечего
+    if se > 0.45:
+        return None, None  # измерение слишком неточное
+    low, high = GRADE_BANDS[requested]
+    if low <= theta < high:
+        return requested, None
+    if theta >= high:
+        return None, _next_grade(requested)
+    return None, None  # ниже заявленного: грейд не понижаем, предлагаем уровень ниже
 
 
 async def _candidate(db: AsyncSession, user_id: int) -> CandidateProfile:
@@ -139,16 +175,10 @@ async def _finalize(db: AsyncSession, attempt: TestAttempt) -> FinishOut:
         raise HTTPException(500, "Candidate specialization record is missing")
 
     requested = attempt.requested_grade
-    lower_requested = {"junior": -float("inf"), "middle": -0.5, "senior": 0.7, "lead": 1.8}[requested]
-    upper_requested = {"junior": -0.5, "middle": 0.7, "senior": 1.8, "lead": float("inf")}[requested]
-
-    confirmed = None
-    recommended_grade = None
-    if attempt.se <= 0.45:
-        if lower_requested <= attempt.theta < upper_requested:
-            confirmed = requested
-        elif attempt.theta >= upper_requested:
-            recommended_grade = _next_grade(requested)
+    responses = await _responses(db, attempt)
+    confirmed, recommended_grade = _verdict(
+        requested, attempt.theta, attempt.se, extreme_pattern(responses), len(responses)
+    )
     category_name = None
     if confirmed:
         category = await _category_for(db, attempt.specialization_id, confirmed)
@@ -492,15 +522,19 @@ async def finish_attempt(
         candidate_spec = await _candidate_specialization(db, p.id, attempt.specialization_id) if attempt.specialization_id else None
         specialization = await db.get(Specialization, attempt.specialization_id) if attempt.specialization_id else None
         category = await db.get(Category, candidate_spec.category_id) if candidate_spec and candidate_spec.category_id else None
-        recommended_grade = _next_grade(attempt.requested_grade) if attempt.se <= 0.45 and attempt.theta >= {"junior": -0.5, "middle": 0.7, "senior": 1.8, "lead": float("inf")}[attempt.requested_grade] else None
+        responses = await _responses(db, attempt)
+        confirmed, recommended_grade = _verdict(
+            attempt.requested_grade, attempt.theta, attempt.se,
+            extreme_pattern(responses), len(responses),
+        )
         return FinishOut(
             attempt_id=attempt.id,
             status=attempt.status,
             theta=round(attempt.theta, 4),
             se=round(attempt.se, 4),
-            grade=candidate_spec.confirmed_grade if candidate_spec else None,
+            grade=confirmed,
             recommended_grade=recommended_grade,
-            category=f"{specialization.code} / {candidate_spec.confirmed_grade}" if category and specialization and candidate_spec and candidate_spec.confirmed_grade else None,
+            category=f"{specialization.code} / {confirmed}" if confirmed and specialization else None,
             specialization=specialization.code if specialization else None,
             grade_change_allowed_at=(
                 candidate_spec.grade_change_allowed_at.isoformat()

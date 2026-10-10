@@ -37,3 +37,73 @@ def test_boundary_margin_matches_the_grade_thresholds():
     assert boundary_margin(0.7) == 0.0
     assert boundary_margin(1.25) == 0.55
     assert grade_for_theta(1.25) == "senior"
+
+
+def test_saturated_measurement_runs_to_the_standard_cap_not_past_it():
+    """θ, упёршееся в край шкалы, не должно тянуть попытку до жёсткого предела."""
+    from app.domain.irt import THETA_MAX, measurement_saturated
+
+    assert measurement_saturated(THETA_MAX) is True
+    assert measurement_saturated(1.2) is False
+    # SE у предельного паттерна остаётся высоким, поэтому обычные правила молчат.
+    assert should_stop(MIN_ITEMS, theta=THETA_MAX, se=0.6) is False
+    assert should_stop(MAX_ITEMS, theta=THETA_MAX, se=0.6) is True
+
+
+def test_theta_never_leaves_the_measurable_range():
+    from app.domain.irt import THETA_MAX, THETA_MIN, estimate_theta
+
+    all_correct = [(1, 2.5, 2.6)] * 20
+    all_wrong = [(0, 2.5, -1.5)] * 20
+    assert estimate_theta(all_correct).theta <= THETA_MAX
+    assert estimate_theta(all_wrong).theta >= THETA_MIN
+
+
+def test_extreme_patterns_are_recognised():
+    from app.domain.irt import extreme_pattern
+
+    assert extreme_pattern([(1, 2.0, 0.0)] * 8) == "all_correct"
+    assert extreme_pattern([(0, 2.0, 0.0)] * 8) == "all_wrong"
+    assert extreme_pattern([(1, 2.0, 0.0), (0, 2.0, 0.0)]) is None
+    assert extreme_pattern([]) is None
+
+
+# --- вердикт одной попытки -------------------------------------------------
+
+def verdict(requested, theta, se, pattern=None, answered=12):
+    from app.api.testing import _verdict
+    return _verdict(requested, theta, se, pattern, answered)
+
+
+def test_theta_inside_the_requested_band_confirms_it():
+    assert verdict("middle", theta=0.3, se=0.25) == ("middle", None)
+
+
+def test_theta_above_the_band_recommends_the_next_grade_without_confirming():
+    assert verdict("middle", theta=1.5, se=0.22) == (None, "senior")
+
+
+def test_theta_below_the_band_confirms_nothing_and_recommends_nothing():
+    # Грейд не понижается принудительно: кандидату предлагается тест уровнем ниже.
+    assert verdict("middle", theta=-1.6, se=0.25) == (None, None)
+
+
+def test_imprecise_measurement_never_confirms():
+    assert verdict("middle", theta=0.3, se=0.6) == (None, None)
+
+
+def test_perfect_run_confirms_and_recommends_higher():
+    assert verdict("middle", theta=3.5, se=0.9, pattern="all_correct") == ("middle", "senior")
+
+
+def test_perfect_run_at_the_top_grade_has_nothing_to_recommend():
+    assert verdict("lead", theta=3.5, se=0.9, pattern="all_correct") == ("lead", None)
+
+
+def test_failed_run_confirms_nothing_even_though_se_is_uninterpretable():
+    assert verdict("middle", theta=-3.0, se=0.76, pattern="all_wrong") == (None, None)
+
+
+def test_extreme_pattern_below_the_minimum_falls_back_to_the_normal_rule():
+    # Четыре верных ответа — ещё не доказательство, работает обычная проверка по SE.
+    assert verdict("middle", theta=3.5, se=0.9, pattern="all_correct", answered=4) == (None, None)

@@ -7,6 +7,13 @@ from dataclasses import dataclass
 from typing import Iterable
 
 
+# Границы шкалы, которые банк заданий реально измеряет: сложности b лежат
+# примерно в [-1.6; 2.6]. За этими пределами ни одно задание не несёт
+# информации, поэтому оценка вроде θ = +4.2 — артефакт, а не измерение.
+THETA_MIN = -3.0
+THETA_MAX = 3.5
+
+
 @dataclass(frozen=True)
 class IRTState:
     theta: float
@@ -50,7 +57,7 @@ def estimate_theta(
 
         step = score / max(info, 1e-9)
         step = max(-1.0, min(1.0, step))
-        theta_new = theta + step
+        theta_new = max(THETA_MIN, min(THETA_MAX, theta + step))
         if abs(theta_new - theta) < 1e-4:
             theta = theta_new
             break
@@ -107,6 +114,29 @@ def grade_is_decided(theta: float, se: float, tolerance: float = 1.0) -> bool:
     return boundary_margin(theta) > se * tolerance
 
 
+def measurement_saturated(theta: float) -> bool:
+    """θ прижат к краю измеримого диапазона — дальше спрашивать нечего."""
+    return theta <= THETA_MIN + 1e-6 or theta >= THETA_MAX - 1e-6
+
+
+def extreme_pattern(responses: Iterable[tuple[int, float, float]]) -> str | None:
+    """Полностью верный или полностью неверный набор ответов.
+
+    У таких наборов нет конечной оценки способности, а SE из информации
+    Фишера для них не интерпретируется: информация вырождается, и SE растёт
+    вместо того чтобы падать. Поэтому решение о грейде принимается по самому
+    паттерну, а не по SE.
+    """
+    items = [u for u, _, _ in responses]
+    if not items:
+        return None
+    if all(u == 1 for u in items):
+        return "all_correct"
+    if all(u == 0 for u in items):
+        return "all_wrong"
+    return None
+
+
 def should_stop(
     answered_count: int,
     theta: float,
@@ -130,5 +160,10 @@ def should_stop(
     if se < 0.3 and grade_is_decided(theta, se):
         return True
     if answered_count >= max_items and se <= 0.45 and grade_is_decided(theta, se, tolerance=0.6):
+        return True
+    # θ упёрлось в край измеримого диапазона и дальше не сдвинется. Такие
+    # попытки доводятся до стандартного предела — дополнительные задания ещё
+    # уточняют SE, — но не до жёсткого: спрашивать больше нечего.
+    if answered_count >= max_items and measurement_saturated(theta):
         return True
     return False

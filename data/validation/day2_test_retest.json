@@ -1,10 +1,10 @@
 {
   "n_candidates": 200,
-  "test_retest_correlation": 0.943549374713958,
+  "test_retest_correlation": 0.9494385826167383,
   "grade_agreement": 0.82,
-  "rmse_theta": 0.28840083608160516,
-  "mean_items_run1": 11.43,
-  "mean_items_run2": 11.18,
+  "rmse_theta": 0.27608757096273734,
+  "mean_items_run1": 11.35,
+  "mean_items_run2": 11.095,
   "goals": {
     "correlation": 0.85,
     "grade_agreement": 0.8,

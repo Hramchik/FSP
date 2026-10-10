@@ -6,8 +6,8 @@ import { Mark } from '../components/Layout';
 
 const DEMO = [
   { email: 'demo.employer@fsp.example', role: 'employer' as Role, title: 'Работодатель', note: 'ФСП Демо Тех — потребности и подборки' },
+  { email: 'test.drive@fsp.example', role: 'candidate' as Role, title: 'Кандидат без категории', note: 'можно пройти тестирование с нуля' },
   { email: 'anna.belova@fsp.example', role: 'candidate' as Role, title: 'Кандидат с категорией', note: 'Backend / Senior, есть достижения ФСП' },
-  { email: 'oleg.kuzmin@fsp.example', role: 'candidate' as Role, title: 'Кандидат-джуниор', note: 'Backend / Junior' },
 ];
 
 const POINTS = [

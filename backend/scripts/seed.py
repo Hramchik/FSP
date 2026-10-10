@@ -105,6 +105,21 @@ DEMO_CANDIDATES = [
      "FSP-100009", "Недавно перешёл из вёрстки в React, активно участвую в соревнованиях ФСП."),
 ]
 
+# Кандидаты без подтверждённой категории: профиль заполнен, но тест ещё не пройден.
+# Нужны для двух вещей сразу — пройти тестирование с нуля в демонстрации и
+# проверить правило «без подтверждённой категории человек не попадает в подборку».
+# (e-mail, имя, город, формат, стаж, стек, роли, софт-скиллы, ФСП ID, о себе)
+FRESH_CANDIDATES = [
+    ("test.drive@fsp.example", "Фёдоров Максим", "Москва", "remote", 4.0,
+     ["python", "postgresql", "docker", "sql", "git"],
+     ["Разработка"], ["Командная работа", "Ответственность"],
+     "FSP-100010", "Бэкенд-разработчик. Категория ещё не подтверждена — прохожу тестирование."),
+    ("test.drive2@fsp.example", "Шарова Вера", "Санкт-Петербург", "hybrid", 2.0,
+     ["typescript", "react", "javascript"],
+     ["Разработка"], ["Коммуникация"],
+     None, "Фронтенд-разработчик без истории ФСП. Категория ещё не подтверждена."),
+]
+
 DEMO_EMPLOYERS = [
     ("demo.employer@fsp.example", "ФСП Демо Тех", "Продуктовая ИТ-компания, делаем платформу для спортивных соревнований.",
      "hr@fsp.example", "https://fsp.example", "Информационные технологии", "Москва", "120 человек"),
@@ -308,6 +323,32 @@ async def main():
                 await seed_achievements(db, rng, fsp_id, strong=grade in ("senior", "lead"))
         await db.commit()
 
+        # Чистые профили: ни CandidateSpecialization, ни TestAttempt — чтобы
+        # вкладка тестирования работала с любой специализацией и грейда.
+        for (email, name, city, work_format, years, stack, roles, softs, fsp_id, bio) in FRESH_CANDIDATES:
+            user, _ = await ensure_user(db, email, UserRole.candidate)
+            profile = await db.scalar(select(CandidateProfile).where(CandidateProfile.user_id == user.id))
+            if not profile:
+                profile = CandidateProfile(user_id=user.id)
+                db.add(profile)
+                await db.flush()
+            profile.display_name, profile.city, profile.work_format = name, city, work_format
+            profile.bio, profile.skills, profile.roles, profile.soft_skills = bio, stack, roles, softs
+            profile.years_experience = years
+            profile.industry = "IT"
+            profile.is_searchable = True
+            profile.consent_publication = True
+            profile.last_activity_at = now
+            profile.salary_expectation_from = int(90000 + years * 22000)
+            profile.salary_expectation_to = int(130000 + years * 32000)
+            profile.phone = f"+7 9{rng.randint(10, 99)} {rng.randint(100, 999)}-{rng.randint(10, 99)}-{rng.randint(10, 99)}"
+            profile.telegram = "@" + email.split("@")[0].replace(".", "_")
+            if fsp_id:
+                if not await db.scalar(select(FspLink).where(FspLink.candidate_id == profile.id)):
+                    db.add(FspLink(candidate_id=profile.id, fsp_id=fsp_id, verified_by="mock-registry"))
+                await seed_achievements(db, rng, fsp_id, strong=False)
+        await db.commit()
+
         for (index, title, text, spec_code, grade, city, work_format,
              salary_from, salary_to, require_fsp) in DEMO_NEEDS:
             employer = employers[index]
@@ -345,7 +386,8 @@ async def main():
 
         await db.commit()
         print(
-            f"Seeded {templates} active task templates, {len(DEMO_CANDIDATES)} demo candidates, "
+            f"Seeded {templates} active task templates, "
+            f"{len(DEMO_CANDIDATES)} categorized + {len(FRESH_CANDIDATES)} untested candidates, "
             f"{len(DEMO_EMPLOYERS)} employers, {len(DEMO_NEEDS)} needs, {len(DEMO_VACANCIES)} vacancies, "
             f"{len(DEMO_SPOT_TASKS)} spot tasks."
         )

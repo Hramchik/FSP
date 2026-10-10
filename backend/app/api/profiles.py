@@ -7,6 +7,7 @@ from fastapi import APIRouter, Depends, File, HTTPException, Response, UploadFil
 from sqlalchemy import select
 from sqlalchemy.ext.asyncio import AsyncSession
 
+from app.core.config import settings
 from app.db.session import get_db
 from app.deps import current_user, require_role
 from app.domain import resume as resume_domain
@@ -152,6 +153,7 @@ async def catalog(db: AsyncSession = Depends(get_db)):
         grades=GRADES,
         skills=[SkillOut(code=code, label=label) for code, label in sorted(skills_vocab.SKILLS.items(), key=lambda kv: kv[1])],
         work_formats=WORK_FORMATS,
+        app_env=settings.app_env,
     )
 
 
