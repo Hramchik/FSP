@@ -1,0 +1,5954 @@
+[
+  {
+    "id": 1,
+    "pseudo": "A-1000",
+    "theta": -1.0841,
+    "se": 0.303,
+    "specialization": "backend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "api-design",
+      "django",
+      "fastapi",
+      "kafka",
+      "microservices",
+      "spring",
+      "sql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 29,
+        "participants_count": 640,
+        "days_ago": 1595
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "office",
+    "years_experience": 1.9,
+    "profile_completeness": 0.69,
+    "confirmed_days_ago": 402,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 2,
+    "pseudo": "A-1001",
+    "theta": 1.4884,
+    "se": 0.33,
+    "specialization": "frontend",
+    "confirmed_grade": "senior",
+    "skills": [
+      "ci-cd",
+      "nextjs",
+      "react",
+      "typescript"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 2,
+        "participants_count": 320,
+        "days_ago": 1408
+      },
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 2,
+        "participants_count": 1200,
+        "days_ago": 821
+      },
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 3,
+        "participants_count": 640,
+        "days_ago": 838
+      }
+    ],
+    "city": "Москва",
+    "work_format": "office",
+    "years_experience": 4.7,
+    "profile_completeness": 0.91,
+    "confirmed_days_ago": 111,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 3,
+    "pseudo": "A-1002",
+    "theta": 0.3731,
+    "se": 0.325,
+    "specialization": "mobile",
+    "confirmed_grade": "middle",
+    "skills": [
+      "android",
+      "flutter",
+      "ios",
+      "java",
+      "kotlin",
+      "sql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 10,
+        "participants_count": 320,
+        "days_ago": 675
+      },
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 35,
+        "participants_count": 1200,
+        "days_ago": 1023
+      }
+    ],
+    "city": "Казань",
+    "work_format": "remote",
+    "years_experience": 2.8,
+    "profile_completeness": 0.85,
+    "confirmed_days_ago": 43,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 4,
+    "pseudo": "A-1003",
+    "theta": -1.067,
+    "se": 0.257,
+    "specialization": "frontend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "ci-cd",
+      "nextjs",
+      "nodejs",
+      "react",
+      "typescript",
+      "vue"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 26,
+        "participants_count": 180,
+        "days_ago": 526
+      },
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 56,
+        "participants_count": 1200,
+        "days_ago": 625
+      }
+    ],
+    "city": "Казань",
+    "work_format": "remote",
+    "years_experience": 3.3,
+    "profile_completeness": 0.74,
+    "confirmed_days_ago": 79,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 5,
+    "pseudo": "A-1004",
+    "theta": -0.6335,
+    "se": 0.388,
+    "specialization": "backend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "java",
+      "postgresql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 6,
+        "participants_count": 90,
+        "days_ago": 1092
+      }
+    ],
+    "city": "Санкт-Петербург",
+    "work_format": "hybrid",
+    "years_experience": 2.0,
+    "profile_completeness": 0.75,
+    "confirmed_days_ago": 74,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 6,
+    "pseudo": "A-1005",
+    "theta": -0.7329,
+    "se": 0.191,
+    "specialization": "devops",
+    "confirmed_grade": "junior",
+    "skills": [
+      "docker",
+      "grafana",
+      "nginx"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 10,
+        "participants_count": 90,
+        "days_ago": 50
+      },
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 12,
+        "participants_count": 640,
+        "days_ago": 704
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "office",
+    "years_experience": 3.0,
+    "profile_completeness": 0.68,
+    "confirmed_days_ago": 319,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 7,
+    "pseudo": "A-1006",
+    "theta": 1.3637,
+    "se": 0.35,
+    "specialization": "data",
+    "confirmed_grade": "senior",
+    "skills": [
+      "airflow",
+      "clickhouse",
+      "mlops",
+      "nextjs",
+      "pandas",
+      "pytorch",
+      "statistics"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 3,
+        "participants_count": 320,
+        "days_ago": 441
+      },
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 1,
+        "participants_count": 90,
+        "days_ago": 639
+      },
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 2,
+        "participants_count": 180,
+        "days_ago": 961
+      },
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 1,
+        "participants_count": 1200,
+        "days_ago": 1522
+      }
+    ],
+    "city": "Екатеринбург",
+    "work_format": "office",
+    "years_experience": 5.2,
+    "profile_completeness": 0.76,
+    "confirmed_days_ago": 271,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 8,
+    "pseudo": "A-1007",
+    "theta": -0.8943,
+    "se": 0.395,
+    "specialization": "data",
+    "confirmed_grade": "junior",
+    "skills": [
+      "mlops",
+      "nextjs",
+      "python",
+      "pytorch",
+      "statistics"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 9,
+        "participants_count": 1200,
+        "days_ago": 525
+      },
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 38,
+        "participants_count": 180,
+        "days_ago": 1250
+      }
+    ],
+    "city": "Казань",
+    "work_format": "hybrid",
+    "years_experience": 3.2,
+    "profile_completeness": 0.71,
+    "confirmed_days_ago": 27,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 9,
+    "pseudo": "A-1008",
+    "theta": 0.0184,
+    "se": 0.253,
+    "specialization": "backend",
+    "confirmed_grade": "middle",
+    "skills": [
+      "docker",
+      "fastapi",
+      "java",
+      "python",
+      "sql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 4,
+        "participants_count": 1200,
+        "days_ago": 416
+      },
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 4,
+        "participants_count": 320,
+        "days_ago": 1059
+      }
+    ],
+    "city": "Екатеринбург",
+    "work_format": "office",
+    "years_experience": 3.7,
+    "profile_completeness": 0.85,
+    "confirmed_days_ago": 344,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 10,
+    "pseudo": "A-1009",
+    "theta": 1.2375,
+    "se": 0.212,
+    "specialization": "qa",
+    "confirmed_grade": "senior",
+    "skills": [
+      "autotests",
+      "jmeter",
+      "postman",
+      "pytest",
+      "selenium",
+      "sql",
+      "test-design"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 46,
+        "participants_count": 320,
+        "days_ago": 1654
+      },
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 28,
+        "participants_count": 180,
+        "days_ago": 271
+      }
+    ],
+    "city": "Екатеринбург",
+    "work_format": "remote",
+    "years_experience": 5.6,
+    "profile_completeness": 0.8,
+    "confirmed_days_ago": 164,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 11,
+    "pseudo": "A-1010",
+    "theta": -0.11,
+    "se": 0.349,
+    "specialization": "qa",
+    "confirmed_grade": "middle",
+    "skills": [
+      "autotests",
+      "playwright",
+      "postman",
+      "pytest",
+      "python",
+      "selenium",
+      "test-design"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 16,
+        "participants_count": 90,
+        "days_ago": 388
+      },
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 55,
+        "participants_count": 320,
+        "days_ago": 817
+      }
+    ],
+    "city": "Воронеж",
+    "work_format": "remote",
+    "years_experience": 2.5,
+    "profile_completeness": 0.8,
+    "confirmed_days_ago": 171,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 12,
+    "pseudo": "A-1011",
+    "theta": 0.8725,
+    "se": 0.394,
+    "specialization": "frontend",
+    "confirmed_grade": "senior",
+    "skills": [
+      "ci-cd",
+      "javascript",
+      "nextjs",
+      "nodejs"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 2,
+        "participants_count": 90,
+        "days_ago": 89
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "hybrid",
+    "years_experience": 4.9,
+    "profile_completeness": 0.8,
+    "confirmed_days_ago": 284,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 13,
+    "pseudo": "A-1012",
+    "theta": -0.1426,
+    "se": 0.387,
+    "specialization": "frontend",
+    "confirmed_grade": "middle",
+    "skills": [
+      "ci-cd",
+      "javascript",
+      "vue"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 15,
+        "participants_count": 320,
+        "days_ago": 1631
+      }
+    ],
+    "city": "Екатеринбург",
+    "work_format": "hybrid",
+    "years_experience": 3.9,
+    "profile_completeness": 0.79,
+    "confirmed_days_ago": 335,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 14,
+    "pseudo": "A-1013",
+    "theta": 0.0797,
+    "se": 0.297,
+    "specialization": "data",
+    "confirmed_grade": "middle",
+    "skills": [
+      "airflow",
+      "mlops",
+      "python",
+      "pytorch",
+      "sql",
+      "statistics"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 16,
+        "participants_count": 180,
+        "days_ago": 1024
+      }
+    ],
+    "city": "Казань",
+    "work_format": "office",
+    "years_experience": 4.0,
+    "profile_completeness": 0.77,
+    "confirmed_days_ago": 69,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 15,
+    "pseudo": "A-1014",
+    "theta": -2.0487,
+    "se": 0.285,
+    "specialization": "qa",
+    "confirmed_grade": "junior",
+    "skills": [
+      "playwright",
+      "python",
+      "selenium",
+      "sql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 24,
+        "participants_count": 1200,
+        "days_ago": 804
+      },
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 32,
+        "participants_count": 90,
+        "days_ago": 106
+      }
+    ],
+    "city": "Санкт-Петербург",
+    "work_format": "remote",
+    "years_experience": 0.7,
+    "profile_completeness": 0.71,
+    "confirmed_days_ago": 12,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 16,
+    "pseudo": "A-1015",
+    "theta": 0.7944,
+    "se": 0.245,
+    "specialization": "devops",
+    "confirmed_grade": "senior",
+    "skills": [
+      "ci-cd",
+      "docker",
+      "grafana",
+      "kafka",
+      "linux"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 2,
+        "participants_count": 320,
+        "days_ago": 1394
+      },
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 1,
+        "participants_count": 90,
+        "days_ago": 497
+      },
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 1,
+        "participants_count": 1200,
+        "days_ago": 271
+      },
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 2,
+        "participants_count": 180,
+        "days_ago": 1410
+      }
+    ],
+    "city": "Воронеж",
+    "work_format": "remote",
+    "years_experience": 4.3,
+    "profile_completeness": 0.94,
+    "confirmed_days_ago": 3,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 17,
+    "pseudo": "A-1016",
+    "theta": -2.5,
+    "se": 0.301,
+    "specialization": "backend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "api-design",
+      "django",
+      "highload",
+      "java",
+      "python",
+      "spring"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 41,
+        "participants_count": 180,
+        "days_ago": 1192
+      }
+    ],
+    "city": "Москва",
+    "work_format": "hybrid",
+    "years_experience": 1.5,
+    "profile_completeness": 0.78,
+    "confirmed_days_ago": 239,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 18,
+    "pseudo": "A-1017",
+    "theta": 1.8601,
+    "se": 0.375,
+    "specialization": "data",
+    "confirmed_grade": "lead",
+    "skills": [
+      "airflow",
+      "pandas",
+      "redis",
+      "spark",
+      "sql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 3,
+        "participants_count": 640,
+        "days_ago": 1603
+      },
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 3,
+        "participants_count": 640,
+        "days_ago": 1569
+      },
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 1,
+        "participants_count": 1200,
+        "days_ago": 506
+      },
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 1,
+        "participants_count": 1200,
+        "days_ago": 1057
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "remote",
+    "years_experience": 5.5,
+    "profile_completeness": 0.87,
+    "confirmed_days_ago": 399,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 19,
+    "pseudo": "A-1018",
+    "theta": -1.5093,
+    "se": 0.221,
+    "specialization": "data",
+    "confirmed_grade": "junior",
+    "skills": [
+      "airflow",
+      "python",
+      "spark",
+      "statistics"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 21,
+        "participants_count": 640,
+        "days_ago": 638
+      },
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 4,
+        "participants_count": 180,
+        "days_ago": 1509
+      }
+    ],
+    "city": "Санкт-Петербург",
+    "work_format": "remote",
+    "years_experience": 1.7,
+    "profile_completeness": 0.51,
+    "confirmed_days_ago": 150,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 20,
+    "pseudo": "A-1019",
+    "theta": -0.1935,
+    "se": 0.245,
+    "specialization": "qa",
+    "confirmed_grade": "middle",
+    "skills": [
+      "autotests",
+      "jmeter",
+      "postman",
+      "python",
+      "selenium"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 7,
+        "participants_count": 90,
+        "days_ago": 1169
+      },
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 54,
+        "participants_count": 90,
+        "days_ago": 1533
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "hybrid",
+    "years_experience": 4.0,
+    "profile_completeness": 0.51,
+    "confirmed_days_ago": 172,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 21,
+    "pseudo": "A-1020",
+    "theta": -0.5079,
+    "se": 0.276,
+    "specialization": "backend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "fastapi",
+      "go",
+      "highload",
+      "kafka",
+      "microservices",
+      "python",
+      "sql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 9,
+        "participants_count": 1200,
+        "days_ago": 1597
+      },
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 59,
+        "participants_count": 180,
+        "days_ago": 1687
+      }
+    ],
+    "city": "Москва",
+    "work_format": "remote",
+    "years_experience": 2.8,
+    "profile_completeness": 0.54,
+    "confirmed_days_ago": 96,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 22,
+    "pseudo": "A-1021",
+    "theta": 1.7337,
+    "se": 0.357,
+    "specialization": "devops",
+    "confirmed_grade": "senior",
+    "skills": [
+      "ansible",
+      "linux",
+      "prometheus"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 1,
+        "participants_count": 180,
+        "days_ago": 1204
+      },
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 2,
+        "participants_count": 640,
+        "days_ago": 1436
+      },
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 2,
+        "participants_count": 90,
+        "days_ago": 550
+      },
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 2,
+        "participants_count": 1200,
+        "days_ago": 812
+      }
+    ],
+    "city": "Екатеринбург",
+    "work_format": "hybrid",
+    "years_experience": 4.2,
+    "profile_completeness": 0.85,
+    "confirmed_days_ago": 101,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 23,
+    "pseudo": "A-1022",
+    "theta": 0.0708,
+    "se": 0.194,
+    "specialization": "devops",
+    "confirmed_grade": "middle",
+    "skills": [
+      "ci-cd",
+      "grafana",
+      "kubernetes",
+      "linux",
+      "nginx",
+      "prometheus",
+      "terraform"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 57,
+        "participants_count": 180,
+        "days_ago": 393
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "office",
+    "years_experience": 3.2,
+    "profile_completeness": 0.89,
+    "confirmed_days_ago": 252,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 24,
+    "pseudo": "A-1023",
+    "theta": 0.1959,
+    "se": 0.436,
+    "specialization": "qa",
+    "confirmed_grade": "middle",
+    "skills": [
+      "jmeter",
+      "playwright",
+      "postman",
+      "pytest",
+      "python",
+      "sql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 32,
+        "participants_count": 640,
+        "days_ago": 1113
+      }
+    ],
+    "city": "Санкт-Петербург",
+    "work_format": "office",
+    "years_experience": 3.6,
+    "profile_completeness": 0.71,
+    "confirmed_days_ago": 196,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 25,
+    "pseudo": "A-1024",
+    "theta": 0.8943,
+    "se": 0.377,
+    "specialization": "devops",
+    "confirmed_grade": "senior",
+    "skills": [
+      "ansible",
+      "ci-cd",
+      "docker",
+      "grafana",
+      "kubernetes",
+      "linux",
+      "prometheus"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 19,
+        "participants_count": 90,
+        "days_ago": 1448
+      }
+    ],
+    "city": "Екатеринбург",
+    "work_format": "office",
+    "years_experience": 4.8,
+    "profile_completeness": 0.77,
+    "confirmed_days_ago": 171,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 26,
+    "pseudo": "A-1025",
+    "theta": -1.3756,
+    "se": 0.198,
+    "specialization": "mobile",
+    "confirmed_grade": "junior",
+    "skills": [
+      "flutter",
+      "sql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 39,
+        "participants_count": 180,
+        "days_ago": 390
+      },
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 46,
+        "participants_count": 180,
+        "days_ago": 1255
+      }
+    ],
+    "city": "Воронеж",
+    "work_format": "remote",
+    "years_experience": 2.5,
+    "profile_completeness": 0.73,
+    "confirmed_days_ago": 375,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 27,
+    "pseudo": "A-1026",
+    "theta": 0.4239,
+    "se": 0.248,
+    "specialization": "devops",
+    "confirmed_grade": "middle",
+    "skills": [
+      "ansible",
+      "ci-cd",
+      "grafana",
+      "kubernetes",
+      "linux",
+      "prometheus"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 21,
+        "participants_count": 90,
+        "days_ago": 1004
+      }
+    ],
+    "city": "Екатеринбург",
+    "work_format": "hybrid",
+    "years_experience": 3.0,
+    "profile_completeness": 0.6,
+    "confirmed_days_ago": 397,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 28,
+    "pseudo": "A-1027",
+    "theta": -0.2331,
+    "se": 0.409,
+    "specialization": "devops",
+    "confirmed_grade": "middle",
+    "skills": [
+      "ansible",
+      "ci-cd",
+      "docker",
+      "grafana",
+      "kubernetes",
+      "linux",
+      "prometheus"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 56,
+        "participants_count": 1200,
+        "days_ago": 1054
+      }
+    ],
+    "city": "Москва",
+    "work_format": "hybrid",
+    "years_experience": 4.0,
+    "profile_completeness": 0.68,
+    "confirmed_days_ago": 122,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 29,
+    "pseudo": "A-1028",
+    "theta": -1.479,
+    "se": 0.242,
+    "specialization": "qa",
+    "confirmed_grade": "junior",
+    "skills": [
+      "autotests",
+      "jmeter",
+      "postman",
+      "pytest",
+      "python",
+      "selenium",
+      "sql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 30,
+        "participants_count": 180,
+        "days_ago": 1466
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "hybrid",
+    "years_experience": 2.7,
+    "profile_completeness": 0.94,
+    "confirmed_days_ago": 279,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 30,
+    "pseudo": "A-1029",
+    "theta": 0.5618,
+    "se": 0.213,
+    "specialization": "devops",
+    "confirmed_grade": "middle",
+    "skills": [
+      "ci-cd",
+      "linux",
+      "nextjs",
+      "prometheus",
+      "terraform"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 15,
+        "participants_count": 90,
+        "days_ago": 578
+      },
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 59,
+        "participants_count": 320,
+        "days_ago": 1531
+      }
+    ],
+    "city": "Москва",
+    "work_format": "hybrid",
+    "years_experience": 4.6,
+    "profile_completeness": 0.5,
+    "confirmed_days_ago": 382,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 31,
+    "pseudo": "A-1030",
+    "theta": 0.9833,
+    "se": 0.256,
+    "specialization": "backend",
+    "confirmed_grade": "senior",
+    "skills": [
+      "api-design",
+      "kafka",
+      "microservices",
+      "sql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 5,
+        "participants_count": 320,
+        "days_ago": 953
+      },
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 9,
+        "participants_count": 640,
+        "days_ago": 1261
+      }
+    ],
+    "city": "Санкт-Петербург",
+    "work_format": "hybrid",
+    "years_experience": 4.4,
+    "profile_completeness": 0.64,
+    "confirmed_days_ago": 252,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 32,
+    "pseudo": "A-1031",
+    "theta": 0.4872,
+    "se": 0.223,
+    "specialization": "data",
+    "confirmed_grade": "middle",
+    "skills": [
+      "mlops",
+      "python"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 7,
+        "participants_count": 90,
+        "days_ago": 1327
+      },
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 17,
+        "participants_count": 1200,
+        "days_ago": 691
+      }
+    ],
+    "city": "Санкт-Петербург",
+    "work_format": "remote",
+    "years_experience": 3.3,
+    "profile_completeness": 0.61,
+    "confirmed_days_ago": 416,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 33,
+    "pseudo": "A-1032",
+    "theta": 3.0,
+    "se": 0.254,
+    "specialization": "backend",
+    "confirmed_grade": "lead",
+    "skills": [
+      "docker",
+      "java",
+      "python"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 50,
+        "participants_count": 320,
+        "days_ago": 336
+      },
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 49,
+        "participants_count": 1200,
+        "days_ago": 1134
+      }
+    ],
+    "city": "Екатеринбург",
+    "work_format": "hybrid",
+    "years_experience": 5.7,
+    "profile_completeness": 0.97,
+    "confirmed_days_ago": 240,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 34,
+    "pseudo": "A-1033",
+    "theta": -2.4826,
+    "se": 0.229,
+    "specialization": "backend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "api-design",
+      "go",
+      "highload",
+      "java",
+      "microservices",
+      "postgresql",
+      "redis"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 30,
+        "participants_count": 90,
+        "days_ago": 1463
+      }
+    ],
+    "city": "Екатеринбург",
+    "work_format": "remote",
+    "years_experience": 0.5,
+    "profile_completeness": 0.9,
+    "confirmed_days_ago": 179,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 35,
+    "pseudo": "A-1034",
+    "theta": -2.5,
+    "se": 0.424,
+    "specialization": "frontend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "nodejs",
+      "react"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 16,
+        "participants_count": 1200,
+        "days_ago": 714
+      },
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 41,
+        "participants_count": 180,
+        "days_ago": 1498
+      }
+    ],
+    "city": "Москва",
+    "work_format": "office",
+    "years_experience": 0.7,
+    "profile_completeness": 0.77,
+    "confirmed_days_ago": 273,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 36,
+    "pseudo": "A-1035",
+    "theta": -1.1023,
+    "se": 0.387,
+    "specialization": "data",
+    "confirmed_grade": "junior",
+    "skills": [
+      "mlops",
+      "pandas"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 49,
+        "participants_count": 90,
+        "days_ago": 526
+      },
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 24,
+        "participants_count": 90,
+        "days_ago": 37
+      }
+    ],
+    "city": "Москва",
+    "work_format": "remote",
+    "years_experience": 1.7,
+    "profile_completeness": 0.69,
+    "confirmed_days_ago": 81,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 37,
+    "pseudo": "A-1036",
+    "theta": -1.0415,
+    "se": 0.33,
+    "specialization": "data",
+    "confirmed_grade": "junior",
+    "skills": [
+      "clickhouse",
+      "mlops",
+      "pandas",
+      "python",
+      "pytorch",
+      "sql",
+      "statistics"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 7,
+        "participants_count": 1200,
+        "days_ago": 331
+      }
+    ],
+    "city": "Санкт-Петербург",
+    "work_format": "office",
+    "years_experience": 3.3,
+    "profile_completeness": 0.89,
+    "confirmed_days_ago": 48,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 38,
+    "pseudo": "A-1037",
+    "theta": -0.0572,
+    "se": 0.257,
+    "specialization": "devops",
+    "confirmed_grade": "middle",
+    "skills": [
+      "ansible",
+      "ci-cd",
+      "grafana",
+      "kubernetes",
+      "linux",
+      "nginx",
+      "prometheus"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 44,
+        "participants_count": 1200,
+        "days_ago": 803
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "remote",
+    "years_experience": 4.2,
+    "profile_completeness": 0.58,
+    "confirmed_days_ago": 369,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 39,
+    "pseudo": "A-1038",
+    "theta": -1.3907,
+    "se": 0.236,
+    "specialization": "devops",
+    "confirmed_grade": "junior",
+    "skills": [
+      "ansible",
+      "ci-cd",
+      "kubernetes",
+      "linux",
+      "prometheus",
+      "terraform"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 50,
+        "participants_count": 640,
+        "days_ago": 1258
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "remote",
+    "years_experience": 1.4,
+    "profile_completeness": 0.91,
+    "confirmed_days_ago": 255,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 40,
+    "pseudo": "A-1039",
+    "theta": -1.1389,
+    "se": 0.351,
+    "specialization": "mobile",
+    "confirmed_grade": "junior",
+    "skills": [
+      "android",
+      "flutter",
+      "ios",
+      "java",
+      "kotlin",
+      "sql",
+      "swift"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 28,
+        "participants_count": 1200,
+        "days_ago": 665
+      }
+    ],
+    "city": "Москва",
+    "work_format": "hybrid",
+    "years_experience": 2.1,
+    "profile_completeness": 0.8,
+    "confirmed_days_ago": 186,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 41,
+    "pseudo": "A-1040",
+    "theta": 0.4369,
+    "se": 0.42,
+    "specialization": "frontend",
+    "confirmed_grade": "middle",
+    "skills": [
+      "nodejs",
+      "postman",
+      "react",
+      "typescript",
+      "vue"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 6,
+        "participants_count": 1200,
+        "days_ago": 1081
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "office",
+    "years_experience": 4.8,
+    "profile_completeness": 0.96,
+    "confirmed_days_ago": 331,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 42,
+    "pseudo": "A-1041",
+    "theta": 0.0414,
+    "se": 0.413,
+    "specialization": "devops",
+    "confirmed_grade": "middle",
+    "skills": [
+      "kubernetes",
+      "nodejs",
+      "prometheus"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 13,
+        "participants_count": 640,
+        "days_ago": 927
+      },
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 25,
+        "participants_count": 640,
+        "days_ago": 382
+      }
+    ],
+    "city": "Москва",
+    "work_format": "remote",
+    "years_experience": 2.8,
+    "profile_completeness": 0.93,
+    "confirmed_days_ago": 122,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 43,
+    "pseudo": "A-1042",
+    "theta": -1.3997,
+    "se": 0.24,
+    "specialization": "frontend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "nextjs",
+      "pytest",
+      "typescript"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 19,
+        "participants_count": 90,
+        "days_ago": 624
+      },
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 31,
+        "participants_count": 320,
+        "days_ago": 115
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "office",
+    "years_experience": 1.5,
+    "profile_completeness": 0.94,
+    "confirmed_days_ago": 183,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 44,
+    "pseudo": "A-1043",
+    "theta": -1.977,
+    "se": 0.389,
+    "specialization": "frontend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "ci-cd",
+      "javascript",
+      "kafka",
+      "nextjs",
+      "vue"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 50,
+        "participants_count": 180,
+        "days_ago": 524
+      },
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 60,
+        "participants_count": 1200,
+        "days_ago": 130
+      }
+    ],
+    "city": "Казань",
+    "work_format": "office",
+    "years_experience": 2.2,
+    "profile_completeness": 0.55,
+    "confirmed_days_ago": 286,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 45,
+    "pseudo": "A-1044",
+    "theta": -0.0581,
+    "se": 0.333,
+    "specialization": "backend",
+    "confirmed_grade": "middle",
+    "skills": [
+      "docker",
+      "fastapi",
+      "java",
+      "redis",
+      "sql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 38,
+        "participants_count": 1200,
+        "days_ago": 903
+      },
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 37,
+        "participants_count": 320,
+        "days_ago": 579
+      }
+    ],
+    "city": "Воронеж",
+    "work_format": "office",
+    "years_experience": 2.5,
+    "profile_completeness": 0.8,
+    "confirmed_days_ago": 296,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 46,
+    "pseudo": "A-1045",
+    "theta": -1.1351,
+    "se": 0.385,
+    "specialization": "devops",
+    "confirmed_grade": "junior",
+    "skills": [
+      "ci-cd",
+      "docker",
+      "grafana",
+      "terraform"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 16,
+        "participants_count": 640,
+        "days_ago": 1508
+      }
+    ],
+    "city": "Санкт-Петербург",
+    "work_format": "hybrid",
+    "years_experience": 2.5,
+    "profile_completeness": 0.75,
+    "confirmed_days_ago": 7,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 47,
+    "pseudo": "A-1046",
+    "theta": 3.0,
+    "se": 0.349,
+    "specialization": "data",
+    "confirmed_grade": "lead",
+    "skills": [
+      "clickhouse",
+      "ios",
+      "pandas",
+      "python"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 3,
+        "participants_count": 320,
+        "days_ago": 587
+      }
+    ],
+    "city": "Екатеринбург",
+    "work_format": "office",
+    "years_experience": 6.3,
+    "profile_completeness": 0.6,
+    "confirmed_days_ago": 153,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 48,
+    "pseudo": "A-1047",
+    "theta": -2.4714,
+    "se": 0.423,
+    "specialization": "mobile",
+    "confirmed_grade": "junior",
+    "skills": [
+      "android",
+      "clickhouse",
+      "flutter",
+      "java",
+      "kotlin",
+      "sql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 13,
+        "participants_count": 180,
+        "days_ago": 1413
+      }
+    ],
+    "city": "Казань",
+    "work_format": "office",
+    "years_experience": 1.7,
+    "profile_completeness": 0.72,
+    "confirmed_days_ago": 285,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 49,
+    "pseudo": "A-1048",
+    "theta": 0.9943,
+    "se": 0.194,
+    "specialization": "devops",
+    "confirmed_grade": "senior",
+    "skills": [
+      "ci-cd",
+      "docker",
+      "grafana",
+      "kubernetes",
+      "linux",
+      "nginx",
+      "prometheus"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 21,
+        "participants_count": 640,
+        "days_ago": 1076
+      }
+    ],
+    "city": "Воронеж",
+    "work_format": "remote",
+    "years_experience": 4.3,
+    "profile_completeness": 0.61,
+    "confirmed_days_ago": 220,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 50,
+    "pseudo": "A-1049",
+    "theta": -0.7488,
+    "se": 0.228,
+    "specialization": "mobile",
+    "confirmed_grade": "junior",
+    "skills": [
+      "flutter",
+      "java",
+      "kotlin",
+      "sql",
+      "swift"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 52,
+        "participants_count": 640,
+        "days_ago": 743
+      },
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 27,
+        "participants_count": 320,
+        "days_ago": 1093
+      }
+    ],
+    "city": "Москва",
+    "work_format": "remote",
+    "years_experience": 2.3,
+    "profile_completeness": 0.95,
+    "confirmed_days_ago": 183,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 51,
+    "pseudo": "A-1050",
+    "theta": 0.6949,
+    "se": 0.392,
+    "specialization": "mobile",
+    "confirmed_grade": "middle",
+    "skills": [
+      "flutter",
+      "java"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 45,
+        "participants_count": 180,
+        "days_ago": 1134
+      },
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 49,
+        "participants_count": 180,
+        "days_ago": 1646
+      }
+    ],
+    "city": "Москва",
+    "work_format": "hybrid",
+    "years_experience": 4.1,
+    "profile_completeness": 0.83,
+    "confirmed_days_ago": 153,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 52,
+    "pseudo": "A-1051",
+    "theta": 0.5224,
+    "se": 0.201,
+    "specialization": "mobile",
+    "confirmed_grade": "middle",
+    "skills": [
+      "android",
+      "flutter",
+      "java",
+      "sql",
+      "swift"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 29,
+        "participants_count": 90,
+        "days_ago": 827
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "remote",
+    "years_experience": 3.1,
+    "profile_completeness": 0.46,
+    "confirmed_days_ago": 299,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 53,
+    "pseudo": "A-1052",
+    "theta": -0.8799,
+    "se": 0.43,
+    "specialization": "qa",
+    "confirmed_grade": "junior",
+    "skills": [
+      "autotests",
+      "jmeter",
+      "playwright",
+      "postman",
+      "selenium"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 30,
+        "participants_count": 180,
+        "days_ago": 404
+      },
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 25,
+        "participants_count": 90,
+        "days_ago": 1147
+      }
+    ],
+    "city": "Санкт-Петербург",
+    "work_format": "remote",
+    "years_experience": 2.1,
+    "profile_completeness": 0.87,
+    "confirmed_days_ago": 123,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 54,
+    "pseudo": "A-1053",
+    "theta": 0.9717,
+    "se": 0.268,
+    "specialization": "qa",
+    "confirmed_grade": "senior",
+    "skills": [
+      "jmeter",
+      "postman",
+      "python"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 1,
+        "participants_count": 180,
+        "days_ago": 1282
+      },
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 2,
+        "participants_count": 90,
+        "days_ago": 1438
+      },
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 2,
+        "participants_count": 180,
+        "days_ago": 646
+      }
+    ],
+    "city": "Санкт-Петербург",
+    "work_format": "hybrid",
+    "years_experience": 3.7,
+    "profile_completeness": 0.79,
+    "confirmed_days_ago": 140,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 55,
+    "pseudo": "A-1054",
+    "theta": 1.0059,
+    "se": 0.206,
+    "specialization": "mobile",
+    "confirmed_grade": "senior",
+    "skills": [
+      "android",
+      "flutter",
+      "java",
+      "kotlin",
+      "sql",
+      "swift"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 58,
+        "participants_count": 320,
+        "days_ago": 944
+      },
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 19,
+        "participants_count": 180,
+        "days_ago": 540
+      }
+    ],
+    "city": "Воронеж",
+    "work_format": "office",
+    "years_experience": 3.8,
+    "profile_completeness": 0.91,
+    "confirmed_days_ago": 224,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 56,
+    "pseudo": "A-1055",
+    "theta": -0.6697,
+    "se": 0.278,
+    "specialization": "backend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "django",
+      "fastapi",
+      "highload",
+      "java",
+      "postgresql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 7,
+        "participants_count": 640,
+        "days_ago": 925
+      },
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 28,
+        "participants_count": 90,
+        "days_ago": 1677
+      }
+    ],
+    "city": "Санкт-Петербург",
+    "work_format": "hybrid",
+    "years_experience": 2.0,
+    "profile_completeness": 0.76,
+    "confirmed_days_ago": 91,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 57,
+    "pseudo": "A-1056",
+    "theta": 1.611,
+    "se": 0.385,
+    "specialization": "qa",
+    "confirmed_grade": "senior",
+    "skills": [
+      "autotests",
+      "playwright",
+      "python",
+      "selenium",
+      "sql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 2,
+        "participants_count": 1200,
+        "days_ago": 62
+      }
+    ],
+    "city": "Воронеж",
+    "work_format": "office",
+    "years_experience": 4.1,
+    "profile_completeness": 0.62,
+    "confirmed_days_ago": 212,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 58,
+    "pseudo": "A-1057",
+    "theta": 0.874,
+    "se": 0.348,
+    "specialization": "devops",
+    "confirmed_grade": "senior",
+    "skills": [
+      "linux",
+      "nginx"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 1,
+        "participants_count": 90,
+        "days_ago": 752
+      }
+    ],
+    "city": "Москва",
+    "work_format": "hybrid",
+    "years_experience": 4.7,
+    "profile_completeness": 0.74,
+    "confirmed_days_ago": 159,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 59,
+    "pseudo": "A-1058",
+    "theta": 1.7484,
+    "se": 0.286,
+    "specialization": "data",
+    "confirmed_grade": "senior",
+    "skills": [
+      "airflow",
+      "clickhouse",
+      "python"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 11,
+        "participants_count": 1200,
+        "days_ago": 1358
+      }
+    ],
+    "city": "Екатеринбург",
+    "work_format": "office",
+    "years_experience": 5.9,
+    "profile_completeness": 0.96,
+    "confirmed_days_ago": 274,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 60,
+    "pseudo": "A-1059",
+    "theta": -0.4512,
+    "se": 0.366,
+    "specialization": "mobile",
+    "confirmed_grade": "middle",
+    "skills": [
+      "android",
+      "flutter",
+      "kotlin"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 46,
+        "participants_count": 180,
+        "days_ago": 375
+      },
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 14,
+        "participants_count": 640,
+        "days_ago": 1392
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "remote",
+    "years_experience": 3.6,
+    "profile_completeness": 0.58,
+    "confirmed_days_ago": 353,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 61,
+    "pseudo": "A-1060",
+    "theta": -1.4508,
+    "se": 0.279,
+    "specialization": "devops",
+    "confirmed_grade": "junior",
+    "skills": [
+      "grafana",
+      "linux"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 6,
+        "participants_count": 1200,
+        "days_ago": 1360
+      }
+    ],
+    "city": "Воронеж",
+    "work_format": "remote",
+    "years_experience": 2.5,
+    "profile_completeness": 0.65,
+    "confirmed_days_ago": 420,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 62,
+    "pseudo": "A-1061",
+    "theta": -1.6666,
+    "se": 0.297,
+    "specialization": "data",
+    "confirmed_grade": "junior",
+    "skills": [
+      "clickhouse",
+      "mlops",
+      "pandas",
+      "pytorch",
+      "sql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 4,
+        "participants_count": 90,
+        "days_ago": 1471
+      }
+    ],
+    "city": "Москва",
+    "work_format": "hybrid",
+    "years_experience": 1.6,
+    "profile_completeness": 0.53,
+    "confirmed_days_ago": 338,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 63,
+    "pseudo": "A-1062",
+    "theta": 0.5529,
+    "se": 0.263,
+    "specialization": "qa",
+    "confirmed_grade": "middle",
+    "skills": [
+      "jmeter",
+      "playwright",
+      "postman"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 26,
+        "participants_count": 640,
+        "days_ago": 907
+      },
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 6,
+        "participants_count": 320,
+        "days_ago": 846
+      }
+    ],
+    "city": "Казань",
+    "work_format": "hybrid",
+    "years_experience": 3.9,
+    "profile_completeness": 0.56,
+    "confirmed_days_ago": 14,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 64,
+    "pseudo": "A-1063",
+    "theta": 0.0391,
+    "se": 0.234,
+    "specialization": "backend",
+    "confirmed_grade": "middle",
+    "skills": [
+      "api-design",
+      "django",
+      "docker",
+      "highload",
+      "redis"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 32,
+        "participants_count": 90,
+        "days_ago": 694
+      }
+    ],
+    "city": "Москва",
+    "work_format": "office",
+    "years_experience": 3.3,
+    "profile_completeness": 0.5,
+    "confirmed_days_ago": 153,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 65,
+    "pseudo": "A-1064",
+    "theta": 0.5121,
+    "se": 0.423,
+    "specialization": "devops",
+    "confirmed_grade": "middle",
+    "skills": [
+      "airflow",
+      "ci-cd",
+      "grafana",
+      "kubernetes",
+      "linux",
+      "nginx",
+      "terraform"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 51,
+        "participants_count": 1200,
+        "days_ago": 1194
+      }
+    ],
+    "city": "Казань",
+    "work_format": "office",
+    "years_experience": 3.9,
+    "profile_completeness": 0.77,
+    "confirmed_days_ago": 60,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 66,
+    "pseudo": "A-1065",
+    "theta": -0.3167,
+    "se": 0.369,
+    "specialization": "qa",
+    "confirmed_grade": "middle",
+    "skills": [
+      "jmeter",
+      "playwright",
+      "pytest",
+      "selenium",
+      "sql",
+      "test-design"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 54,
+        "participants_count": 180,
+        "days_ago": 1133
+      },
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 10,
+        "participants_count": 180,
+        "days_ago": 100
+      }
+    ],
+    "city": "Казань",
+    "work_format": "remote",
+    "years_experience": 3.8,
+    "profile_completeness": 0.81,
+    "confirmed_days_ago": 211,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 67,
+    "pseudo": "A-1066",
+    "theta": -1.5122,
+    "se": 0.224,
+    "specialization": "qa",
+    "confirmed_grade": "junior",
+    "skills": [
+      "autotests",
+      "playwright",
+      "postman",
+      "pytest",
+      "python",
+      "selenium",
+      "test-design"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 15,
+        "participants_count": 320,
+        "days_ago": 1624
+      },
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 13,
+        "participants_count": 1200,
+        "days_ago": 1612
+      }
+    ],
+    "city": "Воронеж",
+    "work_format": "remote",
+    "years_experience": 1.9,
+    "profile_completeness": 0.99,
+    "confirmed_days_ago": 274,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 68,
+    "pseudo": "A-1067",
+    "theta": -2.4795,
+    "se": 0.332,
+    "specialization": "frontend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "nodejs",
+      "vue"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 30,
+        "participants_count": 640,
+        "days_ago": 146
+      },
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 18,
+        "participants_count": 1200,
+        "days_ago": 235
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "hybrid",
+    "years_experience": 1.4,
+    "profile_completeness": 0.89,
+    "confirmed_days_ago": 364,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 69,
+    "pseudo": "A-1068",
+    "theta": -2.1559,
+    "se": 0.262,
+    "specialization": "backend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "docker",
+      "kafka",
+      "microservices",
+      "postgresql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 55,
+        "participants_count": 180,
+        "days_ago": 510
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "hybrid",
+    "years_experience": 0.4,
+    "profile_completeness": 0.49,
+    "confirmed_days_ago": 89,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 70,
+    "pseudo": "A-1069",
+    "theta": 0.9537,
+    "se": 0.262,
+    "specialization": "devops",
+    "confirmed_grade": "senior",
+    "skills": [
+      "ci-cd",
+      "docker",
+      "grafana",
+      "terraform"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 54,
+        "participants_count": 180,
+        "days_ago": 991
+      }
+    ],
+    "city": "Москва",
+    "work_format": "hybrid",
+    "years_experience": 3.5,
+    "profile_completeness": 0.66,
+    "confirmed_days_ago": 80,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 71,
+    "pseudo": "A-1070",
+    "theta": -1.0706,
+    "se": 0.27,
+    "specialization": "frontend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "ci-cd",
+      "javascript",
+      "nodejs",
+      "react",
+      "typescript",
+      "vue"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 23,
+        "participants_count": 320,
+        "days_ago": 1648
+      },
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 39,
+        "participants_count": 640,
+        "days_ago": 185
+      }
+    ],
+    "city": "Екатеринбург",
+    "work_format": "hybrid",
+    "years_experience": 2.0,
+    "profile_completeness": 0.59,
+    "confirmed_days_ago": 165,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 72,
+    "pseudo": "A-1071",
+    "theta": 0.4257,
+    "se": 0.199,
+    "specialization": "backend",
+    "confirmed_grade": "middle",
+    "skills": [
+      "api-design",
+      "go",
+      "highload",
+      "java",
+      "kafka",
+      "postgresql",
+      "spring",
+      "vue"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 58,
+        "participants_count": 90,
+        "days_ago": 1320
+      },
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 9,
+        "participants_count": 320,
+        "days_ago": 1332
+      }
+    ],
+    "city": "Воронеж",
+    "work_format": "remote",
+    "years_experience": 4.7,
+    "profile_completeness": 0.5,
+    "confirmed_days_ago": 306,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 73,
+    "pseudo": "A-1072",
+    "theta": 0.6667,
+    "se": 0.257,
+    "specialization": "qa",
+    "confirmed_grade": "middle",
+    "skills": [
+      "playwright",
+      "postman",
+      "pytest",
+      "python",
+      "sql",
+      "test-design"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 22,
+        "participants_count": 180,
+        "days_ago": 705
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "office",
+    "years_experience": 3.1,
+    "profile_completeness": 0.6,
+    "confirmed_days_ago": 334,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 74,
+    "pseudo": "A-1073",
+    "theta": 0.4146,
+    "se": 0.324,
+    "specialization": "data",
+    "confirmed_grade": "middle",
+    "skills": [
+      "clickhouse",
+      "mlops",
+      "pandas",
+      "pytorch",
+      "spark",
+      "sql",
+      "statistics"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 17,
+        "participants_count": 640,
+        "days_ago": 869
+      }
+    ],
+    "city": "Екатеринбург",
+    "work_format": "remote",
+    "years_experience": 4.3,
+    "profile_completeness": 0.53,
+    "confirmed_days_ago": 197,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 75,
+    "pseudo": "A-1074",
+    "theta": 1.2115,
+    "se": 0.334,
+    "specialization": "data",
+    "confirmed_grade": "senior",
+    "skills": [
+      "airflow",
+      "clickhouse",
+      "pandas",
+      "spark",
+      "statistics"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 43,
+        "participants_count": 180,
+        "days_ago": 64
+      },
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 42,
+        "participants_count": 1200,
+        "days_ago": 1508
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "hybrid",
+    "years_experience": 4.1,
+    "profile_completeness": 0.9,
+    "confirmed_days_ago": 283,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 76,
+    "pseudo": "A-1075",
+    "theta": 2.183,
+    "se": 0.342,
+    "specialization": "mobile",
+    "confirmed_grade": "lead",
+    "skills": [
+      "ios",
+      "kotlin",
+      "sql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 2,
+        "participants_count": 320,
+        "days_ago": 658
+      }
+    ],
+    "city": "Казань",
+    "work_format": "remote",
+    "years_experience": 5.5,
+    "profile_completeness": 0.48,
+    "confirmed_days_ago": 208,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 77,
+    "pseudo": "A-1076",
+    "theta": 0.5708,
+    "se": 0.399,
+    "specialization": "frontend",
+    "confirmed_grade": "middle",
+    "skills": [
+      "ci-cd",
+      "react",
+      "typescript"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 47,
+        "participants_count": 90,
+        "days_ago": 310
+      },
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 36,
+        "participants_count": 90,
+        "days_ago": 1652
+      }
+    ],
+    "city": "Казань",
+    "work_format": "office",
+    "years_experience": 4.6,
+    "profile_completeness": 0.93,
+    "confirmed_days_ago": 243,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 78,
+    "pseudo": "A-1077",
+    "theta": 0.6409,
+    "se": 0.329,
+    "specialization": "mobile",
+    "confirmed_grade": "middle",
+    "skills": [
+      "flutter",
+      "ios",
+      "sql",
+      "swift"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 5,
+        "participants_count": 90,
+        "days_ago": 1226
+      }
+    ],
+    "city": "Екатеринбург",
+    "work_format": "hybrid",
+    "years_experience": 4.6,
+    "profile_completeness": 0.55,
+    "confirmed_days_ago": 53,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 79,
+    "pseudo": "A-1078",
+    "theta": 0.1828,
+    "se": 0.346,
+    "specialization": "frontend",
+    "confirmed_grade": "middle",
+    "skills": [
+      "ci-cd",
+      "javascript",
+      "nextjs",
+      "nodejs",
+      "react",
+      "typescript",
+      "vue"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 40,
+        "participants_count": 180,
+        "days_ago": 855
+      },
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 51,
+        "participants_count": 320,
+        "days_ago": 275
+      }
+    ],
+    "city": "Санкт-Петербург",
+    "work_format": "office",
+    "years_experience": 4.1,
+    "profile_completeness": 0.98,
+    "confirmed_days_ago": 103,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 80,
+    "pseudo": "A-1079",
+    "theta": -1.4192,
+    "se": 0.3,
+    "specialization": "backend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "api-design",
+      "docker",
+      "fastapi",
+      "kubernetes",
+      "python",
+      "spring"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 51,
+        "participants_count": 180,
+        "days_ago": 723
+      }
+    ],
+    "city": "Москва",
+    "work_format": "hybrid",
+    "years_experience": 1.8,
+    "profile_completeness": 0.57,
+    "confirmed_days_ago": 322,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 81,
+    "pseudo": "A-1080",
+    "theta": 0.3561,
+    "se": 0.422,
+    "specialization": "data",
+    "confirmed_grade": "middle",
+    "skills": [
+      "clickhouse",
+      "prometheus",
+      "pytorch",
+      "spark",
+      "statistics"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 23,
+        "participants_count": 640,
+        "days_ago": 1503
+      }
+    ],
+    "city": "Воронеж",
+    "work_format": "office",
+    "years_experience": 3.6,
+    "profile_completeness": 0.74,
+    "confirmed_days_ago": 309,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 82,
+    "pseudo": "A-1081",
+    "theta": 0.9859,
+    "se": 0.324,
+    "specialization": "backend",
+    "confirmed_grade": "senior",
+    "skills": [
+      "java",
+      "postgresql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 1,
+        "participants_count": 180,
+        "days_ago": 427
+      },
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 2,
+        "participants_count": 320,
+        "days_ago": 472
+      },
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 3,
+        "participants_count": 1200,
+        "days_ago": 704
+      }
+    ],
+    "city": "Санкт-Петербург",
+    "work_format": "office",
+    "years_experience": 3.9,
+    "profile_completeness": 0.75,
+    "confirmed_days_ago": 347,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 83,
+    "pseudo": "A-1082",
+    "theta": -1.4088,
+    "se": 0.401,
+    "specialization": "data",
+    "confirmed_grade": "junior",
+    "skills": [
+      "pandas",
+      "python",
+      "sql",
+      "statistics"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 4,
+        "participants_count": 320,
+        "days_ago": 407
+      }
+    ],
+    "city": "Москва",
+    "work_format": "office",
+    "years_experience": 1.4,
+    "profile_completeness": 0.73,
+    "confirmed_days_ago": 152,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 84,
+    "pseudo": "A-1083",
+    "theta": 0.112,
+    "se": 0.216,
+    "specialization": "data",
+    "confirmed_grade": "middle",
+    "skills": [
+      "airflow",
+      "mlops",
+      "pandas",
+      "python",
+      "pytorch",
+      "sql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 38,
+        "participants_count": 180,
+        "days_ago": 996
+      }
+    ],
+    "city": "Воронеж",
+    "work_format": "remote",
+    "years_experience": 3.7,
+    "profile_completeness": 0.98,
+    "confirmed_days_ago": 134,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 85,
+    "pseudo": "A-1084",
+    "theta": -0.6976,
+    "se": 0.245,
+    "specialization": "mobile",
+    "confirmed_grade": "junior",
+    "skills": [
+      "airflow",
+      "android",
+      "flutter",
+      "ios",
+      "java",
+      "kotlin",
+      "sql",
+      "swift"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 57,
+        "participants_count": 640,
+        "days_ago": 671
+      },
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 38,
+        "participants_count": 320,
+        "days_ago": 185
+      }
+    ],
+    "city": "Казань",
+    "work_format": "remote",
+    "years_experience": 2.2,
+    "profile_completeness": 0.72,
+    "confirmed_days_ago": 102,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 86,
+    "pseudo": "A-1085",
+    "theta": -0.8645,
+    "se": 0.191,
+    "specialization": "qa",
+    "confirmed_grade": "junior",
+    "skills": [
+      "playwright",
+      "postman",
+      "selenium"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 47,
+        "participants_count": 1200,
+        "days_ago": 960
+      },
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 29,
+        "participants_count": 180,
+        "days_ago": 853
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "remote",
+    "years_experience": 3.1,
+    "profile_completeness": 0.57,
+    "confirmed_days_ago": 223,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 87,
+    "pseudo": "A-1086",
+    "theta": 1.6217,
+    "se": 0.425,
+    "specialization": "backend",
+    "confirmed_grade": "senior",
+    "skills": [
+      "api-design",
+      "django",
+      "highload",
+      "java",
+      "redis",
+      "spring",
+      "sql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 1,
+        "participants_count": 180,
+        "days_ago": 1427
+      },
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 2,
+        "participants_count": 90,
+        "days_ago": 314
+      }
+    ],
+    "city": "Екатеринбург",
+    "work_format": "office",
+    "years_experience": 5.3,
+    "profile_completeness": 0.74,
+    "confirmed_days_ago": 278,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 88,
+    "pseudo": "A-1087",
+    "theta": -1.2454,
+    "se": 0.421,
+    "specialization": "frontend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "ci-cd",
+      "javascript",
+      "nextjs",
+      "nodejs",
+      "react",
+      "typescript",
+      "vue"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 19,
+        "participants_count": 180,
+        "days_ago": 919
+      },
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 57,
+        "participants_count": 180,
+        "days_ago": 284
+      }
+    ],
+    "city": "Екатеринбург",
+    "work_format": "remote",
+    "years_experience": 2.1,
+    "profile_completeness": 0.58,
+    "confirmed_days_ago": 108,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 89,
+    "pseudo": "A-1088",
+    "theta": -0.9359,
+    "se": 0.426,
+    "specialization": "devops",
+    "confirmed_grade": "junior",
+    "skills": [
+      "ansible",
+      "grafana",
+      "linux",
+      "terraform"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 51,
+        "participants_count": 640,
+        "days_ago": 1376
+      },
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 38,
+        "participants_count": 90,
+        "days_ago": 556
+      }
+    ],
+    "city": "Казань",
+    "work_format": "office",
+    "years_experience": 2.3,
+    "profile_completeness": 0.95,
+    "confirmed_days_ago": 131,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 90,
+    "pseudo": "A-1089",
+    "theta": -0.8335,
+    "se": 0.318,
+    "specialization": "devops",
+    "confirmed_grade": "junior",
+    "skills": [
+      "ci-cd",
+      "docker",
+      "sql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 21,
+        "participants_count": 640,
+        "days_ago": 225
+      },
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 29,
+        "participants_count": 320,
+        "days_ago": 1088
+      }
+    ],
+    "city": "Москва",
+    "work_format": "remote",
+    "years_experience": 2.5,
+    "profile_completeness": 0.97,
+    "confirmed_days_ago": 33,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 91,
+    "pseudo": "A-1090",
+    "theta": -0.2239,
+    "se": 0.277,
+    "specialization": "devops",
+    "confirmed_grade": "middle",
+    "skills": [
+      "ansible",
+      "ci-cd",
+      "docker",
+      "grafana",
+      "kubernetes",
+      "prometheus",
+      "pytorch"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 53,
+        "participants_count": 640,
+        "days_ago": 253
+      },
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 35,
+        "participants_count": 640,
+        "days_ago": 978
+      }
+    ],
+    "city": "Екатеринбург",
+    "work_format": "hybrid",
+    "years_experience": 3.2,
+    "profile_completeness": 0.8,
+    "confirmed_days_ago": 327,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 92,
+    "pseudo": "A-1091",
+    "theta": 1.252,
+    "se": 0.304,
+    "specialization": "backend",
+    "confirmed_grade": "senior",
+    "skills": [
+      "airflow",
+      "django",
+      "fastapi",
+      "kafka",
+      "microservices",
+      "redis",
+      "spring"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 1,
+        "participants_count": 1200,
+        "days_ago": 90
+      },
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 2,
+        "participants_count": 1200,
+        "days_ago": 1495
+      },
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 1,
+        "participants_count": 180,
+        "days_ago": 1144
+      },
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 1,
+        "participants_count": 1200,
+        "days_ago": 192
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "remote",
+    "years_experience": 4.6,
+    "profile_completeness": 0.71,
+    "confirmed_days_ago": 288,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 93,
+    "pseudo": "A-1092",
+    "theta": 0.0892,
+    "se": 0.204,
+    "specialization": "mobile",
+    "confirmed_grade": "middle",
+    "skills": [
+      "ios",
+      "python",
+      "sql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 48,
+        "participants_count": 90,
+        "days_ago": 800
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "remote",
+    "years_experience": 4.4,
+    "profile_completeness": 0.79,
+    "confirmed_days_ago": 103,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 94,
+    "pseudo": "A-1093",
+    "theta": 0.3783,
+    "se": 0.244,
+    "specialization": "devops",
+    "confirmed_grade": "middle",
+    "skills": [
+      "ci-cd",
+      "docker",
+      "linux"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 33,
+        "participants_count": 1200,
+        "days_ago": 936
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "hybrid",
+    "years_experience": 4.5,
+    "profile_completeness": 0.95,
+    "confirmed_days_ago": 39,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 95,
+    "pseudo": "A-1094",
+    "theta": 0.6328,
+    "se": 0.219,
+    "specialization": "devops",
+    "confirmed_grade": "middle",
+    "skills": [
+      "ansible",
+      "ci-cd",
+      "docker",
+      "grafana",
+      "linux",
+      "nginx"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 38,
+        "participants_count": 1200,
+        "days_ago": 887
+      },
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 26,
+        "participants_count": 1200,
+        "days_ago": 952
+      }
+    ],
+    "city": "Санкт-Петербург",
+    "work_format": "hybrid",
+    "years_experience": 4.3,
+    "profile_completeness": 0.6,
+    "confirmed_days_ago": 296,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 96,
+    "pseudo": "A-1095",
+    "theta": -0.167,
+    "se": 0.339,
+    "specialization": "backend",
+    "confirmed_grade": "middle",
+    "skills": [
+      "api-design",
+      "django",
+      "java",
+      "sql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 50,
+        "participants_count": 90,
+        "days_ago": 1532
+      }
+    ],
+    "city": "Санкт-Петербург",
+    "work_format": "office",
+    "years_experience": 2.3,
+    "profile_completeness": 0.69,
+    "confirmed_days_ago": 246,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 97,
+    "pseudo": "A-1096",
+    "theta": 1.3349,
+    "se": 0.221,
+    "specialization": "qa",
+    "confirmed_grade": "senior",
+    "skills": [
+      "autotests",
+      "jmeter",
+      "postman",
+      "selenium",
+      "sql",
+      "test-design"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 2,
+        "participants_count": 320,
+        "days_ago": 1217
+      },
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 3,
+        "participants_count": 1200,
+        "days_ago": 1569
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "hybrid",
+    "years_experience": 4.2,
+    "profile_completeness": 0.81,
+    "confirmed_days_ago": 161,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 98,
+    "pseudo": "A-1097",
+    "theta": -1.8357,
+    "se": 0.404,
+    "specialization": "devops",
+    "confirmed_grade": "junior",
+    "skills": [
+      "docker",
+      "grafana",
+      "kubernetes"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 23,
+        "participants_count": 90,
+        "days_ago": 356
+      }
+    ],
+    "city": "Москва",
+    "work_format": "remote",
+    "years_experience": 1.2,
+    "profile_completeness": 0.87,
+    "confirmed_days_ago": 264,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 99,
+    "pseudo": "A-1098",
+    "theta": -0.5789,
+    "se": 0.195,
+    "specialization": "frontend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "javascript",
+      "nextjs"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 54,
+        "participants_count": 640,
+        "days_ago": 319
+      }
+    ],
+    "city": "Казань",
+    "work_format": "hybrid",
+    "years_experience": 2.4,
+    "profile_completeness": 0.51,
+    "confirmed_days_ago": 385,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 100,
+    "pseudo": "A-1099",
+    "theta": -1.8013,
+    "se": 0.348,
+    "specialization": "frontend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "javascript",
+      "nodejs",
+      "vue"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 59,
+        "participants_count": 320,
+        "days_ago": 882
+      }
+    ],
+    "city": "Казань",
+    "work_format": "remote",
+    "years_experience": 1.3,
+    "profile_completeness": 0.7,
+    "confirmed_days_ago": 65,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 101,
+    "pseudo": "A-1100",
+    "theta": -0.1841,
+    "se": 0.383,
+    "specialization": "data",
+    "confirmed_grade": "middle",
+    "skills": [
+      "airflow",
+      "mlops",
+      "pandas",
+      "pytorch",
+      "spark",
+      "sql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 40,
+        "participants_count": 1200,
+        "days_ago": 206
+      }
+    ],
+    "city": "Москва",
+    "work_format": "office",
+    "years_experience": 3.0,
+    "profile_completeness": 0.87,
+    "confirmed_days_ago": 190,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 102,
+    "pseudo": "A-1101",
+    "theta": -0.1212,
+    "se": 0.363,
+    "specialization": "data",
+    "confirmed_grade": "middle",
+    "skills": [
+      "clickhouse",
+      "python"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 40,
+        "participants_count": 320,
+        "days_ago": 902
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "hybrid",
+    "years_experience": 3.4,
+    "profile_completeness": 0.99,
+    "confirmed_days_ago": 151,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 103,
+    "pseudo": "A-1102",
+    "theta": -0.8125,
+    "se": 0.34,
+    "specialization": "frontend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "ci-cd",
+      "javascript",
+      "nextjs",
+      "nodejs",
+      "react",
+      "vue"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Открытый хакатон ФСП",
+        "event_level": "open",
+        "place": 6,
+        "participants_count": 90,
+        "days_ago": 155
+      },
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 54,
+        "participants_count": 320,
+        "days_ago": 754
+      }
+    ],
+    "city": "Санкт-Петербург",
+    "work_format": "hybrid",
+    "years_experience": 1.7,
+    "profile_completeness": 0.53,
+    "confirmed_days_ago": 170,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 104,
+    "pseudo": "A-1103",
+    "theta": 0.7606,
+    "se": 0.404,
+    "specialization": "data",
+    "confirmed_grade": "senior",
+    "skills": [
+      "mlops",
+      "pandas",
+      "pytorch",
+      "spark",
+      "sql"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 33,
+        "participants_count": 180,
+        "days_ago": 905
+      },
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 48,
+        "participants_count": 1200,
+        "days_ago": 983
+      }
+    ],
+    "city": "Москва",
+    "work_format": "hybrid",
+    "years_experience": 4.5,
+    "profile_completeness": 0.77,
+    "confirmed_days_ago": 123,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 105,
+    "pseudo": "A-1104",
+    "theta": -1.8156,
+    "se": 0.297,
+    "specialization": "backend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "api-design",
+      "fastapi",
+      "statistics"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 21,
+        "participants_count": 1200,
+        "days_ago": 160
+      },
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 5,
+        "participants_count": 180,
+        "days_ago": 1585
+      }
+    ],
+    "city": "Казань",
+    "work_format": "remote",
+    "years_experience": 1.0,
+    "profile_completeness": 0.71,
+    "confirmed_days_ago": 27,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 106,
+    "pseudo": "A-1105",
+    "theta": 0.6602,
+    "se": 0.335,
+    "specialization": "frontend",
+    "confirmed_grade": "middle",
+    "skills": [
+      "django",
+      "javascript",
+      "nextjs",
+      "nodejs",
+      "typescript"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 12,
+        "participants_count": 640,
+        "days_ago": 1266
+      }
+    ],
+    "city": "Санкт-Петербург",
+    "work_format": "office",
+    "years_experience": 3.2,
+    "profile_completeness": 0.79,
+    "confirmed_days_ago": 228,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 107,
+    "pseudo": "A-1106",
+    "theta": 0.1005,
+    "se": 0.423,
+    "specialization": "qa",
+    "confirmed_grade": "middle",
+    "skills": [
+      "autotests",
+      "jmeter",
+      "playwright",
+      "python",
+      "sql",
+      "test-design"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 9,
+        "participants_count": 320,
+        "days_ago": 728
+      }
+    ],
+    "city": "Новосибирск",
+    "work_format": "office",
+    "years_experience": 4.1,
+    "profile_completeness": 0.76,
+    "confirmed_days_ago": 75,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 108,
+    "pseudo": "A-1107",
+    "theta": -0.2671,
+    "se": 0.286,
+    "specialization": "frontend",
+    "confirmed_grade": "middle",
+    "skills": [
+      "ci-cd",
+      "javascript",
+      "nextjs",
+      "typescript",
+      "vue"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Международный кубок ФСП",
+        "event_level": "international",
+        "place": 6,
+        "participants_count": 1200,
+        "days_ago": 253
+      },
+      {
+        "event_name": "Всероссийский чемпионат по спортивному программированию",
+        "event_level": "national",
+        "place": 24,
+        "participants_count": 640,
+        "days_ago": 982
+      }
+    ],
+    "city": "Москва",
+    "work_format": "remote",
+    "years_experience": 2.1,
+    "profile_completeness": 0.81,
+    "confirmed_days_ago": 55,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 109,
+    "pseudo": "A-1108",
+    "theta": -1.5393,
+    "se": 0.306,
+    "specialization": "mobile",
+    "confirmed_grade": "junior",
+    "skills": [
+      "android",
+      "flutter",
+      "ios",
+      "java",
+      "kotlin",
+      "sql",
+      "swift"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Региональный чемпионат ФСП",
+        "event_level": "regional",
+        "place": 26,
+        "participants_count": 180,
+        "days_ago": 742
+      }
+    ],
+    "city": "Санкт-Петербург",
+    "work_format": "remote",
+    "years_experience": 1.4,
+    "profile_completeness": 0.88,
+    "confirmed_days_ago": 187,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 110,
+    "pseudo": "A-1109",
+    "theta": 0.0749,
+    "se": 0.303,
+    "specialization": "data",
+    "confirmed_grade": "middle",
+    "skills": [
+      "clickhouse",
+      "mlops",
+      "python",
+      "pytorch"
+    ],
+    "fsp": true,
+    "achievements": [
+      {
+        "event_name": "Студенческий кубок ФСП",
+        "event_level": "student",
+        "place": 22,
+        "participants_count": 320,
+        "days_ago": 1507
+      }
+    ],
+    "city": "Воронеж",
+    "work_format": "hybrid",
+    "years_experience": 3.8,
+    "profile_completeness": 0.97,
+    "confirmed_days_ago": 289,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 111,
+    "pseudo": "A-1110",
+    "theta": 1.4231,
+    "se": 0.258,
+    "specialization": "mobile",
+    "confirmed_grade": "senior",
+    "skills": [
+      "android",
+      "flutter",
+      "java",
+      "sql",
+      "swift"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Воронеж",
+    "work_format": "remote",
+    "years_experience": 4.0,
+    "profile_completeness": 0.48,
+    "confirmed_days_ago": 80,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 112,
+    "pseudo": "A-1111",
+    "theta": -0.4131,
+    "se": 0.357,
+    "specialization": "mobile",
+    "confirmed_grade": "middle",
+    "skills": [
+      "flutter",
+      "java",
+      "kotlin",
+      "sql",
+      "swift"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Санкт-Петербург",
+    "work_format": "remote",
+    "years_experience": 3.9,
+    "profile_completeness": 0.66,
+    "confirmed_days_ago": 373,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 113,
+    "pseudo": "A-1112",
+    "theta": 0.4497,
+    "se": 0.277,
+    "specialization": "mobile",
+    "confirmed_grade": "middle",
+    "skills": [
+      "android",
+      "flutter",
+      "ios",
+      "java",
+      "kotlin",
+      "sql"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Казань",
+    "work_format": "hybrid",
+    "years_experience": 3.0,
+    "profile_completeness": 0.85,
+    "confirmed_days_ago": 248,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 114,
+    "pseudo": "A-1113",
+    "theta": 1.6979,
+    "se": 0.216,
+    "specialization": "backend",
+    "confirmed_grade": "senior",
+    "skills": [
+      "go",
+      "java",
+      "microservices",
+      "python"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Екатеринбург",
+    "work_format": "hybrid",
+    "years_experience": 5.1,
+    "profile_completeness": 1.0,
+    "confirmed_days_ago": 246,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 115,
+    "pseudo": "A-1114",
+    "theta": 0.792,
+    "se": 0.402,
+    "specialization": "mobile",
+    "confirmed_grade": "senior",
+    "skills": [
+      "ci-cd",
+      "java",
+      "sql"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Казань",
+    "work_format": "office",
+    "years_experience": 4.5,
+    "profile_completeness": 0.93,
+    "confirmed_days_ago": 185,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 116,
+    "pseudo": "A-1115",
+    "theta": -0.3229,
+    "se": 0.327,
+    "specialization": "data",
+    "confirmed_grade": "middle",
+    "skills": [
+      "python",
+      "statistics"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Воронеж",
+    "work_format": "office",
+    "years_experience": 2.8,
+    "profile_completeness": 0.83,
+    "confirmed_days_ago": 202,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 117,
+    "pseudo": "A-1116",
+    "theta": 1.5178,
+    "se": 0.289,
+    "specialization": "frontend",
+    "confirmed_grade": "senior",
+    "skills": [
+      "ci-cd",
+      "highload",
+      "nextjs",
+      "react",
+      "typescript",
+      "vue"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Екатеринбург",
+    "work_format": "remote",
+    "years_experience": 5.2,
+    "profile_completeness": 0.48,
+    "confirmed_days_ago": 311,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 118,
+    "pseudo": "A-1117",
+    "theta": -0.0497,
+    "se": 0.262,
+    "specialization": "mobile",
+    "confirmed_grade": "middle",
+    "skills": [
+      "android",
+      "flutter",
+      "ios",
+      "java",
+      "kotlin",
+      "sql",
+      "swift"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Новосибирск",
+    "work_format": "hybrid",
+    "years_experience": 2.9,
+    "profile_completeness": 0.53,
+    "confirmed_days_ago": 312,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 119,
+    "pseudo": "A-1118",
+    "theta": -0.6841,
+    "se": 0.258,
+    "specialization": "frontend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "javascript",
+      "nextjs",
+      "nodejs"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Екатеринбург",
+    "work_format": "remote",
+    "years_experience": 3.6,
+    "profile_completeness": 0.66,
+    "confirmed_days_ago": 131,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 120,
+    "pseudo": "A-1119",
+    "theta": -0.2834,
+    "se": 0.215,
+    "specialization": "devops",
+    "confirmed_grade": "middle",
+    "skills": [
+      "ansible",
+      "linux"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Казань",
+    "work_format": "hybrid",
+    "years_experience": 3.3,
+    "profile_completeness": 0.54,
+    "confirmed_days_ago": 46,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 121,
+    "pseudo": "A-1120",
+    "theta": 1.6359,
+    "se": 0.428,
+    "specialization": "backend",
+    "confirmed_grade": "senior",
+    "skills": [
+      "fastapi",
+      "python",
+      "redis",
+      "spring"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Москва",
+    "work_format": "office",
+    "years_experience": 4.3,
+    "profile_completeness": 0.56,
+    "confirmed_days_ago": 196,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 122,
+    "pseudo": "A-1121",
+    "theta": -0.8879,
+    "se": 0.33,
+    "specialization": "devops",
+    "confirmed_grade": "junior",
+    "skills": [
+      "ansible",
+      "ci-cd",
+      "kubernetes",
+      "linux",
+      "nginx",
+      "swift",
+      "terraform"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Казань",
+    "work_format": "office",
+    "years_experience": 2.8,
+    "profile_completeness": 0.98,
+    "confirmed_days_ago": 172,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 123,
+    "pseudo": "A-1122",
+    "theta": 0.1341,
+    "se": 0.233,
+    "specialization": "mobile",
+    "confirmed_grade": "middle",
+    "skills": [
+      "android",
+      "flutter",
+      "java",
+      "pytest",
+      "sql"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Москва",
+    "work_format": "hybrid",
+    "years_experience": 3.1,
+    "profile_completeness": 0.49,
+    "confirmed_days_ago": 104,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 124,
+    "pseudo": "A-1123",
+    "theta": 2.3168,
+    "se": 0.403,
+    "specialization": "frontend",
+    "confirmed_grade": "lead",
+    "skills": [
+      "nodejs",
+      "vue"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Казань",
+    "work_format": "hybrid",
+    "years_experience": 5.1,
+    "profile_completeness": 0.56,
+    "confirmed_days_ago": 258,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 125,
+    "pseudo": "A-1124",
+    "theta": -0.771,
+    "se": 0.423,
+    "specialization": "frontend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "ci-cd",
+      "nextjs",
+      "react",
+      "typescript",
+      "vue"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Казань",
+    "work_format": "remote",
+    "years_experience": 1.7,
+    "profile_completeness": 0.66,
+    "confirmed_days_ago": 299,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 126,
+    "pseudo": "A-1125",
+    "theta": 0.8953,
+    "se": 0.256,
+    "specialization": "data",
+    "confirmed_grade": "senior",
+    "skills": [
+      "airflow",
+      "clickhouse",
+      "mlops",
+      "python",
+      "pytorch",
+      "sql",
+      "statistics"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Новосибирск",
+    "work_format": "hybrid",
+    "years_experience": 5.1,
+    "profile_completeness": 0.54,
+    "confirmed_days_ago": 94,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 127,
+    "pseudo": "A-1126",
+    "theta": -0.2781,
+    "se": 0.223,
+    "specialization": "backend",
+    "confirmed_grade": "middle",
+    "skills": [
+      "django",
+      "fastapi",
+      "python"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Воронеж",
+    "work_format": "hybrid",
+    "years_experience": 3.3,
+    "profile_completeness": 0.55,
+    "confirmed_days_ago": 175,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 128,
+    "pseudo": "A-1127",
+    "theta": -0.3747,
+    "se": 0.195,
+    "specialization": "devops",
+    "confirmed_grade": "middle",
+    "skills": [
+      "ci-cd",
+      "kubernetes",
+      "linux"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Санкт-Петербург",
+    "work_format": "remote",
+    "years_experience": 4.0,
+    "profile_completeness": 0.5,
+    "confirmed_days_ago": 153,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 129,
+    "pseudo": "A-1128",
+    "theta": -0.1106,
+    "se": 0.373,
+    "specialization": "data",
+    "confirmed_grade": "middle",
+    "skills": [
+      "airflow",
+      "docker",
+      "python",
+      "spark"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Москва",
+    "work_format": "hybrid",
+    "years_experience": 3.9,
+    "profile_completeness": 0.65,
+    "confirmed_days_ago": 240,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 130,
+    "pseudo": "A-1129",
+    "theta": 3.0,
+    "se": 0.212,
+    "specialization": "frontend",
+    "confirmed_grade": "lead",
+    "skills": [
+      "autotests",
+      "ci-cd",
+      "javascript",
+      "nextjs",
+      "nodejs",
+      "react",
+      "typescript",
+      "vue"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Новосибирск",
+    "work_format": "hybrid",
+    "years_experience": 5.6,
+    "profile_completeness": 0.9,
+    "confirmed_days_ago": 389,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 131,
+    "pseudo": "A-1130",
+    "theta": -0.2617,
+    "se": 0.258,
+    "specialization": "data",
+    "confirmed_grade": "middle",
+    "skills": [
+      "airflow",
+      "clickhouse",
+      "mlops",
+      "python",
+      "pytorch",
+      "statistics",
+      "vue"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Воронеж",
+    "work_format": "remote",
+    "years_experience": 3.2,
+    "profile_completeness": 0.47,
+    "confirmed_days_ago": 163,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 132,
+    "pseudo": "A-1131",
+    "theta": 0.9601,
+    "se": 0.309,
+    "specialization": "backend",
+    "confirmed_grade": "senior",
+    "skills": [
+      "go",
+      "sql",
+      "vue"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Казань",
+    "work_format": "office",
+    "years_experience": 3.7,
+    "profile_completeness": 0.66,
+    "confirmed_days_ago": 267,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 133,
+    "pseudo": "A-1132",
+    "theta": -0.1021,
+    "se": 0.356,
+    "specialization": "devops",
+    "confirmed_grade": "middle",
+    "skills": [
+      "docker",
+      "kubernetes",
+      "linux",
+      "nginx",
+      "prometheus",
+      "terraform"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Казань",
+    "work_format": "remote",
+    "years_experience": 4.1,
+    "profile_completeness": 0.67,
+    "confirmed_days_ago": 388,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 134,
+    "pseudo": "A-1133",
+    "theta": -1.9616,
+    "se": 0.283,
+    "specialization": "devops",
+    "confirmed_grade": "junior",
+    "skills": [
+      "ci-cd",
+      "docker",
+      "prometheus",
+      "terraform"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Санкт-Петербург",
+    "work_format": "office",
+    "years_experience": 2.4,
+    "profile_completeness": 0.93,
+    "confirmed_days_ago": 156,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 135,
+    "pseudo": "A-1134",
+    "theta": 1.8532,
+    "se": 0.3,
+    "specialization": "frontend",
+    "confirmed_grade": "lead",
+    "skills": [
+      "ci-cd",
+      "javascript",
+      "vue"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Казань",
+    "work_format": "office",
+    "years_experience": 5.8,
+    "profile_completeness": 0.87,
+    "confirmed_days_ago": 3,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 136,
+    "pseudo": "A-1135",
+    "theta": 0.8704,
+    "se": 0.394,
+    "specialization": "data",
+    "confirmed_grade": "senior",
+    "skills": [
+      "airflow",
+      "mlops",
+      "python",
+      "pytorch",
+      "selenium",
+      "spark",
+      "sql",
+      "statistics"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Москва",
+    "work_format": "hybrid",
+    "years_experience": 3.3,
+    "profile_completeness": 0.9,
+    "confirmed_days_ago": 243,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 137,
+    "pseudo": "A-1136",
+    "theta": 1.7486,
+    "se": 0.44,
+    "specialization": "data",
+    "confirmed_grade": "senior",
+    "skills": [
+      "mlops",
+      "python",
+      "sql"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Казань",
+    "work_format": "office",
+    "years_experience": 4.9,
+    "profile_completeness": 0.48,
+    "confirmed_days_ago": 261,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 138,
+    "pseudo": "A-1137",
+    "theta": 0.5363,
+    "se": 0.427,
+    "specialization": "frontend",
+    "confirmed_grade": "middle",
+    "skills": [
+      "javascript",
+      "nodejs",
+      "react",
+      "typescript"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Екатеринбург",
+    "work_format": "hybrid",
+    "years_experience": 3.2,
+    "profile_completeness": 0.81,
+    "confirmed_days_ago": 280,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 139,
+    "pseudo": "A-1138",
+    "theta": 1.6755,
+    "se": 0.338,
+    "specialization": "mobile",
+    "confirmed_grade": "senior",
+    "skills": [
+      "android",
+      "flutter",
+      "ios",
+      "java",
+      "kotlin",
+      "sql",
+      "swift"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Воронеж",
+    "work_format": "remote",
+    "years_experience": 4.7,
+    "profile_completeness": 0.56,
+    "confirmed_days_ago": 179,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 140,
+    "pseudo": "A-1139",
+    "theta": -0.1196,
+    "se": 0.303,
+    "specialization": "mobile",
+    "confirmed_grade": "middle",
+    "skills": [
+      "android",
+      "ios",
+      "java",
+      "kotlin"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Казань",
+    "work_format": "office",
+    "years_experience": 3.6,
+    "profile_completeness": 0.71,
+    "confirmed_days_ago": 293,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 141,
+    "pseudo": "A-1140",
+    "theta": 1.3202,
+    "se": 0.342,
+    "specialization": "devops",
+    "confirmed_grade": "senior",
+    "skills": [
+      "docker",
+      "grafana",
+      "kubernetes",
+      "nginx",
+      "prometheus"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Новосибирск",
+    "work_format": "hybrid",
+    "years_experience": 4.3,
+    "profile_completeness": 0.86,
+    "confirmed_days_ago": 258,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 142,
+    "pseudo": "A-1141",
+    "theta": 0.2517,
+    "se": 0.272,
+    "specialization": "backend",
+    "confirmed_grade": "middle",
+    "skills": [
+      "django",
+      "sql"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Новосибирск",
+    "work_format": "hybrid",
+    "years_experience": 4.0,
+    "profile_completeness": 0.72,
+    "confirmed_days_ago": 93,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 143,
+    "pseudo": "A-1142",
+    "theta": -0.3555,
+    "se": 0.235,
+    "specialization": "data",
+    "confirmed_grade": "middle",
+    "skills": [
+      "airflow",
+      "clickhouse",
+      "linux",
+      "pandas",
+      "python",
+      "spark",
+      "sql",
+      "statistics"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Москва",
+    "work_format": "hybrid",
+    "years_experience": 3.1,
+    "profile_completeness": 0.58,
+    "confirmed_days_ago": 362,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 144,
+    "pseudo": "A-1143",
+    "theta": -0.7685,
+    "se": 0.427,
+    "specialization": "mobile",
+    "confirmed_grade": "junior",
+    "skills": [
+      "android",
+      "ci-cd",
+      "flutter",
+      "ios",
+      "java",
+      "kotlin",
+      "swift"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Санкт-Петербург",
+    "work_format": "hybrid",
+    "years_experience": 3.5,
+    "profile_completeness": 0.72,
+    "confirmed_days_ago": 201,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 145,
+    "pseudo": "A-1144",
+    "theta": 1.5912,
+    "se": 0.231,
+    "specialization": "qa",
+    "confirmed_grade": "senior",
+    "skills": [
+      "autotests",
+      "jmeter",
+      "postman",
+      "pytest",
+      "python",
+      "test-design"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Воронеж",
+    "work_format": "remote",
+    "years_experience": 4.9,
+    "profile_completeness": 0.86,
+    "confirmed_days_ago": 351,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 146,
+    "pseudo": "A-1145",
+    "theta": 0.6484,
+    "se": 0.409,
+    "specialization": "backend",
+    "confirmed_grade": "middle",
+    "skills": [
+      "docker",
+      "highload",
+      "java",
+      "kafka",
+      "python"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Новосибирск",
+    "work_format": "remote",
+    "years_experience": 3.9,
+    "profile_completeness": 0.5,
+    "confirmed_days_ago": 205,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 147,
+    "pseudo": "A-1146",
+    "theta": 1.8917,
+    "se": 0.199,
+    "specialization": "mobile",
+    "confirmed_grade": "lead",
+    "skills": [
+      "android",
+      "flutter",
+      "ios",
+      "java",
+      "kotlin",
+      "sql",
+      "swift"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Москва",
+    "work_format": "hybrid",
+    "years_experience": 6.3,
+    "profile_completeness": 0.8,
+    "confirmed_days_ago": 349,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 148,
+    "pseudo": "A-1147",
+    "theta": 2.1116,
+    "se": 0.345,
+    "specialization": "devops",
+    "confirmed_grade": "lead",
+    "skills": [
+      "ansible",
+      "ci-cd",
+      "docker",
+      "javascript",
+      "linux",
+      "terraform"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Екатеринбург",
+    "work_format": "remote",
+    "years_experience": 4.7,
+    "profile_completeness": 0.81,
+    "confirmed_days_ago": 2,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 149,
+    "pseudo": "A-1148",
+    "theta": -0.1113,
+    "se": 0.334,
+    "specialization": "backend",
+    "confirmed_grade": "middle",
+    "skills": [
+      "api-design",
+      "django",
+      "docker",
+      "highload",
+      "microservices",
+      "python"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Екатеринбург",
+    "work_format": "hybrid",
+    "years_experience": 3.9,
+    "profile_completeness": 0.82,
+    "confirmed_days_ago": 212,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 150,
+    "pseudo": "A-1149",
+    "theta": -2.3715,
+    "se": 0.424,
+    "specialization": "mobile",
+    "confirmed_grade": "junior",
+    "skills": [
+      "ios",
+      "java",
+      "kotlin",
+      "pytest",
+      "sql"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Москва",
+    "work_format": "hybrid",
+    "years_experience": 1.1,
+    "profile_completeness": 0.62,
+    "confirmed_days_ago": 120,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 151,
+    "pseudo": "A-1150",
+    "theta": 1.1472,
+    "se": 0.207,
+    "specialization": "backend",
+    "confirmed_grade": "senior",
+    "skills": [
+      "go",
+      "postgresql",
+      "spring"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Новосибирск",
+    "work_format": "office",
+    "years_experience": 5.2,
+    "profile_completeness": 0.72,
+    "confirmed_days_ago": 348,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 152,
+    "pseudo": "A-1151",
+    "theta": 1.2965,
+    "se": 0.413,
+    "specialization": "qa",
+    "confirmed_grade": "senior",
+    "skills": [
+      "autotests",
+      "clickhouse",
+      "postman",
+      "python",
+      "sql"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Воронеж",
+    "work_format": "hybrid",
+    "years_experience": 4.1,
+    "profile_completeness": 0.94,
+    "confirmed_days_ago": 343,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 153,
+    "pseudo": "A-1152",
+    "theta": -0.7545,
+    "se": 0.413,
+    "specialization": "mobile",
+    "confirmed_grade": "junior",
+    "skills": [
+      "android",
+      "flutter",
+      "ios"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Казань",
+    "work_format": "hybrid",
+    "years_experience": 2.1,
+    "profile_completeness": 0.88,
+    "confirmed_days_ago": 234,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 154,
+    "pseudo": "A-1153",
+    "theta": 1.2698,
+    "se": 0.373,
+    "specialization": "mobile",
+    "confirmed_grade": "senior",
+    "skills": [
+      "android",
+      "flutter",
+      "ios",
+      "java",
+      "kotlin",
+      "sql",
+      "swift"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Екатеринбург",
+    "work_format": "remote",
+    "years_experience": 5.6,
+    "profile_completeness": 0.49,
+    "confirmed_days_ago": 110,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 155,
+    "pseudo": "A-1154",
+    "theta": -0.1404,
+    "se": 0.432,
+    "specialization": "qa",
+    "confirmed_grade": "middle",
+    "skills": [
+      "jmeter",
+      "selenium",
+      "test-design"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Екатеринбург",
+    "work_format": "office",
+    "years_experience": 2.5,
+    "profile_completeness": 0.63,
+    "confirmed_days_ago": 108,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 156,
+    "pseudo": "A-1155",
+    "theta": -1.0031,
+    "se": 0.288,
+    "specialization": "frontend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "ci-cd",
+      "javascript",
+      "nextjs",
+      "nodejs",
+      "react",
+      "typescript",
+      "vue"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Казань",
+    "work_format": "hybrid",
+    "years_experience": 2.8,
+    "profile_completeness": 0.86,
+    "confirmed_days_ago": 252,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 157,
+    "pseudo": "A-1156",
+    "theta": -1.4805,
+    "se": 0.268,
+    "specialization": "backend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "fastapi",
+      "highload",
+      "java",
+      "kafka",
+      "spring",
+      "sql"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Москва",
+    "work_format": "remote",
+    "years_experience": 2.1,
+    "profile_completeness": 0.46,
+    "confirmed_days_ago": 263,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 158,
+    "pseudo": "A-1157",
+    "theta": -0.7387,
+    "se": 0.191,
+    "specialization": "mobile",
+    "confirmed_grade": "junior",
+    "skills": [
+      "android",
+      "flutter",
+      "sql"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Санкт-Петербург",
+    "work_format": "office",
+    "years_experience": 2.9,
+    "profile_completeness": 0.77,
+    "confirmed_days_ago": 245,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 159,
+    "pseudo": "A-1158",
+    "theta": 0.9784,
+    "se": 0.35,
+    "specialization": "devops",
+    "confirmed_grade": "senior",
+    "skills": [
+      "ansible",
+      "docker",
+      "grafana",
+      "linux",
+      "prometheus"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Москва",
+    "work_format": "remote",
+    "years_experience": 3.8,
+    "profile_completeness": 0.93,
+    "confirmed_days_ago": 13,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 160,
+    "pseudo": "A-1159",
+    "theta": -0.3088,
+    "se": 0.251,
+    "specialization": "qa",
+    "confirmed_grade": "middle",
+    "skills": [
+      "jmeter",
+      "playwright",
+      "postman",
+      "pytest",
+      "test-design"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Новосибирск",
+    "work_format": "remote",
+    "years_experience": 2.4,
+    "profile_completeness": 0.56,
+    "confirmed_days_ago": 50,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 161,
+    "pseudo": "A-1160",
+    "theta": 0.0954,
+    "se": 0.415,
+    "specialization": "data",
+    "confirmed_grade": "middle",
+    "skills": [
+      "mlops",
+      "python",
+      "spark",
+      "statistics"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Казань",
+    "work_format": "hybrid",
+    "years_experience": 2.7,
+    "profile_completeness": 0.66,
+    "confirmed_days_ago": 133,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 162,
+    "pseudo": "A-1161",
+    "theta": 0.3623,
+    "se": 0.227,
+    "specialization": "qa",
+    "confirmed_grade": "middle",
+    "skills": [
+      "pytest",
+      "python",
+      "selenium"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Казань",
+    "work_format": "hybrid",
+    "years_experience": 4.7,
+    "profile_completeness": 0.5,
+    "confirmed_days_ago": 138,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 163,
+    "pseudo": "A-1162",
+    "theta": -0.1756,
+    "se": 0.205,
+    "specialization": "qa",
+    "confirmed_grade": "middle",
+    "skills": [
+      "autotests",
+      "grafana",
+      "postman",
+      "pytest",
+      "python",
+      "sql",
+      "test-design"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Москва",
+    "work_format": "remote",
+    "years_experience": 2.8,
+    "profile_completeness": 0.93,
+    "confirmed_days_ago": 239,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 164,
+    "pseudo": "A-1163",
+    "theta": 0.4444,
+    "se": 0.415,
+    "specialization": "qa",
+    "confirmed_grade": "middle",
+    "skills": [
+      "autotests",
+      "playwright",
+      "pytest",
+      "python",
+      "selenium",
+      "sql"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Казань",
+    "work_format": "remote",
+    "years_experience": 4.8,
+    "profile_completeness": 0.47,
+    "confirmed_days_ago": 124,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 165,
+    "pseudo": "A-1164",
+    "theta": 1.1868,
+    "se": 0.31,
+    "specialization": "frontend",
+    "confirmed_grade": "senior",
+    "skills": [
+      "ci-cd",
+      "javascript",
+      "nextjs",
+      "nodejs",
+      "typescript",
+      "vue"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Казань",
+    "work_format": "hybrid",
+    "years_experience": 4.5,
+    "profile_completeness": 0.86,
+    "confirmed_days_ago": 295,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 166,
+    "pseudo": "A-1165",
+    "theta": 0.8707,
+    "se": 0.371,
+    "specialization": "qa",
+    "confirmed_grade": "senior",
+    "skills": [
+      "autotests",
+      "python",
+      "selenium",
+      "sql",
+      "test-design"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Воронеж",
+    "work_format": "office",
+    "years_experience": 3.4,
+    "profile_completeness": 0.57,
+    "confirmed_days_ago": 28,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 167,
+    "pseudo": "A-1166",
+    "theta": 0.6096,
+    "se": 0.385,
+    "specialization": "qa",
+    "confirmed_grade": "middle",
+    "skills": [
+      "autotests",
+      "jmeter",
+      "playwright",
+      "pytest",
+      "python",
+      "sql",
+      "test-design"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Москва",
+    "work_format": "remote",
+    "years_experience": 3.4,
+    "profile_completeness": 0.49,
+    "confirmed_days_ago": 190,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 168,
+    "pseudo": "A-1167",
+    "theta": -0.5498,
+    "se": 0.3,
+    "specialization": "qa",
+    "confirmed_grade": "junior",
+    "skills": [
+      "jmeter",
+      "pytest",
+      "test-design"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Москва",
+    "work_format": "hybrid",
+    "years_experience": 2.1,
+    "profile_completeness": 0.45,
+    "confirmed_days_ago": 383,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 169,
+    "pseudo": "A-1168",
+    "theta": -0.7541,
+    "se": 0.283,
+    "specialization": "mobile",
+    "confirmed_grade": "junior",
+    "skills": [
+      "ios",
+      "java",
+      "kotlin"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Москва",
+    "work_format": "office",
+    "years_experience": 1.7,
+    "profile_completeness": 0.63,
+    "confirmed_days_ago": 315,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 170,
+    "pseudo": "A-1169",
+    "theta": 1.5685,
+    "se": 0.326,
+    "specialization": "qa",
+    "confirmed_grade": "senior",
+    "skills": [
+      "autotests",
+      "pytest",
+      "python",
+      "sql"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Казань",
+    "work_format": "office",
+    "years_experience": 4.2,
+    "profile_completeness": 0.5,
+    "confirmed_days_ago": 359,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 171,
+    "pseudo": "A-1170",
+    "theta": -0.4245,
+    "se": 0.293,
+    "specialization": "data",
+    "confirmed_grade": "middle",
+    "skills": [
+      "airflow",
+      "clickhouse",
+      "mlops",
+      "pandas",
+      "python",
+      "spark",
+      "statistics"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Москва",
+    "work_format": "remote",
+    "years_experience": 3.1,
+    "profile_completeness": 0.8,
+    "confirmed_days_ago": 349,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 172,
+    "pseudo": "A-1171",
+    "theta": -0.5593,
+    "se": 0.324,
+    "specialization": "backend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "docker",
+      "kafka",
+      "microservices"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Москва",
+    "work_format": "hybrid",
+    "years_experience": 1.9,
+    "profile_completeness": 0.57,
+    "confirmed_days_ago": 303,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 173,
+    "pseudo": "A-1172",
+    "theta": 2.393,
+    "se": 0.314,
+    "specialization": "qa",
+    "confirmed_grade": "lead",
+    "skills": [
+      "jmeter",
+      "pytest",
+      "sql",
+      "test-design",
+      "vue"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Казань",
+    "work_format": "remote",
+    "years_experience": 5.3,
+    "profile_completeness": 0.54,
+    "confirmed_days_ago": 417,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 174,
+    "pseudo": "A-1173",
+    "theta": 1.9215,
+    "se": 0.262,
+    "specialization": "qa",
+    "confirmed_grade": "lead",
+    "skills": [
+      "autotests",
+      "playwright",
+      "postman",
+      "pytest",
+      "python",
+      "test-design"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Москва",
+    "work_format": "remote",
+    "years_experience": 5.4,
+    "profile_completeness": 0.96,
+    "confirmed_days_ago": 165,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 175,
+    "pseudo": "A-1174",
+    "theta": -0.6881,
+    "se": 0.248,
+    "specialization": "mobile",
+    "confirmed_grade": "junior",
+    "skills": [
+      "flutter",
+      "ios",
+      "java",
+      "sql",
+      "swift"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Москва",
+    "work_format": "hybrid",
+    "years_experience": 3.3,
+    "profile_completeness": 0.89,
+    "confirmed_days_ago": 358,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 176,
+    "pseudo": "A-1175",
+    "theta": -0.0349,
+    "se": 0.396,
+    "specialization": "frontend",
+    "confirmed_grade": "middle",
+    "skills": [
+      "ci-cd",
+      "nodejs",
+      "typescript",
+      "vue"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Новосибирск",
+    "work_format": "remote",
+    "years_experience": 3.7,
+    "profile_completeness": 0.67,
+    "confirmed_days_ago": 388,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 177,
+    "pseudo": "A-1176",
+    "theta": -1.2042,
+    "se": 0.385,
+    "specialization": "backend",
+    "confirmed_grade": "junior",
+    "skills": [
+      "docker",
+      "fastapi",
+      "highload",
+      "java",
+      "python",
+      "sql"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Санкт-Петербург",
+    "work_format": "remote",
+    "years_experience": 2.8,
+    "profile_completeness": 0.57,
+    "confirmed_days_ago": 300,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 178,
+    "pseudo": "A-1177",
+    "theta": 0.872,
+    "se": 0.229,
+    "specialization": "mobile",
+    "confirmed_grade": "senior",
+    "skills": [
+      "android",
+      "ci-cd",
+      "flutter",
+      "ios",
+      "java",
+      "kotlin",
+      "sql",
+      "swift"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Екатеринбург",
+    "work_format": "office",
+    "years_experience": 5.2,
+    "profile_completeness": 0.64,
+    "confirmed_days_ago": 331,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 179,
+    "pseudo": "A-1178",
+    "theta": 2.178,
+    "se": 0.325,
+    "specialization": "qa",
+    "confirmed_grade": "lead",
+    "skills": [
+      "ci-cd",
+      "jmeter",
+      "selenium",
+      "sql",
+      "test-design"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Воронеж",
+    "work_format": "remote",
+    "years_experience": 5.3,
+    "profile_completeness": 0.7,
+    "confirmed_days_ago": 226,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 180,
+    "pseudo": "A-1179",
+    "theta": 1.6048,
+    "se": 0.293,
+    "specialization": "frontend",
+    "confirmed_grade": "senior",
+    "skills": [
+      "ci-cd",
+      "javascript",
+      "nextjs",
+      "nodejs",
+      "react",
+      "typescript",
+      "vue"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Москва",
+    "work_format": "remote",
+    "years_experience": 4.9,
+    "profile_completeness": 0.5,
+    "confirmed_days_ago": 340,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 181,
+    "pseudo": "A-1180",
+    "theta": -0.2804,
+    "se": 0.428,
+    "specialization": "devops",
+    "confirmed_grade": "middle",
+    "skills": [
+      "grafana",
+      "nginx",
+      "prometheus",
+      "terraform"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Казань",
+    "work_format": "hybrid",
+    "years_experience": 3.3,
+    "profile_completeness": 0.49,
+    "confirmed_days_ago": 37,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 182,
+    "pseudo": "A-1181",
+    "theta": -1.4641,
+    "se": 0.354,
+    "specialization": "mobile",
+    "confirmed_grade": "junior",
+    "skills": [
+      "android",
+      "flutter",
+      "ios",
+      "java",
+      "kotlin",
+      "sql",
+      "swift"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Новосибирск",
+    "work_format": "remote",
+    "years_experience": 1.1,
+    "profile_completeness": 0.54,
+    "confirmed_days_ago": 195,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 183,
+    "pseudo": "A-1182",
+    "theta": -0.4717,
+    "se": 0.239,
+    "specialization": "mobile",
+    "confirmed_grade": "middle",
+    "skills": [
+      "android",
+      "flutter",
+      "ios",
+      "sql"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Екатеринбург",
+    "work_format": "office",
+    "years_experience": 3.3,
+    "profile_completeness": 0.77,
+    "confirmed_days_ago": 280,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 184,
+    "pseudo": "A-1183",
+    "theta": 1.4461,
+    "se": 0.272,
+    "specialization": "frontend",
+    "confirmed_grade": "senior",
+    "skills": [
+      "ci-cd",
+      "javascript",
+      "nextjs",
+      "react",
+      "typescript"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Казань",
+    "work_format": "remote",
+    "years_experience": 4.8,
+    "profile_completeness": 0.6,
+    "confirmed_days_ago": 206,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 185,
+    "pseudo": "A-1184",
+    "theta": 0.2373,
+    "se": 0.414,
+    "specialization": "devops",
+    "confirmed_grade": "middle",
+    "skills": [
+      "ansible",
+      "ci-cd",
+      "docker",
+      "kubernetes",
+      "linux",
+      "nginx"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Новосибирск",
+    "work_format": "office",
+    "years_experience": 4.0,
+    "profile_completeness": 0.59,
+    "confirmed_days_ago": 17,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 186,
+    "pseudo": "A-1185",
+    "theta": -0.5882,
+    "se": 0.438,
+    "specialization": "devops",
+    "confirmed_grade": "junior",
+    "skills": [
+      "kubernetes",
+      "prometheus"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Новосибирск",
+    "work_format": "remote",
+    "years_experience": 2.5,
+    "profile_completeness": 0.53,
+    "confirmed_days_ago": 79,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 187,
+    "pseudo": "A-1186",
+    "theta": -0.1999,
+    "se": 0.376,
+    "specialization": "devops",
+    "confirmed_grade": "middle",
+    "skills": [
+      "ansible",
+      "docker",
+      "grafana",
+      "kubernetes",
+      "linux",
+      "nginx",
+      "terraform"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Новосибирск",
+    "work_format": "office",
+    "years_experience": 3.5,
+    "profile_completeness": 0.77,
+    "confirmed_days_ago": 294,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 188,
+    "pseudo": "A-1187",
+    "theta": 1.0095,
+    "se": 0.415,
+    "specialization": "mobile",
+    "confirmed_grade": "senior",
+    "skills": [
+      "android",
+      "flutter",
+      "java",
+      "kotlin"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Екатеринбург",
+    "work_format": "hybrid",
+    "years_experience": 4.6,
+    "profile_completeness": 0.92,
+    "confirmed_days_ago": 75,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 189,
+    "pseudo": "A-1188",
+    "theta": 0.1627,
+    "se": 0.367,
+    "specialization": "backend",
+    "confirmed_grade": "middle",
+    "skills": [
+      "api-design",
+      "docker",
+      "fastapi",
+      "python",
+      "spring"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Москва",
+    "work_format": "office",
+    "years_experience": 4.1,
+    "profile_completeness": 0.97,
+    "confirmed_days_ago": 369,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 190,
+    "pseudo": "A-1189",
+    "theta": -0.8651,
+    "se": 0.309,
+    "specialization": "mobile",
+    "confirmed_grade": "junior",
+    "skills": [
+      "android",
+      "flutter",
+      "ios",
+      "kotlin",
+      "sql",
+      "swift"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Воронеж",
+    "work_format": "remote",
+    "years_experience": 2.4,
+    "profile_completeness": 0.71,
+    "confirmed_days_ago": 51,
+    "spot_tasks_answered": 1
+  },
+  {
+    "id": 191,
+    "pseudo": "A-1190",
+    "theta": 0.3308,
+    "se": 0.225,
+    "specialization": "mobile",
+    "confirmed_grade": "middle",
+    "skills": [
+      "flutter",
+      "ios",
+      "java",
+      "kotlin",
+      "sql"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Воронеж",
+    "work_format": "remote",
+    "years_experience": 4.4,
+    "profile_completeness": 0.62,
+    "confirmed_days_ago": 303,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 192,
+    "pseudo": "A-1191",
+    "theta": 1.8792,
+    "se": 0.193,
+    "specialization": "mobile",
+    "confirmed_grade": "lead",
+    "skills": [
+      "android",
+      "flutter",
+      "ios",
+      "kotlin",
+      "sql",
+      "swift"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Воронеж",
+    "work_format": "remote",
+    "years_experience": 5.8,
+    "profile_completeness": 0.53,
+    "confirmed_days_ago": 18,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 193,
+    "pseudo": "A-1192",
+    "theta": -1.0283,
+    "se": 0.406,
+    "specialization": "data",
+    "confirmed_grade": "junior",
+    "skills": [
+      "airflow",
+      "api-design",
+      "pandas",
+      "sql"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Новосибирск",
+    "work_format": "hybrid",
+    "years_experience": 2.9,
+    "profile_completeness": 0.81,
+    "confirmed_days_ago": 351,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 194,
+    "pseudo": "A-1193",
+    "theta": 1.2369,
+    "se": 0.32,
+    "specialization": "backend",
+    "confirmed_grade": "senior",
+    "skills": [
+      "python",
+      "spring"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Новосибирск",
+    "work_format": "office",
+    "years_experience": 5.0,
+    "profile_completeness": 0.87,
+    "confirmed_days_ago": 146,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 195,
+    "pseudo": "A-1194",
+    "theta": -0.1353,
+    "se": 0.281,
+    "specialization": "mobile",
+    "confirmed_grade": "middle",
+    "skills": [
+      "android",
+      "flutter",
+      "ios",
+      "java",
+      "kotlin",
+      "nginx",
+      "sql",
+      "swift"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Воронеж",
+    "work_format": "office",
+    "years_experience": 4.2,
+    "profile_completeness": 0.82,
+    "confirmed_days_ago": 379,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 196,
+    "pseudo": "A-1195",
+    "theta": 2.4555,
+    "se": 0.228,
+    "specialization": "qa",
+    "confirmed_grade": "lead",
+    "skills": [
+      "jmeter",
+      "playwright",
+      "selenium"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Москва",
+    "work_format": "office",
+    "years_experience": 6.8,
+    "profile_completeness": 0.52,
+    "confirmed_days_ago": 180,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 197,
+    "pseudo": "A-1196",
+    "theta": 2.4697,
+    "se": 0.214,
+    "specialization": "qa",
+    "confirmed_grade": "lead",
+    "skills": [
+      "sql",
+      "statistics",
+      "test-design"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Екатеринбург",
+    "work_format": "office",
+    "years_experience": 6.2,
+    "profile_completeness": 0.77,
+    "confirmed_days_ago": 135,
+    "spot_tasks_answered": 3
+  },
+  {
+    "id": 198,
+    "pseudo": "A-1197",
+    "theta": -1.4863,
+    "se": 0.282,
+    "specialization": "mobile",
+    "confirmed_grade": "junior",
+    "skills": [
+      "flutter",
+      "ios",
+      "java",
+      "kotlin",
+      "swift"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Новосибирск",
+    "work_format": "office",
+    "years_experience": 1.8,
+    "profile_completeness": 0.74,
+    "confirmed_days_ago": 319,
+    "spot_tasks_answered": 2
+  },
+  {
+    "id": 199,
+    "pseudo": "A-1198",
+    "theta": 0.1265,
+    "se": 0.199,
+    "specialization": "data",
+    "confirmed_grade": "middle",
+    "skills": [
+      "airflow",
+      "clickhouse",
+      "pandas",
+      "pytorch",
+      "statistics"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Москва",
+    "work_format": "remote",
+    "years_experience": 3.5,
+    "profile_completeness": 0.84,
+    "confirmed_days_ago": 399,
+    "spot_tasks_answered": 0
+  },
+  {
+    "id": 200,
+    "pseudo": "A-1199",
+    "theta": -2.2417,
+    "se": 0.253,
+    "specialization": "devops",
+    "confirmed_grade": "junior",
+    "skills": [
+      "kubernetes",
+      "linux",
+      "python"
+    ],
+    "fsp": false,
+    "achievements": [],
+    "city": "Новосибирск",
+    "work_format": "hybrid",
+    "years_experience": 0.3,
+    "profile_completeness": 0.54,
+    "confirmed_days_ago": 159,
+    "spot_tasks_answered": 1
+  }
+]

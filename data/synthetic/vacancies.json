@@ -1,0 +1,447 @@
+[
+  {
+    "id": 1,
+    "title": "backend senior #1",
+    "specialization": "backend",
+    "grade": "senior",
+    "skills": [
+      "postgresql",
+      "spring"
+    ],
+    "city": "",
+    "work_format": "remote",
+    "require_fsp": true,
+    "description": "Нужен специалист (backend), уровень senior. Стек: postgresql, spring."
+  },
+  {
+    "id": 2,
+    "title": "frontend senior #2",
+    "specialization": "frontend",
+    "grade": "senior",
+    "skills": [
+      "nodejs",
+      "typescript",
+      "nextjs"
+    ],
+    "city": "",
+    "work_format": "remote",
+    "require_fsp": false,
+    "description": "Нужен специалист (frontend), уровень senior. Стек: nodejs, typescript, nextjs."
+  },
+  {
+    "id": 3,
+    "title": "mobile middle #3",
+    "specialization": "mobile",
+    "grade": "middle",
+    "skills": [
+      "ios",
+      "flutter"
+    ],
+    "city": "",
+    "work_format": "hybrid",
+    "require_fsp": false,
+    "description": "Нужен специалист (mobile), уровень middle. Стек: ios, flutter."
+  },
+  {
+    "id": 4,
+    "title": "data junior #4",
+    "specialization": "data",
+    "grade": "junior",
+    "skills": [
+      "airflow",
+      "mlops",
+      "sql",
+      "pandas"
+    ],
+    "city": "",
+    "work_format": "remote",
+    "require_fsp": false,
+    "description": "Нужен специалист (data), уровень junior. Стек: airflow, mlops, sql, pandas."
+  },
+  {
+    "id": 5,
+    "title": "devops middle #5",
+    "specialization": "devops",
+    "grade": "middle",
+    "skills": [
+      "ansible",
+      "terraform",
+      "grafana",
+      "linux"
+    ],
+    "city": "",
+    "work_format": "",
+    "require_fsp": true,
+    "description": "Нужен специалист (devops), уровень middle. Стек: ansible, terraform, grafana, linux."
+  },
+  {
+    "id": 6,
+    "title": "qa middle #6",
+    "specialization": "qa",
+    "grade": "middle",
+    "skills": [
+      "jmeter",
+      "sql"
+    ],
+    "city": "Москва",
+    "work_format": "",
+    "require_fsp": false,
+    "description": "Нужен специалист (qa), уровень middle. Стек: jmeter, sql."
+  },
+  {
+    "id": 7,
+    "title": "backend lead #7",
+    "specialization": "backend",
+    "grade": "lead",
+    "skills": [
+      "microservices",
+      "docker",
+      "kafka"
+    ],
+    "city": "Москва",
+    "work_format": "remote",
+    "require_fsp": false,
+    "description": "Нужен специалист (backend), уровень lead. Стек: microservices, docker, kafka."
+  },
+  {
+    "id": 8,
+    "title": "frontend junior #8",
+    "specialization": "frontend",
+    "grade": "junior",
+    "skills": [
+      "typescript",
+      "javascript",
+      "ci-cd",
+      "nodejs"
+    ],
+    "city": "",
+    "work_format": "hybrid",
+    "require_fsp": false,
+    "description": "Нужен специалист (frontend), уровень junior. Стек: typescript, javascript, ci-cd, nodejs."
+  },
+  {
+    "id": 9,
+    "title": "mobile lead #9",
+    "specialization": "mobile",
+    "grade": "lead",
+    "skills": [
+      "swift",
+      "kotlin",
+      "android",
+      "java"
+    ],
+    "city": "Новосибирск",
+    "work_format": "hybrid",
+    "require_fsp": false,
+    "description": "Нужен специалист (mobile), уровень lead. Стек: swift, kotlin, android, java."
+  },
+  {
+    "id": 10,
+    "title": "data middle #10",
+    "specialization": "data",
+    "grade": "middle",
+    "skills": [
+      "clickhouse",
+      "sql"
+    ],
+    "city": "",
+    "work_format": "remote",
+    "require_fsp": false,
+    "description": "Нужен специалист (data), уровень middle. Стек: clickhouse, sql."
+  },
+  {
+    "id": 11,
+    "title": "devops middle #11",
+    "specialization": "devops",
+    "grade": "middle",
+    "skills": [
+      "prometheus",
+      "terraform",
+      "grafana"
+    ],
+    "city": "",
+    "work_format": "office",
+    "require_fsp": false,
+    "description": "Нужен специалист (devops), уровень middle. Стек: prometheus, terraform, grafana."
+  },
+  {
+    "id": 12,
+    "title": "qa junior #12",
+    "specialization": "qa",
+    "grade": "junior",
+    "skills": [
+      "test-design",
+      "autotests"
+    ],
+    "city": "",
+    "work_format": "office",
+    "require_fsp": false,
+    "description": "Нужен специалист (qa), уровень junior. Стек: test-design, autotests."
+  },
+  {
+    "id": 13,
+    "title": "backend senior #13",
+    "specialization": "backend",
+    "grade": "senior",
+    "skills": [
+      "java",
+      "docker"
+    ],
+    "city": "",
+    "work_format": "remote",
+    "require_fsp": false,
+    "description": "Нужен специалист (backend), уровень senior. Стек: java, docker."
+  },
+  {
+    "id": 14,
+    "title": "frontend middle #14",
+    "specialization": "frontend",
+    "grade": "middle",
+    "skills": [
+      "ci-cd",
+      "nodejs",
+      "typescript"
+    ],
+    "city": "Воронеж",
+    "work_format": "office",
+    "require_fsp": false,
+    "description": "Нужен специалист (frontend), уровень middle. Стек: ci-cd, nodejs, typescript."
+  },
+  {
+    "id": 15,
+    "title": "mobile middle #15",
+    "specialization": "mobile",
+    "grade": "middle",
+    "skills": [
+      "flutter",
+      "sql",
+      "android",
+      "kotlin"
+    ],
+    "city": "Екатеринбург",
+    "work_format": "office",
+    "require_fsp": false,
+    "description": "Нужен специалист (mobile), уровень middle. Стек: flutter, sql, android, kotlin."
+  },
+  {
+    "id": 16,
+    "title": "data junior #16",
+    "specialization": "data",
+    "grade": "junior",
+    "skills": [
+      "spark",
+      "pytorch",
+      "mlops"
+    ],
+    "city": "Санкт-Петербург",
+    "work_format": "",
+    "require_fsp": false,
+    "description": "Нужен специалист (data), уровень junior. Стек: spark, pytorch, mlops."
+  },
+  {
+    "id": 17,
+    "title": "devops lead #17",
+    "specialization": "devops",
+    "grade": "lead",
+    "skills": [
+      "ansible",
+      "nginx",
+      "grafana"
+    ],
+    "city": "Санкт-Петербург",
+    "work_format": "",
+    "require_fsp": false,
+    "description": "Нужен специалист (devops), уровень lead. Стек: ansible, nginx, grafana."
+  },
+  {
+    "id": 18,
+    "title": "qa senior #18",
+    "specialization": "qa",
+    "grade": "senior",
+    "skills": [
+      "pytest",
+      "selenium"
+    ],
+    "city": "Новосибирск",
+    "work_format": "hybrid",
+    "require_fsp": false,
+    "description": "Нужен специалист (qa), уровень senior. Стек: pytest, selenium."
+  },
+  {
+    "id": 19,
+    "title": "backend middle #19",
+    "specialization": "backend",
+    "grade": "middle",
+    "skills": [
+      "python",
+      "postgresql"
+    ],
+    "city": "Екатеринбург",
+    "work_format": "",
+    "require_fsp": false,
+    "description": "Нужен специалист (backend), уровень middle. Стек: python, postgresql."
+  },
+  {
+    "id": 20,
+    "title": "frontend middle #20",
+    "specialization": "frontend",
+    "grade": "middle",
+    "skills": [
+      "react",
+      "nodejs"
+    ],
+    "city": "",
+    "work_format": "remote",
+    "require_fsp": false,
+    "description": "Нужен специалист (frontend), уровень middle. Стек: react, nodejs."
+  },
+  {
+    "id": 21,
+    "title": "mobile lead #21",
+    "specialization": "mobile",
+    "grade": "lead",
+    "skills": [
+      "java",
+      "sql"
+    ],
+    "city": "Москва",
+    "work_format": "office",
+    "require_fsp": false,
+    "description": "Нужен специалист (mobile), уровень lead. Стек: java, sql."
+  },
+  {
+    "id": 22,
+    "title": "data senior #22",
+    "specialization": "data",
+    "grade": "senior",
+    "skills": [
+      "sql",
+      "airflow",
+      "pytorch"
+    ],
+    "city": "",
+    "work_format": "",
+    "require_fsp": false,
+    "description": "Нужен специалист (data), уровень senior. Стек: sql, airflow, pytorch."
+  },
+  {
+    "id": 23,
+    "title": "devops lead #23",
+    "specialization": "devops",
+    "grade": "lead",
+    "skills": [
+      "nginx",
+      "kubernetes",
+      "docker"
+    ],
+    "city": "Санкт-Петербург",
+    "work_format": "",
+    "require_fsp": false,
+    "description": "Нужен специалист (devops), уровень lead. Стек: nginx, kubernetes, docker."
+  },
+  {
+    "id": 24,
+    "title": "qa lead #24",
+    "specialization": "qa",
+    "grade": "lead",
+    "skills": [
+      "pytest",
+      "autotests",
+      "python",
+      "playwright"
+    ],
+    "city": "Санкт-Петербург",
+    "work_format": "",
+    "require_fsp": false,
+    "description": "Нужен специалист (qa), уровень lead. Стек: pytest, autotests, python, playwright."
+  },
+  {
+    "id": 25,
+    "title": "backend senior #25",
+    "specialization": "backend",
+    "grade": "senior",
+    "skills": [
+      "redis",
+      "docker",
+      "api-design"
+    ],
+    "city": "Екатеринбург",
+    "work_format": "",
+    "require_fsp": false,
+    "description": "Нужен специалист (backend), уровень senior. Стек: redis, docker, api-design."
+  },
+  {
+    "id": 26,
+    "title": "frontend senior #26",
+    "specialization": "frontend",
+    "grade": "senior",
+    "skills": [
+      "javascript",
+      "nextjs",
+      "react",
+      "typescript"
+    ],
+    "city": "",
+    "work_format": "hybrid",
+    "require_fsp": false,
+    "description": "Нужен специалист (frontend), уровень senior. Стек: javascript, nextjs, react, typescript."
+  },
+  {
+    "id": 27,
+    "title": "mobile middle #27",
+    "specialization": "mobile",
+    "grade": "middle",
+    "skills": [
+      "ios",
+      "flutter",
+      "kotlin"
+    ],
+    "city": "",
+    "work_format": "hybrid",
+    "require_fsp": false,
+    "description": "Нужен специалист (mobile), уровень middle. Стек: ios, flutter, kotlin."
+  },
+  {
+    "id": 28,
+    "title": "data junior #28",
+    "specialization": "data",
+    "grade": "junior",
+    "skills": [
+      "pytorch",
+      "airflow"
+    ],
+    "city": "Москва",
+    "work_format": "",
+    "require_fsp": false,
+    "description": "Нужен специалист (data), уровень junior. Стек: pytorch, airflow."
+  },
+  {
+    "id": 29,
+    "title": "devops middle #29",
+    "specialization": "devops",
+    "grade": "middle",
+    "skills": [
+      "ci-cd",
+      "linux"
+    ],
+    "city": "",
+    "work_format": "office",
+    "require_fsp": false,
+    "description": "Нужен специалист (devops), уровень middle. Стек: ci-cd, linux."
+  },
+  {
+    "id": 30,
+    "title": "qa junior #30",
+    "specialization": "qa",
+    "grade": "junior",
+    "skills": [
+      "autotests",
+      "selenium",
+      "postman"
+    ],
+    "city": "",
+    "work_format": "",
+    "require_fsp": false,
+    "description": "Нужен специалист (qa), уровень junior. Стек: autotests, selenium, postman."
+  }
+]

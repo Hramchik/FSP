@@ -1,0 +1,13 @@
+{
+  "n_candidates": 200,
+  "test_retest_correlation": 0.943549374713958,
+  "grade_agreement": 0.82,
+  "rmse_theta": 0.28840083608160516,
+  "mean_items_run1": 11.43,
+  "mean_items_run2": 11.18,
+  "goals": {
+    "correlation": 0.85,
+    "grade_agreement": 0.8,
+    "rmse": 0.35
+  }
+}
